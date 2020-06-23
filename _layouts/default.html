@@ -16,6 +16,8 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">Visualise</br>Data</br>Development</br></a></h1>
         
+        {% include navigation.html %}
+        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
