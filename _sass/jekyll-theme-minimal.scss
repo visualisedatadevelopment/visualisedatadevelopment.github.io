@@ -106,9 +106,8 @@ img {
 
 header {
   width:1000px;
-  float:top;
-  position:fixed;
-  top: 0;
+  position:static;
+  top: 20;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -173,8 +172,8 @@ strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  width:1000px;
+  float:none;
   padding-bottom:50px;
 }
 
