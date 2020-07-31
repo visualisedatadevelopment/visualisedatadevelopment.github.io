@@ -3,7 +3,8 @@
 ---
 
 ## Site under construction!
-![Chart](https://github.com/visualisedatadevelopment/visualisedatadevelopment.github.io/blob/master/geosent_chart.png)
+![Chart](geosent_chart.png)
+
 
 
 
@@ -13,5 +14,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njc4NTQwNiwtMTEwODU2Nzg3MF19
+eyJoaXN0b3J5IjpbLTEwNDQ5NzM5OTQsLTExMDg1Njc4NzBdfQ
+==
 -->
