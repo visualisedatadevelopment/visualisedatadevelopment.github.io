@@ -12,7 +12,7 @@ It is important to note here that the dataset is a sample of the tweets that use
 
 The charts below how the tweets were distributed over time and space.
 
-![Plot of tweet frequency over time](https://github.com/visualisedatadevelopment/visualisedatadevelopment.github.io/blob/master/plots/tweet_frequency_over_time.png)
+![Plot of tweet frequency over time](plots/tweet_frequency_over_time.png)
 
 
 
@@ -22,5 +22,5 @@ The charts below how the tweets were distributed over time and space.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ5MjY2OTNdfQ==
+eyJoaXN0b3J5IjpbLTM0MjM0MjU0NSwtMTYxNDkyNjY5M119
 -->
