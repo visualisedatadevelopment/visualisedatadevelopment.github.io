@@ -1,4 +1,4 @@
 ---
+layout: default
 ---
-
-## Site under construction
+## Site under construction!
