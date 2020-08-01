@@ -19,7 +19,7 @@ Another point to note, before we delve into the analysis, is that Twitter does n
 ___
 <a name = "fn1"><sup>1</sup> <a href = "https://www.britishelectionstudy.com/data-objects/panel-study-data/" target = "_blank">Fieldhouse et al., 2020, British Election Study Internet Panel</a></a>
 
-<a name = "fn2"><sup>2</sup> <a href = "https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114" target = "_blank">Fieldhouse et al., 2020, British Election Study Internet PanelGuerrina, Roberta and Murphy, Hailey (2016) Strategic Silences in the Brexit Debate: Gender, Marginality and Governance, Journal of Contemporary European Research, 12 (4).</a></a>
+<a name = "fn2"><sup>2</sup> <a href = "https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114" target = "_blank">Guerrina, Roberta and Murphy, Hailey (2016) Strategic Silences in the Brexit Debate: Gender, Marginality and Governance, Journal of Contemporary European Research, 12 (4).</a></a>
 
 
 
@@ -27,9 +27,9 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk3MTk2NTgsMTcxNzY1ODMwOSwxOT
-k0Njc1ODMxLC01MjkxMDU2NjAsMTA2MTE4NDAwMyw4NjEzOTE1
-OTQsLTUzMDQ2NjY4NSwtMzI0NjY0MTQsMTg2ODAxMTc4MywzOT
-AwNDA0ODMsLTM0MTk1OTU5LC0yMDE5NzIzMTQwLDE1MDc5MTIz
-ODUsNDc1Mzc4NTIwLDQ1MzEwMTg5XX0=
+eyJoaXN0b3J5IjpbMTE4ODE4NzkzNiwxNzE3NjU4MzA5LDE5OT
+Q2NzU4MzEsLTUyOTEwNTY2MCwxMDYxMTg0MDAzLDg2MTM5MTU5
+NCwtNTMwNDY2Njg1LC0zMjQ2NjQxNCwxODY4MDExNzgzLDM5MD
+A0MDQ4MywtMzQxOTU5NTksLTIwMTk3MjMxNDAsMTUwNzkxMjM4
+NSw0NzUzNzg1MjAsNDUzMTAxODldfQ==
 -->
