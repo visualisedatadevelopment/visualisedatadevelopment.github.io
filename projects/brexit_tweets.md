@@ -10,7 +10,7 @@ The data we are going to be analysing consists of 157,512 tweets that used the h
 
 The chart below how the tweets were distributed over the week.
 
-![Plot of tweet frequency over time](assets/images/plots/tweet_frequency_over_time.png)
+![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png)
 
 
 It is important to note here that the dataset is a sample of the tweets that used #Brexit, rather than all tweets with that hashtag. Twitter does not provide details of how it samples tweets when you conduct a search on its platform, so it is not guaranteed that it is a completely random sample. We were able to specify, however, that our sample focus on tweets from users in the UK (though tweets from elsewhere are also included).
@@ -21,5 +21,6 @@ It is important to note here that the dataset is a sample of the tweets that use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1Mzc4NTIwLDQ1MzEwMTg5XX0=
+eyJoaXN0b3J5IjpbMTUwNzkxMjM4NSw0NzUzNzg1MjAsNDUzMT
+AxODldfQ==
 -->
