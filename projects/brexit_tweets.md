@@ -22,7 +22,7 @@ ___
 
 <a name = "fn2"><sup>2</sup> <a href = "https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114" target = "_blank">Guerrina and Murphy, 2016, Strategic Silences in the Brexit Debate: Gender, Marginality and Governance</a></a>
 
-<a name = "fn3"><sup>3</sup> <a href = "" target = "_blank">Guerrina and Murphy, 2016, Strategic Silences in the Brexit Debate: Gender, Marginality and Governance</a></a>
+<a name = "fn3"><sup>3</sup> <a href = "https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/" target = "_blank">Centre for Research in Communication and Culture, Loughborough University, 2016, Gender Balance in EU Referendum Coverage</a></a>
 
 
 
@@ -30,9 +30,9 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MjM5NTM2LDc1OTY2NDc1NSwxNzE3Nj
-U4MzA5LDE5OTQ2NzU4MzEsLTUyOTEwNTY2MCwxMDYxMTg0MDAz
-LDg2MTM5MTU5NCwtNTMwNDY2Njg1LC0zMjQ2NjQxNCwxODY4MD
-ExNzgzLDM5MDA0MDQ4MywtMzQxOTU5NTksLTIwMTk3MjMxNDAs
-MTUwNzkxMjM4NSw0NzUzNzg1MjAsNDUzMTAxODldfQ==
+eyJoaXN0b3J5IjpbLTE0MjYxMjk5MDQsNzU5NjY0NzU1LDE3MT
+c2NTgzMDksMTk5NDY3NTgzMSwtNTI5MTA1NjYwLDEwNjExODQw
+MDMsODYxMzkxNTk0LC01MzA0NjY2ODUsLTMyNDY2NDE0LDE4Nj
+gwMTE3ODMsMzkwMDQwNDgzLC0zNDE5NTk1OSwtMjAxOTcyMzE0
+MCwxNTA3OTEyMzg1LDQ3NTM3ODUyMCw0NTMxMDE4OV19
 -->
