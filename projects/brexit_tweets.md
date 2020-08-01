@@ -8,7 +8,9 @@ Since the UK voted to leave the European Union in June 2016, much research has f
 
 Yet at the same time, the referendum had some very gendered aspects. Those leading the call to leave the EU were predominantly men and prominent Brexiteers Arron Banks, Andy Wigmore and Nigel Farage were branded "the Bad Boys of Brexit". In the lead up to the vote the media coverage was dominated by men on both sides of the campaign, with 82.5% of the voices included in print and broadcast media being male <sup>[3](#fn3)</sup>. Other research has found that people's attitudes towards gender roles and how these are changing also influenced their vote - for example, Green and Shorrocks write about a "gender backlash" in the Brexit vote, looking at links between believing that men are discriminated against in Britain and supporting for Leave <sup>[4](#fn4)</sup>.
 
-Against this background, this piece of exploratory research seeks to look into gendered aspects of popular discourse around Brexit - how do men and women feature when we talk about leaving the EU? It does so by exploring one particular record of public debate and commentary on Brexit, namely Twitter. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and for this research we use a dataset of tweets using that hashtag during that week to look at how men and women were talked about in relation to leaving the EU. It's important to note here that the research is limited to analysing male and female genders, and doesn't analyse other gender identities
+Against this background, this piece of exploratory research seeks to look into gendered aspects of popular discourse around Brexit - how do men and women feature when we talk about leaving the EU? It does so by exploring one particular record of public debate and commentary on Brexit, namely Twitter. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and for this research we use a dataset of tweets using that hashtag during that week to look at how men and women were talked about in relation to leaving the EU.
+
+It's important to note here that the research is limited to analysing male and female genders, and doesn't analyse other gender identities. This is largely because the methods used 
  
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
@@ -35,10 +37,10 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NTk1NDg4LDE5MTkyNTYzODksNzU5Nj
-Y0NzU1LDE3MTc2NTgzMDksMTk5NDY3NTgzMSwtNTI5MTA1NjYw
-LDEwNjExODQwMDMsODYxMzkxNTk0LC01MzA0NjY2ODUsLTMyND
-Y2NDE0LDE4NjgwMTE3ODMsMzkwMDQwNDgzLC0zNDE5NTk1OSwt
-MjAxOTcyMzE0MCwxNTA3OTEyMzg1LDQ3NTM3ODUyMCw0NTMxMD
-E4OV19
+eyJoaXN0b3J5IjpbLTU2NzAwMDIxMiwxOTE5MjU2Mzg5LDc1OT
+Y2NDc1NSwxNzE3NjU4MzA5LDE5OTQ2NzU4MzEsLTUyOTEwNTY2
+MCwxMDYxMTg0MDAzLDg2MTM5MTU5NCwtNTMwNDY2Njg1LC0zMj
+Q2NjQxNCwxODY4MDExNzgzLDM5MDA0MDQ4MywtMzQxOTU5NTks
+LTIwMTk3MjMxNDAsMTUwNzkxMjM4NSw0NzUzNzg1MjAsNDUzMT
+AxODldfQ==
 -->
