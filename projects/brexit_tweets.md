@@ -25,15 +25,17 @@ ___
 
 <a name = "fn3"><sup>3</sup> <a href = "https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/" target = "_blank">Centre for Research in Communication and Culture, Loughborough University, 2016, Gender Balance in EU Referendum Coverage</a></a>
 
+<a name = "fn4"><sup>4</sup> <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689" target = "_blank">Green and Shorrock, 2019, The Gender Backlash in the Vote for Brexit</a></a>
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTYyODM3Nyw3NTk2NjQ3NTUsMTcxNz
-Y1ODMwOSwxOTk0Njc1ODMxLC01MjkxMDU2NjAsMTA2MTE4NDAw
-Myw4NjEzOTE1OTQsLTUzMDQ2NjY4NSwtMzI0NjY0MTQsMTg2OD
-AxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5LC0yMDE5NzIzMTQw
-LDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMTg5XX0=
+eyJoaXN0b3J5IjpbMTgxOTk5MTMyLDc1OTY2NDc1NSwxNzE3Nj
+U4MzA5LDE5OTQ2NzU4MzEsLTUyOTEwNTY2MCwxMDYxMTg0MDAz
+LDg2MTM5MTU5NCwtNTMwNDY2Njg1LC0zMjQ2NjQxNCwxODY4MD
+ExNzgzLDM5MDA0MDQ4MywtMzQxOTU5NTksLTIwMTk3MjMxNDAs
+MTUwNzkxMjM4NSw0NzUzNzg1MjAsNDUzMTAxODldfQ==
 -->
