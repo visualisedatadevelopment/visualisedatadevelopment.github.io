@@ -4,7 +4,7 @@
 
 # Gender and Brexit Discourse on Twitter
 ## Introduction
-Since the UK voted to leave the European Union in June 2016, much research has focused on what factors led people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>[1](#fn1)</sup>. At the same time, analysis of the campaigning for the referendum and subsequent debate has show that, whilst issues relating to women's rights and labour market participation did come up, gender was not on the agenda <sup>[2](#fn2)</sup>.
+Since the UK voted to leave the European Union in June 2016, much research has focused on what factors led people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>[1](#fn1)</sup>. At the same time, analysis of the campaigning for the referendum and subsequent debate has show that, whilst issues relating to women's rights and labour market participation did come up, gender was for the most part not on the agenda <sup>[2](#fn2)</sup>.
 Yet at the same time, Brexit has some very gendered aspects. Those leading the call to leave the EU were predominantly men, and in the lead up to the vote the media coverage was dominated by men on both sides of the campaign, with 82.5% of the voices included in print and broadcast media being those of men <sup>[3](#fn3)</sup>.
  
 ## A quick look at the data
@@ -22,15 +22,17 @@ ___
 
 <a name = "fn2"><sup>2</sup> <a href = "https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114" target = "_blank">Guerrina and Murphy, 2016, Strategic Silences in the Brexit Debate: Gender, Marginality and Governance</a></a>
 
+<a name = "fn3"><sup>3</sup> <a href = "" target = "_blank">Guerrina and Murphy, 2016, Strategic Silences in the Brexit Debate: Gender, Marginality and Governance</a></a>
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzI3ODc2NCw3NTk2NjQ3NTUsMTcxNz
-Y1ODMwOSwxOTk0Njc1ODMxLC01MjkxMDU2NjAsMTA2MTE4NDAw
-Myw4NjEzOTE1OTQsLTUzMDQ2NjY4NSwtMzI0NjY0MTQsMTg2OD
-AxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5LC0yMDE5NzIzMTQw
-LDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMTg5XX0=
+eyJoaXN0b3J5IjpbNzc4MjM5NTM2LDc1OTY2NDc1NSwxNzE3Nj
+U4MzA5LDE5OTQ2NzU4MzEsLTUyOTEwNTY2MCwxMDYxMTg0MDAz
+LDg2MTM5MTU5NCwtNTMwNDY2Njg1LC0zMjQ2NjQxNCwxODY4MD
+ExNzgzLDM5MDA0MDQ4MywtMzQxOTU5NTksLTIwMTk3MjMxNDAs
+MTUwNzkxMjM4NSw0NzUzNzg1MjAsNDUzMTAxODldfQ==
 -->
