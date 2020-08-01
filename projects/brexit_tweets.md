@@ -4,8 +4,7 @@
 
 # Gender and Brexit Discourse on Twitter
 ## Introduction
-Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>1</sup>. [BBC News](abc).
-<a name = "abc"></a> 
+Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>1</sup>. [BBC News](#abc).
 
  
 ## A quick look at the data
@@ -15,6 +14,7 @@ The chart below how the tweets were distributed over the week. It's important to
 
 ![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png)
 
+<a name = "abc"></a>
 Another point to note, before we delve into the analysis, is that Twitter does not provide details of how it samples tweets when you conduct a search on its platform, so it is not guaranteed that it is a completely random sample. We were able to specify, however, that our sample focus on tweets from users in the UK (though tweets from elsewhere are also included).
 ## Identifying gendered discourse
 
@@ -24,7 +24,7 @@ Another point to note, before we delve into the analysis, is that Twitter does n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIwNDMxNjYsLTMyNDY2NDE0LDE4Nj
-gwMTE3ODMsMzkwMDQwNDgzLC0zNDE5NTk1OSwtMjAxOTcyMzE0
-MCwxNTA3OTEyMzg1LDQ3NTM3ODUyMCw0NTMxMDE4OV19
+eyJoaXN0b3J5IjpbLTUzMDQ2NjY4NSwtMzI0NjY0MTQsMTg2OD
+AxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5LC0yMDE5NzIzMTQw
+LDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMTg5XX0=
 -->
