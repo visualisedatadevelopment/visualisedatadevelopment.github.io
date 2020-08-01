@@ -5,6 +5,7 @@
 # Gender and Brexit Discourse on Twitter
 ## Introduction
 Since the UK voted to leave the European Union in June 2016, much research has focused on what factors led people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>[1](#fn1)</sup>. At the same time, analysis of the campaigning for the referendum and subsequent debate has show that, whilst issues relating to women's rights and labour market participation did come up, gender was for the most part not on the agenda <sup>[2](#fn2)</sup>.
+
 Yet at the same time, Brexit has some very gendered aspects. Those leading the call to leave the EU were predominantly men, and in the lead up to the vote the media coverage was dominated by men on both sides of the campaign, with 82.5% of the voices included in print and broadcast media being those of men <sup>[3](#fn3)</sup>.
  
 ## A quick look at the data
@@ -30,7 +31,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYxMjk5MDQsNzU5NjY0NzU1LDE3MT
+eyJoaXN0b3J5IjpbLTE1OTYyNTcxMTgsNzU5NjY0NzU1LDE3MT
 c2NTgzMDksMTk5NDY3NTgzMSwtNTI5MTA1NjYwLDEwNjExODQw
 MDMsODYxMzkxNTk0LC01MzA0NjY2ODUsLTMyNDY2NDE0LDE4Nj
 gwMTE3ODMsMzkwMDQwNDgzLC0zNDE5NTk1OSwtMjAxOTcyMzE0
