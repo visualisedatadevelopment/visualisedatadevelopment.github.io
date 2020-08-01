@@ -17,7 +17,7 @@ Another point to note, before we delve into the analysis, is that Twitter does n
 ## Identifying gendered discourse
 
 ___
-<a name = "fn1"><sup>1</sup> <a href = "https://www.britishelectionstudy.com/data-objects/panel-study-data/">Fieldhouse et al., 2020, British Election Study Internet Panel</a></a>
+<a name = "fn1"><sup>1</sup> <a href = "https://www.britishelectionstudy.com/data-objects/panel-study-data/" target = "_blank">Fieldhouse et al., 2020, British Election Study Internet Panel</a></a>
 
 
 
@@ -25,8 +25,9 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTEwNTY2MCwxMDYxMTg0MDAzLDg2MT
-M5MTU5NCwtNTMwNDY2Njg1LC0zMjQ2NjQxNCwxODY4MDExNzgz
-LDM5MDA0MDQ4MywtMzQxOTU5NTksLTIwMTk3MjMxNDAsMTUwNz
-kxMjM4NSw0NzUzNzg1MjAsNDUzMTAxODldfQ==
+eyJoaXN0b3J5IjpbMTk5NDY3NTgzMSwtNTI5MTA1NjYwLDEwNj
+ExODQwMDMsODYxMzkxNTk0LC01MzA0NjY2ODUsLTMyNDY2NDE0
+LDE4NjgwMTE3ODMsMzkwMDQwNDgzLC0zNDE5NTk1OSwtMjAxOT
+cyMzE0MCwxNTA3OTEyMzg1LDQ3NTM3ODUyMCw0NTMxMDE4OV19
+
 -->
