@@ -4,7 +4,7 @@
 
 # Gender and Brexit Discourse on Twitter
 ## Introduction
-Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>1</sup>. <a href = "abc">Go to abc</a>.
+Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>1</sup>. [Next se.
 
  
 ## A quick look at the data
@@ -24,8 +24,8 @@ Another point to note, before we delve into the analysis, is that Twitter does n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjgyMjMxNjYsLTUzMDQ2NjY4NSwtMz
-I0NjY0MTQsMTg2ODAxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5
-LC0yMDE5NzIzMTQwLDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1Mz
-EwMTg5XX0=
+eyJoaXN0b3J5IjpbODgzMzE2NDAsLTUzMDQ2NjY4NSwtMzI0Nj
+Y0MTQsMTg2ODAxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5LC0y
+MDE5NzIzMTQwLDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMT
+g5XX0=
 -->
