@@ -20,7 +20,7 @@ The chart below shows how the tweets were distributed over the week. It's import
 
 ![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png)
 
-Another point to note is that sample focuses on tweets from users in the UK, though tweets from elsewhere are also included, just to a lesser extent. And finally, it is always worth bearing in mind when looking at Twitter data that the tweeting population differs from the general UK population in terms of their demographics and political attitudes <sup>5</sup> 
+Another point to note is that sample focuses on tweets from users in the UK, though tweets from elsewhere are also included, just to a lesser extent. And finally, it is always worth bearing in mind when looking at Twitter data that the tweeting population differs from the general UK population in terms of their demographics and political attitudes <sup>[5](#fn5<)/sup>, though this does not mean that it's not a useful artefact of public discourse.
 
 ## Identifying gendered discourse
 
@@ -33,13 +33,15 @@ ___
 
 <a name = "fn4"><sup>4</sup> <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689" target = "_blank">Green and Shorrock, 2019, The Gender Backlash in the Vote for Brexit</a></a>
 
+<a name = "fn5"><sup>5</sup> <a href = "https://journals.sagepub.com/doi/full/10.1177/2053168017720008" target = "_blank">Mellon and Prosser, 2017, The Gender Backlash in the Vote for Brexit</a></a>
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjAwOTg4NSwtMTMwMzA3MzY2OCwxMT
+eyJoaXN0b3J5IjpbMTYxOTA2NDYwMCwtMTMwMzA3MzY2OCwxMT
 U1MDc5Nzc5LC0xNDY3MTUxODksMTkxOTI1NjM4OSw3NTk2NjQ3
 NTUsMTcxNzY1ODMwOSwxOTk0Njc1ODMxLC01MjkxMDU2NjAsMT
 A2MTE4NDAwMyw4NjEzOTE1OTQsLTUzMDQ2NjY4NSwtMzI0NjY0
