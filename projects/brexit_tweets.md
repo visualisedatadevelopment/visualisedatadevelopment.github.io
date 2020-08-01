@@ -33,7 +33,7 @@ ___
 
 <a name = "fn4"><sup>4</sup> <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689" target = "_blank">Green and Shorrock, 2019, The Gender Backlash in the Vote for Brexit</a></a>
 
-<a name = "fn5"><sup>5</sup> <a href = "https://journals.sagepub.com/doi/full/10.1177/2053168017720008" target = "_blank">Mellon and Prosser, 2017, The Gender Backlash in the Vote for Brexit</a></a>
+<a name = "fn5"><sup>5</sup> <a href = "https://journals.sagepub.com/doi/full/10.1177/2053168017720008" target = "_blank">Mellon and Prosser, 2017, Twitter and Facebook are not representative of the general population: Political attitudes and demographics of British social media users</a></a>
 
 
 
@@ -41,11 +41,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTA2NDYwMCwtMTMwMzA3MzY2OCwxMT
-U1MDc5Nzc5LC0xNDY3MTUxODksMTkxOTI1NjM4OSw3NTk2NjQ3
-NTUsMTcxNzY1ODMwOSwxOTk0Njc1ODMxLC01MjkxMDU2NjAsMT
-A2MTE4NDAwMyw4NjEzOTE1OTQsLTUzMDQ2NjY4NSwtMzI0NjY0
-MTQsMTg2ODAxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5LC0yMD
-E5NzIzMTQwLDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMTg5
-XX0=
+eyJoaXN0b3J5IjpbLTEwNzAwMjk4NDksLTEzMDMwNzM2NjgsMT
+E1NTA3OTc3OSwtMTQ2NzE1MTg5LDE5MTkyNTYzODksNzU5NjY0
+NzU1LDE3MTc2NTgzMDksMTk5NDY3NTgzMSwtNTI5MTA1NjYwLD
+EwNjExODQwMDMsODYxMzkxNTk0LC01MzA0NjY2ODUsLTMyNDY2
+NDE0LDE4NjgwMTE3ODMsMzkwMDQwNDgzLC0zNDE5NTk1OSwtMj
+AxOTcyMzE0MCwxNTA3OTEyMzg1LDQ3NTM3ODUyMCw0NTMxMDE4
+OV19
 -->
