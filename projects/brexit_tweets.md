@@ -10,7 +10,7 @@ Yet at the same time, the referendum had some very gendered aspects. Those leadi
 
 Against this background, this piece of exploratory research seeks to look into gendered aspects of popular discourse around Brexit - how do men and women feature when we talk about leaving the EU? It does so by exploring one particular record of public debate and commentary on Brexit, namely Twitter. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and for this research we use a dataset of tweets using that hashtag during that week to look at how men and women were talked about in relation to leaving the EU.
 
-It's important to note here that the research is limited to analysing male and female genders, and doesn't analyse other gender identities. This is largely because the methods used are text-based and the tools used for analysis rely on binary notions of gender (such as gendered name recognition) or linguistic distinctions such as "he/she". 
+It's important to note here that the research is limited to analysing male and female genders, and doesn't analyse other gender identities. This is largely because the methods used are text-based and the tools used for analysis rely on binary notions of gender (such as gendered name recognition) or linguistic distinctions such as "he/she". Some discussions of these limitations in text-mining methods can be found
  
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
@@ -37,7 +37,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4Nzc4NjIyLDExNTUwNzk3NzksLTE0Nj
+eyJoaXN0b3J5IjpbODE4ODY5ODY4LDExNTUwNzk3NzksLTE0Nj
 cxNTE4OSwxOTE5MjU2Mzg5LDc1OTY2NDc1NSwxNzE3NjU4MzA5
 LDE5OTQ2NzU4MzEsLTUyOTEwNTY2MCwxMDYxMTg0MDAzLDg2MT
 M5MTU5NCwtNTMwNDY2Njg1LC0zMjQ2NjQxNCwxODY4MDExNzgz
