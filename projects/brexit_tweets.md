@@ -4,7 +4,7 @@
 
 # Gender and Brexit Discourse on Twitter
 ## Introduction
-Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their attitudes towards institutions. Yet researchers have more recently been pointing out that gender 
+Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their attitudes towards institutions. Yet researchers have more recently been pointing out that gender has largely been left to the side when we talk about Brexit, both in research and in general.
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
 
@@ -21,6 +21,6 @@ Another point to note, before we delve into the analysis, is that Twitter does n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NjcyMTMxLC0yMDE5NzIzMTQwLDE1MD
-c5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMTg5XX0=
+eyJoaXN0b3J5IjpbMTkyODUyNzM3NSwtMjAxOTcyMzE0MCwxNT
+A3OTEyMzg1LDQ3NTM3ODUyMCw0NTMxMDE4OV19
 -->
