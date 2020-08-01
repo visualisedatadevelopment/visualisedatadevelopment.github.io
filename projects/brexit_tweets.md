@@ -17,7 +17,7 @@ Another point to note, before we delve into the analysis, is that Twitter does n
 ## Identifying gendered discourse
 
 ___
-<a name = "fn1">Hello world</a>
+<a name = "fn1"><sup>1</sup> Fieldhouse et al., </a>
 
 
 
@@ -25,7 +25,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ5MzA1MzgsMTA2MTE4NDAwMyw4Nj
+eyJoaXN0b3J5IjpbLTEwNzc5Mzk0OTQsMTA2MTE4NDAwMyw4Nj
 EzOTE1OTQsLTUzMDQ2NjY4NSwtMzI0NjY0MTQsMTg2ODAxMTc4
 MywzOTAwNDA0ODMsLTM0MTk1OTU5LC0yMDE5NzIzMTQwLDE1MD
 c5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMTg5XX0=
