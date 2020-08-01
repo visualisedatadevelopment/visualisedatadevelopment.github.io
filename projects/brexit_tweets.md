@@ -4,8 +4,7 @@
 
 # Gender and Brexit Discourse on Twitter
 ## Introduction
-Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>1</sup>. [Next se.
-
+Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>1</sup>. [Next section](#A-quick-look-at-the-data).
  
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
@@ -24,8 +23,8 @@ Another point to note, before we delve into the analysis, is that Twitter does n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMzE2NDAsLTUzMDQ2NjY4NSwtMzI0Nj
-Y0MTQsMTg2ODAxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5LC0y
-MDE5NzIzMTQwLDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMT
-g5XX0=
+eyJoaXN0b3J5IjpbNjEyNDY3NTEwLC01MzA0NjY2ODUsLTMyND
+Y2NDE0LDE4NjgwMTE3ODMsMzkwMDQwNDgzLC0zNDE5NTk1OSwt
+MjAxOTcyMzE0MCwxNTA3OTEyMzg1LDQ3NTM3ODUyMCw0NTMxMD
+E4OV19
 -->
