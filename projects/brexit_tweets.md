@@ -4,7 +4,7 @@
 
 # Gender and Brexit Discourse on Twitter
 ## Introduction
-Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>[1](#fn1)</sup>. At the same time, analysis of the campaigning for the referendum and subsequent debate has show that whether leaving the EU will effect women differently from men gender has not been a salient issue  
+Since the UK voted to leave the European Union in June 2016, much research has focused on what factors lead people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain - looking at the British Election Study Internet Panel, there was no statistically significant difference in the proportions voting for/against Brexit <sup>[1](#fn1)</sup>. At the same time, analysis of the campaigning for the referendum and subsequent debate has show that gender has not been a salient issue  <sup>[2](#fn2)</sup>
  
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
@@ -18,6 +18,7 @@ Another point to note, before we delve into the analysis, is that Twitter does n
 
 ___
 <a name = "fn1"><sup>1</sup> <a href = "https://www.britishelectionstudy.com/data-objects/panel-study-data/" target = "_blank">Fieldhouse et al., 2020, British Election Study Internet Panel</a></a>
+<a name = "fn2"><sup>2</sup> <a href = "https://www.britishelectionstudy.com/data-objects/panel-study-data/" target = "_blank">Fieldhouse et al., 2020, British Election Study Internet Panel</a></a>
 
 
 
@@ -25,9 +26,9 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkxMzQxODEsMTcxNzY1ODMwOSwxOT
-k0Njc1ODMxLC01MjkxMDU2NjAsMTA2MTE4NDAwMyw4NjEzOTE1
-OTQsLTUzMDQ2NjY4NSwtMzI0NjY0MTQsMTg2ODAxMTc4MywzOT
-AwNDA0ODMsLTM0MTk1OTU5LC0yMDE5NzIzMTQwLDE1MDc5MTIz
-ODUsNDc1Mzc4NTIwLDQ1MzEwMTg5XX0=
+eyJoaXN0b3J5IjpbMTE3NDE2NDg5OCwxNzE3NjU4MzA5LDE5OT
+Q2NzU4MzEsLTUyOTEwNTY2MCwxMDYxMTg0MDAzLDg2MTM5MTU5
+NCwtNTMwNDY2Njg1LC0zMjQ2NjQxNCwxODY4MDExNzgzLDM5MD
+A0MDQ4MywtMzQxOTU5NTksLTIwMTk3MjMxNDAsMTUwNzkxMjM4
+NSw0NzUzNzg1MjAsNDUzMTAxODldfQ==
 -->
