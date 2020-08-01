@@ -8,7 +8,8 @@ Since the UK voted to leave the European Union in June 2016, much research has f
 
 Yet at the same time, the referendum had some very gendered aspects. Those leading the call to leave the EU were predominantly men and prominent Brexiteers Arron Banks, Andy Wigmore and Nigel Farage were branded "the Bad Boys of Brexit". In the lead up to the vote the media coverage was dominated by men on both sides of the campaign, with 82.5% of the voices included in print and broadcast media being male <sup>[3](#fn3)</sup>. Other research has found that people's attitudes towards gender roles and how these are changing also influenced their vote - for example, Green and Shorrocks write about a "gender backlash" in the Brexit vote, looking at links between believing that men are discriminated against in Britain and supporting for Leave <sup>[4](#fn4)</sup>.
 
-Against this background, this piece of exploratory research seeks to look into gendered aspects of popular discourse around Brexit - how do men and women feature when we talk about leaving the EU? It does so by exploring one particular record of public debate and commentary on Brexit, namely Twitter. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #on the platform It's important to note here that the research is limited to analysing 
+Against this background, this piece of exploratory research seeks to look into gendered aspects of popular discourse around Brexit - how do men and women feature when we talk about leaving the EU? It does so by exploring one particular record of public debate and commentary on Brexit, namely Twitter. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and for this research we use a dataset of tweets using that hashtag during that week.
+It's important to note here that the research is limited to analysing 
  
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
@@ -35,10 +36,10 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNDIwMCwxOTE5MjU2Mzg5LDc1OTY2ND
-c1NSwxNzE3NjU4MzA5LDE5OTQ2NzU4MzEsLTUyOTEwNTY2MCwx
-MDYxMTg0MDAzLDg2MTM5MTU5NCwtNTMwNDY2Njg1LC0zMjQ2Nj
-QxNCwxODY4MDExNzgzLDM5MDA0MDQ4MywtMzQxOTU5NTksLTIw
-MTk3MjMxNDAsMTUwNzkxMjM4NSw0NzUzNzg1MjAsNDUzMTAxOD
-ldfQ==
+eyJoaXN0b3J5IjpbLTEzNjA0NTIxOTUsMTkxOTI1NjM4OSw3NT
+k2NjQ3NTUsMTcxNzY1ODMwOSwxOTk0Njc1ODMxLC01MjkxMDU2
+NjAsMTA2MTE4NDAwMyw4NjEzOTE1OTQsLTUzMDQ2NjY4NSwtMz
+I0NjY0MTQsMTg2ODAxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5
+LC0yMDE5NzIzMTQwLDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1Mz
+EwMTg5XX0=
 -->
