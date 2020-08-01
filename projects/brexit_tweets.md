@@ -8,7 +8,7 @@ Introduction
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
 
-The chart below how the tweets were distributed over the week.
+The chart below how the tweets were distributed over the week. It's important to note here that the dataset is a sample of the tweets using #Brexit, rather than all tweets with that hashtag. So in the chart below, we're more interested in the relative distribution as opposed to the actual number of tweet. Unsu
 
 ![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png)
 
@@ -21,6 +21,6 @@ It is important to note here that the dataset is a sample of the tweets that use
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzkxMjM4NSw0NzUzNzg1MjAsNDUzMT
-AxODldfQ==
+eyJoaXN0b3J5IjpbMTIzNTE2NDU0MSwxNTA3OTEyMzg1LDQ3NT
+M3ODUyMCw0NTMxMDE4OV19
 -->
