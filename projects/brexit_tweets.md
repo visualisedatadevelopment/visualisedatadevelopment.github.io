@@ -20,7 +20,7 @@ The chart below shows how the tweets were distributed over the week. It's import
 
 ![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png)
 
-Another point to note is that sample focuses on tweets from users in the UK, though tweets from elsewhere are also included, just to a lesser extent. And finally, it is always worth highlighting  
+Another point to note is that sample focuses on tweets from users in the UK, though tweets from elsewhere are also included, just to a lesser extent. And finally, it is always worth bearing in mind when looking at Twitter data that the tweeting population differs from the general UK population in terms of their demographics and political attitudes 
 
 ## Identifying gendered discourse
 
@@ -39,11 +39,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2MTAyNTg4LC0xMzAzMDczNjY4LDExNT
-UwNzk3NzksLTE0NjcxNTE4OSwxOTE5MjU2Mzg5LDc1OTY2NDc1
-NSwxNzE3NjU4MzA5LDE5OTQ2NzU4MzEsLTUyOTEwNTY2MCwxMD
-YxMTg0MDAzLDg2MTM5MTU5NCwtNTMwNDY2Njg1LC0zMjQ2NjQx
-NCwxODY4MDExNzgzLDM5MDA0MDQ4MywtMzQxOTU5NTksLTIwMT
-k3MjMxNDAsMTUwNzkxMjM4NSw0NzUzNzg1MjAsNDUzMTAxODld
-fQ==
+eyJoaXN0b3J5IjpbMTUwMzIxODk5NSwtMTMwMzA3MzY2OCwxMT
+U1MDc5Nzc5LC0xNDY3MTUxODksMTkxOTI1NjM4OSw3NTk2NjQ3
+NTUsMTcxNzY1ODMwOSwxOTk0Njc1ODMxLC01MjkxMDU2NjAsMT
+A2MTE4NDAwMyw4NjEzOTE1OTQsLTUzMDQ2NjY4NSwtMzI0NjY0
+MTQsMTg2ODAxMTc4MywzOTAwNDA0ODMsLTM0MTk1OTU5LC0yMD
+E5NzIzMTQwLDE1MDc5MTIzODUsNDc1Mzc4NTIwLDQ1MzEwMTg5
+XX0=
 -->
