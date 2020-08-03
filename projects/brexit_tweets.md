@@ -16,7 +16,7 @@ The chart below shows how the tweets were distributed over the week. It's import
 
 ![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png)
 
-Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that the tweeting population differs from the general UK population in terms of their demographics and political attitudes <sup>[5](#fn5)</sup>, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look here.
+Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
 ## Identifying gendered discourse
 
@@ -37,7 +37,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzcyOTk4OCwtNTg5MDk5NjIzLC0xOD
-IxOTM4MTcsMTEwNDA1MjgyMCwtNjExMDE5MTMwLDIwOTc5OTEw
-NTMsLTE1MTI5NzY4NTFdfQ==
+eyJoaXN0b3J5IjpbNTg4ODM4NjY4LC01ODkwOTk2MjMsLTE4Mj
+E5MzgxNywxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1
+MywtMTUxMjk3Njg1MV19
 -->
