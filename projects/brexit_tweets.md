@@ -6,7 +6,7 @@
 
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
 
-Although issues such as EU legislation on women's rights in the labour market have come up at times, they've been generally 
+Although issues such as EU legislation on women's rights in the labour market have come up at times, they were never central to the d(https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114).
 
 ## Introduction
 Since the UK voted to leave the European Union in June 2016, much research has focused on what factors led people to vote Leave, ranging from voters' economic position to their level of trust in institutions. Yet researchers have more recently pointed out that gender has largely been left to the side when we talk about Brexit, both in academic contexts and in general. This is in part because, at an aggregate level, men and women didn't show significant differences in voting Leave or Remain (based on British Election Study data <sup>[1](#fn1)</sup>). At the same time, analysis of the campaigning for the referendum and subsequent debate has show that, whilst issues such as EU legislation on women's rights in the labour market did come up, gender was for the most part not on the agenda <sup>[2](#fn2)</sup>.
@@ -46,6 +46,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzUwOTY3MjcsMjA5Nzk5MTA1MywtMT
-UxMjk3Njg1MV19
+eyJoaXN0b3J5IjpbLTYwNTgwMjU5NywyMDk3OTkxMDUzLC0xNT
+EyOTc2ODUxXX0=
 -->
