@@ -8,9 +8,7 @@ In the campaign leading up to the EU referendum in 2016, and the subsequent year
 
 Although issues such as EU legislation on women's employment rights have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (in particular the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, [researchers are finding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689) that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
 
-So how is gender reflected in popular discourse on Brexit? One place to analyse
-
-Against this background, this brief piece of exploratory research seeks to look into gendered aspects of popular discourse around Brexit - how do men and women feature when we talk about leaving the EU? It does so by exploring one particular record of public debate and commentary on Brexit, namely Twitter. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and for this research we use a dataset of tweets using that hashtag during that week to look at how men and women were talked about in relation to leaving the EU.
+So how is gender reflected in popular discourse on Brexit? One place to analyse this is Twitter, which has been a hotpsot of public debate on the issue. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and so here we're going to look at a dataset of tweets using that hashtag during that week to look at how men and women were talked about in relation to leaving the EU.
 
 It's important to note here that the research is limited to analysing male and female genders, and doesn't analyse other gender identities. This is largely because the methods used are text-based and the tools used for analysis rely on binary notions of gender (such as gendered name recognition) or linguistic distinctions such as "he/she". Some discussions of these limitations in text-mining methods can be found [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full) and [here](http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html).
 
@@ -43,6 +41,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzgwNDE3NCwxMTA0MDUyODIwLC02MT
-EwMTkxMzAsMjA5Nzk5MTA1MywtMTUxMjk3Njg1MV19
+eyJoaXN0b3J5IjpbMzc2NTU2OTg4LDExMDQwNTI4MjAsLTYxMT
+AxOTEzMCwyMDk3OTkxMDUzLC0xNTEyOTc2ODUxXX0=
 -->
