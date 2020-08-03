@@ -20,16 +20,7 @@ Before delving into the analysis, it is always worth bearing in mind when lookin
 
 ## Identifying gendered discourse
 
-___
-<a name = "fn1"><sup>1</sup> <a href = "https://www.britishelectionstudy.com/data-objects/panel-study-data/" target = "_blank">Fieldhouse et al., 2020, British Election Study Internet Panel</a></a>
 
-<a name = "fn2"><sup>2</sup> <a href = "https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114" target = "_blank">Guerrina and Murphy, 2016, Strategic Silences in the Brexit Debate: Gender, Marginality and Governance</a></a>
-
-<a name = "fn3"><sup>3</sup> <a href = "https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/" target = "_blank">Centre for Research in Communication and Culture, Loughborough University, 2016, Gender Balance in EU Referendum Coverage</a></a>
-
-<a name = "fn4"><sup>4</sup> <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689" target = "_blank">Green and Shorrock, 2019, The Gender Backlash in the Vote for Brexit</a></a>
-
-<a name = "fn5"><sup>5</sup> <a href = "https://journals.sagepub.com/doi/full/10.1177/2053168017720008" target = "_blank">Mellon and Prosser, 2017, Twitter and Facebook are not representative of the general population: Political attitudes and demographics of British social media users</a></a>
 
 
 
@@ -37,7 +28,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4ODM4NjY4LC01ODkwOTk2MjMsLTE4Mj
-E5MzgxNywxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1
-MywtMTUxMjk3Njg1MV19
+eyJoaXN0b3J5IjpbLTEwNjY0NDc5OSwtNTg5MDk5NjIzLC0xOD
+IxOTM4MTcsMTEwNDA1MjgyMCwtNjExMDE5MTMwLDIwOTc5OTEw
+NTMsLTE1MTI5NzY4NTFdfQ==
 -->
