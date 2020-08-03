@@ -10,7 +10,7 @@ Although issues such as EU legislation on women's employment rights have come up
 So how is gender reflected in popular discourse on Brexit? One place to analyse this is Twitter, which has been a hotspot of public debate on the issue. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and so in this research we looked at a dataset of #Brexit tweets from that week in order to look at how men and women were talked about in relation to leaving the EU. How much are men and women discussed, is it in the same way, and what topics are people talking about in reference to different genders? 
 
 ## A quick look at the data
-The data we analysed consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
+The data we analysed consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we excluded retweets, in order to avoid widely shared tweets being overly influential in the results.
 
 The chart below shows how the tweets were distributed over the week. It's important to note here that the dataset is a sample of the tweets using #Brexit, rather than all tweets with that hashtag. So in the chart below, we're more interested in the relative distribution as opposed to the absolute number of tweets. Not surprisingly, we see higher volumes on the day the UK left and the morning after, with a notable spike around 11pm on the 31st January - the official moment of departure.
 
@@ -19,7 +19,7 @@ The chart below shows how the tweets were distributed over the week. It's import
 Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
 ## Identifying gendered discourse
-
+In order to identify tweets that mentioned someone of a particular gender, we used three 
 
 
 
@@ -28,7 +28,7 @@ Before delving into the analysis, it is always worth bearing in mind when lookin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzU3NTYzNiwtMTA2NjQ0Nzk5LC01OD
-kwOTk2MjMsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MTEwMTkx
-MzAsMjA5Nzk5MTA1MywtMTUxMjk3Njg1MV19
+eyJoaXN0b3J5IjpbLTIxMDQzMDAyNDEsLTEwNjY0NDc5OSwtNT
+g5MDk5NjIzLC0xODIxOTM4MTcsMTEwNDA1MjgyMCwtNjExMDE5
+MTMwLDIwOTc5OTEwNTMsLTE1MTI5NzY4NTFdfQ==
 -->
