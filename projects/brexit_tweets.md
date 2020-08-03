@@ -19,7 +19,11 @@ The chart below shows how the tweets were distributed over the week. It's import
 Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
 ## Identifying gendered discourse
-In order to identify tweets that mentioned someone of a particular gender, three methods were used. Firstly, a Named Entity Recognition algorithm was run on the tweets in order to extract human names, and then the [gender package](https://docs.ropensci.org/gender/) in R was used to infer the g
+In order to identify tweets that mentioned someone of a particular gender, three methods were used.
+
+Firstly, a Named Entity Recognition algorithm was run on the tweets in order to extract human names, and then the [gender package](https://docs.ropensci.org/gender/) in R was used to attempt to infer the gender of those mentioned.
+
+Secondly, the names of all current MPs in the UK par
 
 
 
@@ -28,7 +32,7 @@ In order to identify tweets that mentioned someone of a particular gender, three
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjA3NDk3Myw2NjMwOTg5MTUsLTQ1OT
+eyJoaXN0b3J5IjpbLTEzMzI0NjczMCw2NjMwOTg5MTUsLTQ1OT
 I0MDMwNSwtMTA2NjQ0Nzk5LC01ODkwOTk2MjMsLTE4MjE5Mzgx
 NywxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1MywtMT
 UxMjk3Njg1MV19
