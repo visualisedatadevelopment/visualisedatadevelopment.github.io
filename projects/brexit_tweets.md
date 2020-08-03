@@ -18,12 +18,12 @@ The chart below shows how the tweets were distributed over the week. It's import
 
 Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
-## Identifying gendered discourse
+## Identifying gendered entities
 In order to identify tweets that mentioned someone of a particular gender, three methods were used.
 
 Firstly, a Named Entity Recognition algorithm was run on the tweets in order to extract human names, and then the [gender package](https://docs.ropensci.org/gender/) in R was used to attempt to infer the gender of those mentioned.
 
-Secondly, the names of all current MPs in the UK parliament and, if they're on Twitter, their Twitter handles, were searched for in the tweets. This particular focus on MPs was 
+Secondly, the names of all current MPs in the UK parliament and, if they're on Twitter, their Twitter handles, were searched for in the tweets. There was a particular focus on MPs since
 
 
 
@@ -32,7 +32,7 @@ Secondly, the names of all current MPs in the UK parliament and, if they're on T
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NDU5NDE0LDY2MzA5ODkxNSwtNDU5Mj
+eyJoaXN0b3J5IjpbMzAwMjc5MDE3LDY2MzA5ODkxNSwtNDU5Mj
 QwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYyMywtMTgyMTkzODE3
 LDExMDQwNTI4MjAsLTYxMTAxOTEzMCwyMDk3OTkxMDUzLC0xNT
 EyOTc2ODUxXX0=
