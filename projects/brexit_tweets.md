@@ -19,7 +19,7 @@ The chart below shows how the tweets were distributed over the week. It's import
 Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
 ## Identifying gendered discourse
-In order to identify tweets that mentioned someone of a particular gender, three methods were used. Firstly, a Named Entity Recognition algorithm was run on the tweets, and the ge 
+In order to identify tweets that mentioned someone of a particular gender, three methods were used. Firstly, a Named Entity Recognition algorithm was run on the tweets in order to extract human names, and then the gender package in R was used  
 
 
 
@@ -28,7 +28,7 @@ In order to identify tweets that mentioned someone of a particular gender, three
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNjc4NTM2LC00NTkyNDAzMDUsLTEwNj
+eyJoaXN0b3J5IjpbNjYzMDk4OTE1LC00NTkyNDAzMDUsLTEwNj
 Y0NDc5OSwtNTg5MDk5NjIzLC0xODIxOTM4MTcsMTEwNDA1Mjgy
 MCwtNjExMDE5MTMwLDIwOTc5OTEwNTMsLTE1MTI5NzY4NTFdfQ
 ==
