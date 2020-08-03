@@ -6,7 +6,7 @@
 
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
 
-Although issues such as EU legislation on women's rights in the labour market have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (in particular the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, researchers are finding that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
+Although issues such as EU legislation on women's rights in the labour market have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (in particular the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, [researchers are finding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689) that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
 
 
 ## Introduction
@@ -47,6 +47,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzc5OTk4MSwyMDk3OTkxMDUzLC0xNT
+eyJoaXN0b3J5IjpbLTI5NTgxNTA5MiwyMDk3OTkxMDUzLC0xNT
 EyOTc2ODUxXX0=
 -->
