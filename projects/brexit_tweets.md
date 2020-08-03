@@ -8,7 +8,7 @@ In the campaign leading up to the EU referendum in 2016, and the subsequent year
 
 Although issues such as EU legislation on women's employment rights have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). The fact that there was no significant difference in the proportions of men and women voting Leave/Remain (according to [British Election Study data](https://www.britishelectionstudy.com/data-objects/panel-study-data/)) has also led [some to argue](https://www.reuters.com/article/us-britain-brexit-women/is-brexit-good-or-bad-for-women-its-divisive-to-even-ask-idUSKCN1RH162) that gender is irrelevant to Brexit. But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (including the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, [researchers are finding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689) that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
 
-So how is gender reflected in popular discourse on Brexit? One place to analyse this is Twitter, which has been a hotpsot of public debate on the issue. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and so here we're going to look at a dataset of #Brexit tweets from that week in order to look at how men and women were talked about in relation to leaving the EU. How much are men and women discussed, is it in the same way? What topics are people talking about in reference to different genders? 
+So how is gender reflected in popular discourse on Brexit? One place to analyse this is Twitter, which has been a hotpsot of public debate on the issue. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and so here we're going to look at a dataset of #Brexit tweets from that week in order to look at how men and women were talked about in relation to leaving the EU. How much are men and women discussed, is it in the same way, and what topics are people talking about in reference to different genders? 
 
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
@@ -38,7 +38,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI3NTA3MzcsLTE4MjE5MzgxNywxMT
+eyJoaXN0b3J5IjpbLTE4MTI1NDc5MjUsLTE4MjE5MzgxNywxMT
 A0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1MywtMTUxMjk3
 Njg1MV19
 -->
