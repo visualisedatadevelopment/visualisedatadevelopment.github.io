@@ -6,9 +6,9 @@
 
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
 
-Although issues such as EU legislation on women's rights in the labour market have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (in particular the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, [researchers are finding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689) that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
+Although issues such as EU legislation on women's employment rights have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (in particular the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, [researchers are finding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689) that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
 
-So how is gender reflected in popular discourse on Brexit?
+So how is gender reflected in popular discourse on Brexit? One place to analyse
 
 Against this background, this brief piece of exploratory research seeks to look into gendered aspects of popular discourse around Brexit - how do men and women feature when we talk about leaving the EU? It does so by exploring one particular record of public debate and commentary on Brexit, namely Twitter. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and for this research we use a dataset of tweets using that hashtag during that week to look at how men and women were talked about in relation to leaving the EU.
 
@@ -43,6 +43,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDA1MjgyMCwtNjExMDE5MTMwLDIwOT
-c5OTEwNTMsLTE1MTI5NzY4NTFdfQ==
+eyJoaXN0b3J5IjpbLTI5MzgwNDE3NCwxMTA0MDUyODIwLC02MT
+EwMTkxMzAsMjA5Nzk5MTA1MywtMTUxMjk3Njg1MV19
 -->
