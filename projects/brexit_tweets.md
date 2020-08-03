@@ -12,11 +12,11 @@ So how is gender reflected in popular discourse on Brexit? One place to analyse 
 ## A quick look at the data
 The data we are going to be analysing consists of 157,512 tweets that used the hashtag #Brexit during the period from the 29th January to 4th February 2020. Of these, 44,235 were original tweets, rather than retweets. For most of the analysis we exclude retweets, in order to avoid widely shared tweets being overly influential in the results.
 
-The chart below shows how the tweets were distributed over the week. It's important to note here that the dataset is a sample of the tweets using #Brexit, rather than all tweets with that hashtag. So in the chart below, we're more interested in the relative distribution as opposed to the actual number of tweet. Not surprisingly, we see higher volumes on the day the UK left and the morning after, with a notable spike around 11pm on the 31st January - the official moment of departure.
+The chart below shows how the tweets were distributed over the week. It's important to note here that the dataset is a sample of the tweets using #Brexit, rather than all tweets with that hashtag. So in the chart below, we're more interested in the relative distribution as opposed to the absolute number of tweets. Not surprisingly, we see higher volumes on the day the UK left and the morning after, with a notable spike around 11pm on the 31st January - the official moment of departure.
 
 ![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png)
 
-Another point to note is that sample focuses on tweets from users in the UK, though tweets from elsewhere are also included, just to a lesser extent. And finally, it is always worth bearing in mind when looking at Twitter data that the tweeting population differs from the general UK population in terms of their demographics and political attitudes <sup>[5](#fn5)</sup>, though this does not mean that it's not a useful artefact of public discourse.
+Before delving into the analysist is always worth bearing in mind when looking at Twitter data that the tweeting population differs from the general UK population in terms of their demographics and political attitudes <sup>[5](#fn5)</sup>, though this does not mean that it's not a useful artefact of public discourse.
 
 ## Identifying gendered discourse
 
@@ -37,7 +37,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTA5OTYyMywtMTgyMTkzODE3LDExMD
-QwNTI4MjAsLTYxMTAxOTEzMCwyMDk3OTkxMDUzLC0xNTEyOTc2
-ODUxXX0=
+eyJoaXN0b3J5IjpbLTY2NjA5NzYxMSwtNTg5MDk5NjIzLC0xOD
+IxOTM4MTcsMTEwNDA1MjgyMCwtNjExMDE5MTMwLDIwOTc5OTEw
+NTMsLTE1MTI5NzY4NTFdfQ==
 -->
