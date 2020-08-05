@@ -29,7 +29,7 @@ This resulted in a set of 13,854 tweets in which we had detected a person being 
 
 ![Plot of tweets mentioning men and women](/assets/images/plots/mentions_by_gender.png)
 
-This suggests that  the discussion of Brexit on Twitter was largely focused on men, which is consistent with [previous research]() which has discussed how the Brexit debate has been male-dominated.  
+This suggests that  the discussion of Brexit on Twitter was largely focused on men, which is consistent with [previous research](https://www.prio.org/Publications/Publication/?x=10651) which has discussed how the Brexit debate has been male-dominated.  
  
 
 
@@ -41,7 +41,7 @@ This suggests that  the discussion of Brexit on Twitter was largely focused on m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzY4NTEzMiwtNzk2NDY2MTAwLDE1OD
+eyJoaXN0b3J5IjpbLTY3MTk5NTM5NywtNzk2NDY2MTAwLDE1OD
 kyNzQxMiwyODI0NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5
 LDY2MzA5ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OT
 A5OTYyMywtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEz
