@@ -25,7 +25,7 @@ Firstly, a Named Entity Recognition algorithm was run on the tweets in order to 
 
 Secondly, the names of all current Members of Parliament (MPs) in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media. In light of this, exploring discourse related to MPs and Brexit would useful.
 
-This resulted in a set of 13,854 tweets in which we had detected a person being mentioned by name, and whose gender we had inferred. Of these, 3728 were tweets mentioning an MP. As can be seen in the chart below, men were mentioned in a far greater proportion than women, both in general and when just looking at mentions of MPs.
+This resulted in a set of 13,854 tweets in which we had detected a person being mentioned by name, and whose gender we had inferred. As can be seen in the chart below, men were mentioned in a far greater proportion than women, both in general and when just looking at mentions of MPs.
 
 ![Plot of tweets mentioning men and women](/assets/images/plots/mentions_by_gender.png)
 
@@ -36,7 +36,7 @@ So, who are the people being mentioned? By far the most discussed were Boris Joh
 ![Plot of most mentioned people](/assets/images/plots/most_mentioned_people.png)
 ![Plot of most mentioned people by gender](/assets/images/plots/most_mentioned_by_gender.png)
  
-
+The charts show that it is mainly MPs being talked about, but several other figures also ap
 
 
 
@@ -46,7 +46,7 @@ So, who are the people being mentioned? By far the most discussed were Boris Joh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTQ0MjIwNCwtMTQwNjU5NjY0OCwtMT
+eyJoaXN0b3J5IjpbMTg3NzYyOTQwMywtMTQwNjU5NjY0OCwtMT
 I5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4OTI3
 NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MDksNj
 YzMDk4OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OSwtNTg5MDk5
