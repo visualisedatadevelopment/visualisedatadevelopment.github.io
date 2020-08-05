@@ -19,13 +19,11 @@ The chart below shows how the tweets were distributed over the week. It's import
 Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
 ## Identifying gendered entities
-In order to identify tweets that mentioned someone of a particular gender, three methods were used.
+In order to identify tweets that mentioned someone of a particular gender, two methods were used.
 
 Firstly, a Named Entity Recognition algorithm was run on the tweets in order to extract human names, and then the [gender package](https://docs.ropensci.org/gender/) in R was used to attempt to infer the gender of those mentioned.
 
 Secondly, the names of all current MPs in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, firstly, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media.
-
-Lastly, a more broad search for any references to a person using pronouns such as "she/her", "he/him/his" was conducted.
 
 
 
@@ -37,8 +35,8 @@ Lastly, a more broad search for any references to a person using pronouns such a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDU3NTIwNywxNjg2NDgwODA5LDY2Mz
-A5ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYy
-MywtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEzMCwyMD
-k3OTkxMDUzLC0xNTEyOTc2ODUxXX0=
+eyJoaXN0b3J5IjpbLTE5NjA0MjUxODgsLTM1NDU3NTIwNywxNj
+g2NDgwODA5LDY2MzA5ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3
+OTksLTU4OTA5OTYyMywtMTgyMTkzODE3LDExMDQwNTI4MjAsLT
+YxMTAxOTEzMCwyMDk3OTkxMDUzLC0xNTEyOTc2ODUxXX0=
 -->
