@@ -31,7 +31,7 @@ This resulted in a set of 13,854 tweets in which we had detected a person being 
 
 This suggests that  the discussion of Brexit on Twitter was largely focused on men, which is consistent with [previous research](https://www.prio.org/Publications/Publication/?x=10651) which has discussed how the Brexit debate has been male-dominated. As is shown above, this is even more true when we consider just the discussion of MPs - in general, tweets mentioning someone mention women 15.01% of the time, but tweets mentioning an MP mention female MPs only 12.02% of the time. This added focus on men when it comes to MPs was largely driven by mentions of Boris Johnson, who was unsurprisingly discussed a lot given that he was Prime Minister. But even when we remove mentions of Boris Johnson, the conversation was still focused on male figures (out of tweets mentioning someone other than the PM, 79.13% mentioned men and 20.87% mentioned women).
 
-So, who are the people being mentioned? By far the most discussed were Boris Johnson and Nigel Farage with 2639 and 1459 mentions respectively. In order to visualise the other people mentioned, we've excluded Boris Johnson an The chart below shows the 15 most mentioned people, along with the 15 most mentioned women and men separately.
+So, who are the people being mentioned? By far the most discussed were Boris Johnson and Nigel Farage with 2639 and 1459 mentions respectively. In order to visualise the other people mentioned, we've plotted the most mentioned nameexcluded these two from the charts below, since they dwarfed everyone else.
 
 ![Plot of most mentioned people](/assets/images/plots/most_mentioned_people.png)
 ![Plot of most mentioned women](/assets/images/plots/most_mentioned_by_gender.png)
@@ -46,7 +46,7 @@ So, who are the people being mentioned? By far the most discussed were Boris Joh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDk4NzQzNSwtMTQwNjU5NjY0OCwtMT
+eyJoaXN0b3J5IjpbMTczMDM2NjE3MCwtMTQwNjU5NjY0OCwtMT
 I5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4OTI3
 NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MDksNj
 YzMDk4OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OSwtNTg5MDk5
