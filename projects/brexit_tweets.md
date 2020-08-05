@@ -23,7 +23,7 @@ In order to identify tweets that mentioned someone of a particular gender, two m
 
 Firstly, a Named Entity Recognition algorithm was run on the tweets in order to extract human names, and then the [gender package](https://docs.ropensci.org/gender/) in R was used to attempt to infer the gender of those mentioned.
 
-Secondly, the names of all current MPs in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media.
+Secondly, the names of all current MPs in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media. In light of this, exploring discourse related to MPs and Brexit would 
 
 We then combined 
 
@@ -37,9 +37,9 @@ We then combined
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMDEwODI5LDI4MjQ2NTg0OSwtMzU0NT
-c1MjA3LDE2ODY0ODA4MDksNjYzMDk4OTE1LC00NTkyNDAzMDUs
-LTEwNjY0NDc5OSwtNTg5MDk5NjIzLC0xODIxOTM4MTcsMTEwND
-A1MjgyMCwtNjExMDE5MTMwLDIwOTc5OTEwNTMsLTE1MTI5NzY4
-NTFdfQ==
+eyJoaXN0b3J5IjpbLTE4OTEyMjk5NDgsMjgyNDY1ODQ5LC0zNT
+Q1NzUyMDcsMTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0MDMw
+NSwtMTA2NjQ0Nzk5LC01ODkwOTk2MjMsLTE4MjE5MzgxNywxMT
+A0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1MywtMTUxMjk3
+Njg1MV19
 -->
