@@ -35,7 +35,7 @@ So, who are the people being mentioned? The chart below shows the 15 most mentio
 
 ![Plot of most mentioned people](/assets/images/plots/most_mentioned_people.png)
 ![Plot of most mentioned women](/assets/images/plots/most_mentioned_female.png)
-![Plot of most mentioned men](/assets/images/plots/most_mentioned_people.png)
+![Plot of most mentioned men](/assets/images/plots/most_mentioned_male.png)
 
  
 
@@ -48,9 +48,10 @@ So, who are the people being mentioned? The chart below shows the 15 most mentio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyNTIxNDc2LC03ODk2NjUzMjAsLTc5Nj
-Q2NjEwMCwxNTg5Mjc0MTIsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcs
-MTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0MDMwNSwtMTA2Nj
-Q0Nzk5LC01ODkwOTk2MjMsLTE4MjE5MzgxNywxMTA0MDUyODIw
-LC02MTEwMTkxMzAsMjA5Nzk5MTA1MywtMTUxMjk3Njg1MV19
+eyJoaXN0b3J5IjpbLTEyOTU3Njk0NjYsLTc4OTY2NTMyMCwtNz
+k2NDY2MTAwLDE1ODkyNzQxMiwyODI0NjU4NDksLTM1NDU3NTIw
+NywxNjg2NDgwODA5LDY2MzA5ODkxNSwtNDU5MjQwMzA1LC0xMD
+Y2NDQ3OTksLTU4OTA5OTYyMywtMTgyMTkzODE3LDExMDQwNTI4
+MjAsLTYxMTAxOTEzMCwyMDk3OTkxMDUzLC0xNTEyOTc2ODUxXX
+0=
 -->
