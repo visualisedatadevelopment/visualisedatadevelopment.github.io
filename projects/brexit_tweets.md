@@ -25,7 +25,7 @@ Firstly, a Named Entity Recognition algorithm was run on the tweets in order to 
 
 Secondly, the names of all current MPs in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media. In light of this, exploring discourse related to MPs and Brexit would useful.
 
-This resulted in a set of 13,854 tweets in which we had detected a person being mentioned by name, and whose gender we had inferred. Of these, 3728 were tweets 
+This resulted in a set of 13,854 tweets in which we had detected a person being mentioned by name, and whose gender we had inferred. Of these, 3728 were tweets mentioning an MP. As can be seen in the chart below, men were mentioned in a far greater proportion than women, both in general and when just looking at mentions of MPs 
 
 
 
@@ -36,9 +36,9 @@ This resulted in a set of 13,854 tweets in which we had detected a person being 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMxMTkwNjIsMjgyNDY1ODQ5LC0zNT
-Q1NzUyMDcsMTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0MDMw
-NSwtMTA2NjQ0Nzk5LC01ODkwOTk2MjMsLTE4MjE5MzgxNywxMT
-A0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1MywtMTUxMjk3
-Njg1MV19
+eyJoaXN0b3J5IjpbMTcxMDM1NzI3NiwyODI0NjU4NDksLTM1ND
+U3NTIwNywxNjg2NDgwODA5LDY2MzA5ODkxNSwtNDU5MjQwMzA1
+LC0xMDY2NDQ3OTksLTU4OTA5OTYyMywtMTgyMTkzODE3LDExMD
+QwNTI4MjAsLTYxMTAxOTEzMCwyMDk3OTkxMDUzLC0xNTEyOTc2
+ODUxXX0=
 -->
