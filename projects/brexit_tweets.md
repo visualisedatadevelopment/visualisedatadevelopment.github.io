@@ -23,13 +23,13 @@ In order to identify tweets that mentioned someone of a particular gender, two m
 
 Firstly, a Named Entity Recognition algorithm was run on the tweets in order to extract human names, and then the [gender package](https://docs.ropensci.org/gender/) in R was used to attempt to infer the gender of those mentioned.
 
-Secondly, the names of all current MPs in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media. In light of this, exploring discourse related to MPs and Brexit would useful.
+Secondly, the names of all current Members of Parliament (MPs) in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media. In light of this, exploring discourse related to MPs and Brexit would useful.
 
 This resulted in a set of 13,854 tweets in which we had detected a person being mentioned by name, and whose gender we had inferred. Of these, 3728 were tweets mentioning an MP. As can be seen in the chart below, men were mentioned in a far greater proportion than women, both in general and when just looking at mentions of MPs.
 
 ![Plot of tweets mentioning men and women](/assets/images/plots/mentions_by_gender.png)
 
-This suggests that  the discussion of Brexit on Twitter was largely focused on men, which is consistent with [previous research](https://www.prio.org/Publications/Publication/?x=10651) which has discussed how the Brexit debate has been male-dominated. As is shown above, this is even more true when we consider just the discussion of MPs - in general, tweets mentioning someone mention women 15.01% of the time, but tweets mentioning an MP mention female MPs only 12.02% of the time. This added focus on men when it comes to MPs is largely driven by mentions of Boris Johnson, who was unsurprisingly discussed a lot given that he was Prime Minister. 
+This suggests that  the discussion of Brexit on Twitter was largely focused on men, which is consistent with [previous research](https://www.prio.org/Publications/Publication/?x=10651) which has discussed how the Brexit debate has been male-dominated. As is shown above, this is even more true when we consider just the discussion of MPs - in general, tweets mentioning someone mention women 15.01% of the time, but tweets mentioning an MP mention female MPs only 12.02% of the time. This added focus on men when it comes to MPs was largely driven by mentions of Boris Johnson, who was unsurprisingly discussed a lot given that he was Prime Minister. But even when we remove mentions of the Boris Johnson,  
  
 
 
@@ -41,9 +41,9 @@ This suggests that  the discussion of Brexit on Twitter was largely focused on m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzgzOTg4NSwtNzk2NDY2MTAwLDE1OD
-kyNzQxMiwyODI0NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5
-LDY2MzA5ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OT
-A5OTYyMywtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEz
-MCwyMDk3OTkxMDUzLC0xNTEyOTc2ODUxXX0=
+eyJoaXN0b3J5IjpbLTIwODIyMDc2ODAsLTc5NjQ2NjEwMCwxNT
+g5Mjc0MTIsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4MDgw
+OSw2NjMwOTg5MTUsLTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5LC01OD
+kwOTk2MjMsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MTEwMTkx
+MzAsMjA5Nzk5MTA1MywtMTUxMjk3Njg1MV19
 -->
