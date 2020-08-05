@@ -40,7 +40,7 @@ The charts show that it is mainly MPs being talked about, but several other figu
 
 ## Does gendered discourse vary by political stance?
 
-So far, we've seen how the set of #Brexit tweets has 
+So far, we've seen how the set of #Brexit tweets is much more male-focused
 
 
 
@@ -50,10 +50,10 @@ So far, we've seen how the set of #Brexit tweets has
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkxNTk2ODEsLTE0MDY1OTY2NDgsLT
-EyOTU3Njk0NjYsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1ODky
-NzQxMiwyODI0NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5LD
-Y2MzA5ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5
-OTYyMywtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEzMC
-wyMDk3OTkxMDUzLC0xNTEyOTc2ODUxXX0=
+eyJoaXN0b3J5IjpbLTg0MjY1MzY2LC0xNDA2NTk2NjQ4LC0xMj
+k1NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0
+MTIsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2Nj
+MwOTg5MTUsLTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5LC01ODkwOTk2
+MjMsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MTEwMTkxMzAsMj
+A5Nzk5MTA1MywtMTUxMjk3Njg1MV19
 -->
