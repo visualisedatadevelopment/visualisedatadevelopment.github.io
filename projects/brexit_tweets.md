@@ -34,9 +34,7 @@ This suggests that  the discussion of Brexit on Twitter was largely focused on m
 So, who are the people being mentioned? The chart below shows the 15 most mentioned people, along with the 15 most mentioned women and men separately.
 
 ![Plot of most mentioned people](/assets/images/plots/most_mentioned_people.png)
-![Plot of most mentioned women](/assets/images/plots/most_mentioned_female.png)
-![Plot of most mentioned men](/assets/images/plots/most_mentioned_male.png)
-
+![Plot of most mentioned women](/assets/images/plots/most_mentioned_by_gender.png)
  
 
 
@@ -48,10 +46,10 @@ So, who are the people being mentioned? The chart below shows the 15 most mentio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU3Njk0NjYsLTc4OTY2NTMyMCwtNz
-k2NDY2MTAwLDE1ODkyNzQxMiwyODI0NjU4NDksLTM1NDU3NTIw
-NywxNjg2NDgwODA5LDY2MzA5ODkxNSwtNDU5MjQwMzA1LC0xMD
-Y2NDQ3OTksLTU4OTA5OTYyMywtMTgyMTkzODE3LDExMDQwNTI4
-MjAsLTYxMTAxOTEzMCwyMDk3OTkxMDUzLC0xNTEyOTc2ODUxXX
-0=
+eyJoaXN0b3J5IjpbLTE0MDY1OTY2NDgsLTEyOTU3Njk0NjYsLT
+c4OTY2NTMyMCwtNzk2NDY2MTAwLDE1ODkyNzQxMiwyODI0NjU4
+NDksLTM1NDU3NTIwNywxNjg2NDgwODA5LDY2MzA5ODkxNSwtND
+U5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYyMywtMTgyMTkz
+ODE3LDExMDQwNTI4MjAsLTYxMTAxOTEzMCwyMDk3OTkxMDUzLC
+0xNTEyOTc2ODUxXX0=
 -->
