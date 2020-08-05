@@ -36,7 +36,7 @@ So, who are the people being mentioned? By far the most discussed were Boris Joh
 ![Plot of most mentioned people](/assets/images/plots/most_mentioned_people.png)
 ![Plot of most mentioned people by gender](/assets/images/plots/most_mentioned_by_gender.png)
  
-The charts show that it is mainly MPs being talked about, but several other figures also ap
+The charts show that it is mainly MPs being talked about, but several other figures also appear, including other politicians (Donald Trump, Ann Widdecombe), journalists (Laura Kuenssberg, Katie Hopkins)
 
 
 
@@ -46,10 +46,10 @@ The charts show that it is mainly MPs being talked about, but several other figu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzYyOTQwMywtMTQwNjU5NjY0OCwtMT
-I5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4OTI3
-NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MDksNj
-YzMDk4OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OSwtNTg5MDk5
-NjIzLC0xODIxOTM4MTcsMTEwNDA1MjgyMCwtNjExMDE5MTMwLD
-IwOTc5OTEwNTMsLTE1MTI5NzY4NTFdfQ==
+eyJoaXN0b3J5IjpbNjI1OTQyOTMsLTE0MDY1OTY2NDgsLTEyOT
+U3Njk0NjYsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1ODkyNzQx
+MiwyODI0NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5LDY2Mz
+A5ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYy
+MywtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEzMCwyMD
+k3OTkxMDUzLC0xNTEyOTc2ODUxXX0=
 -->
