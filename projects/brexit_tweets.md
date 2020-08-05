@@ -29,7 +29,7 @@ This resulted in a set of 13,854 tweets in which we had detected a person being 
 
 ![Plot of tweets mentioning men and women](/assets/images/plots/mentions_by_gender.png)
 
-This suggests that  the discussion of Brexit on Twitter was largely focused on men, which is consistent with [previous research](https://www.prio.org/Publications/Publication/?x=10651) which has discussed how the Brexit debate has been male-dominated. As is shown above, this is even more true when we consider just the discussion of MPs - in general, tweets mentioning someone mention women 15.01% of the time, but tweets mentioning an MP mention female MPs only 12.02% of the time. This added focus on men when it comes to MPs was largely driven by mentions of Boris Johnson, who was unsurprisingly discussed a lot given that he was Prime Minister. But even when we remove mentions of the Boris Johnson,  
+This suggests that  the discussion of Brexit on Twitter was largely focused on men, which is consistent with [previous research](https://www.prio.org/Publications/Publication/?x=10651) which has discussed how the Brexit debate has been male-dominated. As is shown above, this is even more true when we consider just the discussion of MPs - in general, tweets mentioning someone mention women 15.01% of the time, but tweets mentioning an MP mention female MPs only 12.02% of the time. This added focus on men when it comes to MPs was largely driven by mentions of Boris Johnson, who was unsurprisingly discussed a lot given that he was Prime Minister. But even when we remove mentions of the Boris Johnson, the conversation was still focused on male figures ( 
  
 
 
@@ -41,9 +41,9 @@ This suggests that  the discussion of Brexit on Twitter was largely focused on m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIyMDc2ODAsLTc5NjQ2NjEwMCwxNT
-g5Mjc0MTIsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4MDgw
-OSw2NjMwOTg5MTUsLTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5LC01OD
-kwOTk2MjMsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MTEwMTkx
-MzAsMjA5Nzk5MTA1MywtMTUxMjk3Njg1MV19
+eyJoaXN0b3J5IjpbMjA0OTI2MTI4MSwtNzk2NDY2MTAwLDE1OD
+kyNzQxMiwyODI0NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5
+LDY2MzA5ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OT
+A5OTYyMywtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEz
+MCwyMDk3OTkxMDUzLC0xNTEyOTc2ODUxXX0=
 -->
