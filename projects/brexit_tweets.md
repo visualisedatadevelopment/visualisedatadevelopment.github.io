@@ -27,7 +27,7 @@ Secondly, the names of all current MPs in the UK parliament and, if they were on
 
 This resulted in a set of 13,854 tweets in which we had detected a person being mentioned by name, and whose gender we had inferred. Of these, 3728 were tweets mentioning an MP. As can be seen in the chart below, men were mentioned in a far greater proportion than women, both in general and when just looking at mentions of MPs.
 
-![Plot of tweets mentioning men and women](/assets/images/plots/mentions_by_gender.png")
+![Plot of tweets mentioning men and women](/assets/images/plots/mentions_by_gender.png)
 
 
  
@@ -41,7 +41,7 @@ This resulted in a set of 13,854 tweets in which we had detected a person being 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDMxMTk0MiwxNTg5Mjc0MTIsMjgyND
+eyJoaXN0b3J5IjpbLTc5NjQ2NjEwMCwxNTg5Mjc0MTIsMjgyND
 Y1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMwOTg5MTUs
 LTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5LC01ODkwOTk2MjMsLTE4Mj
 E5MzgxNywxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1
