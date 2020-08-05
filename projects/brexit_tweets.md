@@ -36,7 +36,7 @@ So, who are the people being mentioned? By far the most discussed were Boris Joh
 ![Plot of most mentioned people](/assets/images/plots/most_mentioned_people.png)
 ![Plot of most mentioned people by gender](/assets/images/plots/most_mentioned_by_gender.png)
  
-The charts show that it is mainly MPs being talked about, but several other figures also appear, including other politicians (Donald Trump, Ann Widdecombe), journalists (Laura Kuenssberg, Katie Hopkins), activists involved with Brexit (Gina Miller) and historical figures (Winston Churchill).
+The charts show that it is mainly MPs being talked about, but several other figures also appear, including other politicians (Donald Trump, Ann Widdecombe), journalists/writers (Laura Kuenssberg, Ian McEwan, Katie Hopkins), activists involved with Brexit (Gina Miller) and historical figures (Winston Churchill). 
 
 
 
@@ -46,7 +46,7 @@ The charts show that it is mainly MPs being talked about, but several other figu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg5OTkzMiwtMTQwNjU5NjY0OCwtMT
+eyJoaXN0b3J5IjpbMTk4OTQ5NzEwOCwtMTQwNjU5NjY0OCwtMT
 I5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4OTI3
 NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MDksNj
 YzMDk4OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OSwtNTg5MDk5
