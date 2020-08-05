@@ -23,7 +23,7 @@ In order to identify tweets that mentioned someone of a particular gender, two m
 
 Firstly, a Named Entity Recognition algorithm was run on the tweets in order to extract human names, and then the [gender package](https://docs.ropensci.org/gender/) in R was used to attempt to infer the gender of those mentioned.
 
-Secondly, the names of all current MPs in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, firstly, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media.
+Secondly, the names of all current MPs in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media.
 
 
 
@@ -35,8 +35,8 @@ Secondly, the names of all current MPs in the UK parliament and, if they were on
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA0MjUxODgsLTM1NDU3NTIwNywxNj
-g2NDgwODA5LDY2MzA5ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3
-OTksLTU4OTA5OTYyMywtMTgyMTkzODE3LDExMDQwNTI4MjAsLT
-YxMTAxOTEzMCwyMDk3OTkxMDUzLC0xNTEyOTc2ODUxXX0=
+eyJoaXN0b3J5IjpbMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4Nj
+Q4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5
+LC01ODkwOTk2MjMsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MT
+EwMTkxMzAsMjA5Nzk5MTA1MywtMTUxMjk3Njg1MV19
 -->
