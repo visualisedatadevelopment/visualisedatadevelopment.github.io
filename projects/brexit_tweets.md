@@ -56,7 +56,8 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that there was almost no difference between Leave and Remain tweets, with both mentioning men about 84% of the time. However, if we look at just mentions of MPs,  
+The chart shows that there was almost no difference between Leave and Remain tweets, with both mentioning men about 84% of the time. However, in the plot below, we can see that if we look at just mentions of MPs, there is a difference between Leave and Remain.
+ 
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
 
@@ -66,7 +67,7 @@ The chart shows that there was almost no difference between Leave and Remain twe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc4ODM2OTQsMjQ2MjcyODIsMjAwMD
+eyJoaXN0b3J5IjpbLTEyMzgyODcwOTgsMjQ2MjcyODIsMjAwMD
 QzMDIxMCwyMDI5NTExMzM0LC0yMTE1MTYxNzY2LC03MjA4MDIw
 MzUsLTgzMDUxNTM2LC05NjczNTU4MTksLTQzMTQ0MTkwMSwtMT
 Y2Njg1OTIyMSwtMTQwNjU5NjY0OCwtMTI5NTc2OTQ2NiwtNzg5
