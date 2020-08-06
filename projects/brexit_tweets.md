@@ -48,7 +48,7 @@ In order to answer this we need a way of classifying tweets as pro-Leave or pro-
 
 Firstly, since manually tagging tweets is very time and resource consuming, in order to create a tagged subset of tweets, we used an adapted hashtag-based analysis to identify Leave or Remain tweets. This involved creating a list of the most popular hashtags and manually classifying them as Leave, Remain or Neither, and then searching for tweets using a Leave/Remain hashtag. One of the drawbacks of hashtag-based analysis is that users sometimes will be writing about a hashtag without endorsing it. For example, the sentence "Theresa May said #leavemeansleave but what does that mean?" is very different to "People who want a second referendum don't get it - they lost, we're leaving the EU. #leavemeansleave". In order to avoid this problem, we only considered hashtags that were not part of a sentence and which, as is common in tweets, came at the end of the tweet. This still does not deal with other issues with hashtag-based analysis, such as people using them ironically, however it does reduce the complications of people discussing a hashtag/phrase they do not support.
 
-Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours algorithm to classify the entire dataset. For this, the tweet text was converted into a vector representation using a [word2vec]([https://radimrehurek.com/gensim/models/word2vec.html](https://radimrehurek.com/gensim/models/word2vec.html)) model in the gensim Python module. This 
+Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN) algorithm to classify the entire dataset. For this, the tweet text was converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) Python module. The KNN algorithm 
 
 
 
@@ -58,11 +58,11 @@ Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours algor
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkyNDYxOTgsLTk2NzM1NTgxOSwtND
-MxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1
-NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MT
-IsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMw
-OTg5MTUsLTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5LC01ODkwOTk2Mj
-MsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5
-Nzk5MTA1M119
+eyJoaXN0b3J5IjpbMzI1OTMwOTg2LC05NjczNTU4MTksLTQzMT
+Q0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OCwtMTI5NTc2
+OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4OTI3NDEyLD
+I4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MDksNjYzMDk4
+OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OSwtNTg5MDk5NjIzLC
+0xODIxOTM4MTcsMTEwNDA1MjgyMCwtNjExMDE5MTMwLDIwOTc5
+OTEwNTNdfQ==
 -->
