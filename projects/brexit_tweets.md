@@ -46,7 +46,7 @@ So far, we've seen how the set of #Brexit tweets is heavily male-focused, with m
 
 In order to answer this we need a way of classifying tweets as pro-Leave or pro-Remain. Previous research has used various text-mining methods for determining political stance of tweets. In relation to Brexit, [one study](https://ieeexplore.ieee.org/document/7836698) has used a hashtag-based analysis to classify tweets as Leave/Remain, whilst [others](https://link.springer.com/article/10.1186/s40649-017-0042-6#Sec15) have used more sophisticated, but also more labour-intensive, machine learning methods based on a subset of tweets that have been pre-classified by humans manually. In our research, we used an approach that is somewhere in between these two methods.
 
-Firstly, since manually tagging tweets is very time and resource consuming, in order to create a tagged subset of tweets, we used an adapted hashtag-based analysis to identify Leave or Remain tweets. This involved creating a list of the most popular hashtags and manually classifying them as Leave, Remain or Neither. One of the drawbacks of hashtag-based analysis is that users sometimes will be writing about a hashtag without endorsing it. For example
+Firstly, since manually tagging tweets is very time and resource consuming, in order to create a tagged subset of tweets, we used an adapted hashtag-based analysis to identify Leave or Remain tweets. This involved creating a list of the most popular hashtags and manually classifying them as Leave, Remain or Neither. One of the drawbacks of hashtag-based analysis is that users sometimes will be writing about a hashtag without endorsing it. For exampl, the sentence "Theresa May said #leavemeansleave but what does that mean?" is very different to "People who want a second referendum don
 
 
 
@@ -56,11 +56,11 @@ Firstly, since manually tagging tweets is very time and resource consuming, in o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI4NDk0MDYsLTk2NzM1NTgxOSwtND
-MxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1
-NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MT
-IsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMw
-OTg5MTUsLTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5LC01ODkwOTk2Mj
-MsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5
-Nzk5MTA1M119
+eyJoaXN0b3J5IjpbLTQzMzUxMzE1NSwtOTY3MzU1ODE5LC00Mz
+E0NDE5MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3
+Njk0NjYsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1ODkyNzQxMi
+wyODI0NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5LDY2MzA5
+ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYyMy
+wtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEzMCwyMDk3
+OTkxMDUzXX0=
 -->
