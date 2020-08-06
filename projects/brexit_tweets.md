@@ -50,7 +50,7 @@ Firstly, since manually tagging tweets is very time and resource consuming, in o
 
 Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN) algorithm to classify the entire dataset. For this, the tweet text was converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) Python module. The KNN algorithm then calculated which tweets in the pre-tagged Leave/Remain set were semantically closest to each tweet, and then classified the tweet based on the side of these nearest "neighbours". The algorithm only classified a tweet as Leave or Remain if at least four of the five neighbours were of one particular side, otherwise it was classified as Neither. This approach meant that fewer tweets were given a Leave/Remain classification, but it also reduced the likelihood of false positives.
 
-After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter, which is 
+After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter, which is largely to do with Twitter users being younger and more 
 
 
 
@@ -59,11 +59,11 @@ After running the algorithm, the tweets were classified in the following proport
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU2NjUxNTYsLTgzMDUxNTM2LC05Nj
-czNTU4MTksLTQzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5
-NjY0OCwtMTI5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMD
-AsMTU4OTI3NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0
-ODA4MDksNjYzMDk4OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OS
-wtNTg5MDk5NjIzLC0xODIxOTM4MTcsMTEwNDA1MjgyMCwtNjEx
-MDE5MTMwXX0=
+eyJoaXN0b3J5IjpbLTcyMDgwMjAzNSwtODMwNTE1MzYsLTk2Nz
+M1NTgxOSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2
+NjQ4LC0xMjk1NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMC
+wxNTg5Mjc0MTIsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4
+MDgwOSw2NjMwOTg5MTUsLTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5LC
+01ODkwOTk2MjMsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MTEw
+MTkxMzBdfQ==
 -->
