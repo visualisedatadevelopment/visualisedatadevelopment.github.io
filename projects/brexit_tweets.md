@@ -46,9 +46,9 @@ So far, we've seen how the set of #Brexit tweets is heavily male-focused, with m
 
 In order to answer this we need a way of classifying tweets as pro-Leave or pro-Remain. Previous research has used various text-mining methods for determining political stance of tweets. In relation to Brexit, [one study](https://ieeexplore.ieee.org/document/7836698) has used a hashtag-based analysis to classify tweets as Leave/Remain, whilst [others](https://link.springer.com/article/10.1186/s40649-017-0042-6#Sec15) have used more sophisticated, but also more labour-intensive, machine learning methods based on a subset of tweets that have been pre-classified by humans manually. In our research, we used an approach that is somewhere in between these two methods.
 
-Firstly, since manually tagging tweets is very time and resource consuming, in order to create a tagged subset of tweets, we used an adapted hashtag-based analysis to identify Leave or Remain tweets. This involved creating a list of the most popular hashtags and manually classifying them as Leave, Remain or Neither. One of the drawbacks of hashtag-based analysis is that users sometimes will be writing about a hashtag without endorsing it. For example, the sentence "Theresa May said #leavemeansleave but what does that mean?" is very different to "People who want a second referendum don't get it - they lost, we're leaving the EU. #leavemeansleave". In order to avoid this problem, we only considered hashtags that were not part of a sentence and which, as is common in tweets, came at the end of the tweet. This still does not deal with other issues with hashtag-based analysis, such as people using them ironically, however it does reduce the complications of people discussing a hashtag/phrase they do not support.
+Firstly, since manually tagging tweets is very time and resource consuming, in order to create a tagged subset of tweets, we used an adapted hashtag-based analysis to identify Leave or Remain tweets. This involved creating a list of the most popular hashtags and manually classifying them as Leave, Remain or Neither, and then searching for tweets using a Leave/Remain hashtag. One of the drawbacks of hashtag-based analysis is that users sometimes will be writing about a hashtag without endorsing it. For example, the sentence "Theresa May said #leavemeansleave but what does that mean?" is very different to "People who want a second referendum don't get it - they lost, we're leaving the EU. #leavemeansleave". In order to avoid this problem, we only considered hashtags that were not part of a sentence and which, as is common in tweets, came at the end of the tweet. This still does not deal with other issues with hashtag-based analysis, such as people using them ironically, however it does reduce the complications of people discussing a hashtag/phrase they do not support.
 
-Based on the set of 
+Based on the set of pre-tagged tweets, 
 
 
 
@@ -58,11 +58,11 @@ Based on the set of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNTU3MjkxLC05NjczNTU4MTksLTQzMT
-Q0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OCwtMTI5NTc2
-OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4OTI3NDEyLD
-I4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MDksNjYzMDk4
-OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OSwtNTg5MDk5NjIzLC
-0xODIxOTM4MTcsMTEwNDA1MjgyMCwtNjExMDE5MTMwLDIwOTc5
-OTEwNTNdfQ==
+eyJoaXN0b3J5IjpbMTA3MzI1MTU5OSwtOTY3MzU1ODE5LC00Mz
+E0NDE5MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3
+Njk0NjYsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1ODkyNzQxMi
+wyODI0NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5LDY2MzA5
+ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYyMy
+wtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEzMCwyMDk3
+OTkxMDUzXX0=
 -->
