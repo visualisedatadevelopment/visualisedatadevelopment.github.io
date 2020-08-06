@@ -52,7 +52,10 @@ Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN)
 
 After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which (before demographic weighting to adjust for the fact that Twitter users overall are younger than the general population) have seen higher support for Remain than Leave on Twitter.
 
-We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below. 
+We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below.
+
+![](/assets/images/plots/gender_by_stance.png)
+![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
 
 
@@ -61,11 +64,11 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUxNjE3NjYsLTcyMDgwMjAzNSwtOD
-MwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQxOTAxLC0xNjY2ODU5
-MjIxLC0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03ODk2NjUzMj
-AsLTc5NjQ2NjEwMCwxNTg5Mjc0MTIsMjgyNDY1ODQ5LC0zNTQ1
-NzUyMDcsMTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0MDMwNS
-wtMTA2NjQ0Nzk5LC01ODkwOTk2MjMsLTE4MjE5MzgxNywxMTA0
-MDUyODIwXX0=
+eyJoaXN0b3J5IjpbMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNz
+IwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5
+MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3Njk0Nj
+YsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1ODkyNzQxMiwyODI0
+NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5LDY2MzA5ODkxNS
+wtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYyMywtMTgy
+MTkzODE3XX0=
 -->
