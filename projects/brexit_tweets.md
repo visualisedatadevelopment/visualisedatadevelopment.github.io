@@ -56,7 +56,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-
+The chart shows that Leave and Remain tweets discussed 
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
 
@@ -66,11 +66,11 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMT
-E1MTYxNzY2LC03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4
-MTksLTQzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OC
-wtMTI5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4
-OTI3NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MD
-ksNjYzMDk4OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OSwtNTg5
-MDk5NjIzXX0=
+eyJoaXN0b3J5IjpbLTQ2MjY3NjcxMywyMDAwNDMwMjEwLDIwMj
+k1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1
+MzYsLTk2NzM1NTgxOSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC
+0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03ODk2NjUzMjAsLTc5
+NjQ2NjEwMCwxNTg5Mjc0MTIsMjgyNDY1ODQ5LC0zNTQ1NzUyMD
+csMTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0MDMwNSwtMTA2
+NjQ0Nzk5XX0=
 -->
