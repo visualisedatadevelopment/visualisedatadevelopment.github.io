@@ -60,18 +60,18 @@ The chart shows that there was almost no difference between Leave and Remain twe
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
-Whilst both Leave and Remain tweets spoke about male MPs far more than female MPs, pro-Leave tweets were more likely to be talking about male MPs compared to pro-Remain tweets. The effect is only small (3.3%) but is statistically significant.
+Whilst both Leave and Remain tweets spoke about male MPs far more than female MPs, pro-Leave tweets were more likely to be talking about male MPs compared to pro-Remain tweets. The effect is only small (3.3%) but is statistically significant (at p < 0.05) according to a Chi-Square test.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODY0NjM3MywtMTIzODI4NzA5OCwyND
-YyNzI4MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3
-NjYsLTcyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1NTgxOSwtND
-MxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1
-NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MT
-IsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMw
-OTg5MTVdfQ==
+eyJoaXN0b3J5IjpbLTEzODkwOTQxMTAsLTEyMzgyODcwOTgsMj
+Q2MjcyODIsMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMTE1MTYx
+NzY2LC03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4MTksLT
+QzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OCwtMTI5
+NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4OTI3ND
+EyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MDksNjYz
+MDk4OTE1XX0=
 -->
