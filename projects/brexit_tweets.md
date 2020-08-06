@@ -56,7 +56,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that there was almost no difference between Leave and Remain tweets, with both 
+The chart shows that there was almost no difference between Leave and Remain tweets, with both mentioning men 84%
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
 
@@ -66,11 +66,11 @@ The chart shows that there was almost no difference between Leave and Remain twe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2MjcyODIsMjAwMDQzMDIxMCwyMDI5NT
-ExMzM0LC0yMTE1MTYxNzY2LC03MjA4MDIwMzUsLTgzMDUxNTM2
-LC05NjczNTU4MTksLTQzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMT
-QwNjU5NjY0OCwtMTI5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0
-NjYxMDAsMTU4OTI3NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LD
-E2ODY0ODA4MDksNjYzMDk4OTE1LC00NTkyNDAzMDUsLTEwNjY0
-NDc5OV19
+eyJoaXN0b3J5IjpbMTQ0MzYwNzczOSwyNDYyNzI4MiwyMDAwND
+MwMjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgwMjAz
+NSwtODMwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQxOTAxLC0xNj
+Y2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03ODk2
+NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MTIsMjgyNDY1ODQ5LC
+0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0
+MDMwNV19
 -->
