@@ -50,7 +50,7 @@ Firstly, since manually tagging tweets is very time and resource consuming, in o
 
 Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN) algorithm to classify the entire dataset. For this, the tweet text was converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) Python module. The KNN algorithm then calculated which tweets in the pre-tagged Leave/Remain set were semantically closest to each tweet, and then classified the tweet based on the side of these nearest "neighbours". The algorithm only classified a tweet as Leave or Remain if at least four of the five neighbours were of one particular side, otherwise it was classified as Neither. This approach meant that fewer tweets were given a Leave/Remain classification, but it also reduced the likelihood of false positives.
 
-After running the algorithm, we ended up with 
+After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either.
 
 
 
@@ -59,7 +59,7 @@ After running the algorithm, we ended up with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg1Mzc2OTYsLTgzMDUxNTM2LC05Nj
+eyJoaXN0b3J5IjpbLTE1ODY2OTU1ODEsLTgzMDUxNTM2LC05Nj
 czNTU4MTksLTQzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5
 NjY0OCwtMTI5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMD
 AsMTU4OTI3NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0
