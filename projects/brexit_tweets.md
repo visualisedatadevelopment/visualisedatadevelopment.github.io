@@ -44,7 +44,7 @@ We can also see here that there are some figures who you would expect to see men
 
 So far, we've seen how the set of #Brexit tweets is heavily male-focused, with most people who are tweeted about being men. But we might also ask, is this the same across political divides? Do tweets supporting Leave or Remain talk about different genders in the same proportion as each other, or is one side more male/female-focused than the other?
 
-In order to answer this we need a way of classifying tweets as pro-Leave or pro-Remain. Previous research has used various method
+In order to answer this we need a way of classifying tweets as pro-Leave or pro-Remain. Previous research has used various text-mining methods for determining political stance of tweets. In relation to Brexit, one study used  
 
 
 
@@ -54,11 +54,11 @@ In order to answer this we need a way of classifying tweets as pro-Leave or pro-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTMzOTk3NCwtNDMxNDQxOTAxLC0xNj
-Y2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03ODk2
-NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MTIsMjgyNDY1ODQ5LC
-0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0
-MDMwNSwtMTA2NjQ0Nzk5LC01ODkwOTk2MjMsLTE4MjE5MzgxNy
-wxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1MywtMTUx
-Mjk3Njg1MV19
+eyJoaXN0b3J5IjpbLTIwMDAwMjk4ODYsLTQzMTQ0MTkwMSwtMT
+Y2Njg1OTIyMSwtMTQwNjU5NjY0OCwtMTI5NTc2OTQ2NiwtNzg5
+NjY1MzIwLC03OTY0NjYxMDAsMTU4OTI3NDEyLDI4MjQ2NTg0OS
+wtMzU0NTc1MjA3LDE2ODY0ODA4MDksNjYzMDk4OTE1LC00NTky
+NDAzMDUsLTEwNjY0NDc5OSwtNTg5MDk5NjIzLC0xODIxOTM4MT
+csMTEwNDA1MjgyMCwtNjExMDE5MTMwLDIwOTc5OTEwNTMsLTE1
+MTI5NzY4NTFdfQ==
 -->
