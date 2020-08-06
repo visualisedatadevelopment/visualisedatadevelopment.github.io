@@ -38,7 +38,7 @@ So, who are the people being mentioned? By far the most discussed were Boris Joh
  
 The charts show that it is mainly MPs being talked about, but several other figures also appear, including other politicians (Donald Trump, Ann Widdecombe), journalists/writers (Laura Kuenssberg, Ian McEwan, Katie Hopkins), activists involved with Brexit (Gina Miller) and historical figures (Winston Churchill). The top chart again shows that men are being discussed more than women in the tweets, with only 4 of the top 15 mentioned people being female.
 
-We can also see here that there are some figures who you would expect to see mentioned more, 
+We can also see here that there are some figures who you would expect to see mentioned more, but who aren't - for example, the adviser to the Prime Minister, Dominic Cummings. This highli
 
 ## Does gendered discourse vary by political stance?
 
@@ -54,11 +54,11 @@ In order to answer this we need a way of classifying tweets as pro-Leave or pro-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODUyODc2LC00MzE0NDE5MDEsLTE2Nj
-Y4NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3Njk0NjYsLTc4OTY2
-NTMyMCwtNzk2NDY2MTAwLDE1ODkyNzQxMiwyODI0NjU4NDksLT
-M1NDU3NTIwNywxNjg2NDgwODA5LDY2MzA5ODkxNSwtNDU5MjQw
-MzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYyMywtMTgyMTkzODE3LD
-ExMDQwNTI4MjAsLTYxMTAxOTEzMCwyMDk3OTkxMDUzLC0xNTEy
-OTc2ODUxXX0=
+eyJoaXN0b3J5IjpbMTA4OTQxNTUwMCwtNDMxNDQxOTAxLC0xNj
+Y2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03ODk2
+NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MTIsMjgyNDY1ODQ5LC
+0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0
+MDMwNSwtMTA2NjQ0Nzk5LC01ODkwOTk2MjMsLTE4MjE5MzgxNy
+wxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5Nzk5MTA1MywtMTUx
+Mjk3Njg1MV19
 -->
