@@ -60,13 +60,14 @@ The chart shows that there was almost no difference between Leave and Remain twe
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
-Whilst both Leave and Remain tweets spoke about male MPs far more than female MPs, pro-Leave tweets did so even more than pro-Remain ones. The effect is small (3.3%) but is statistically significant (at p < 0.05) according to a Chi-Square test. When discussing politicians, pro-Leave discourse on Twitter is  
+Whilst both Leave and Remain tweets spoke about male MPs far more than female MPs, pro-Leave tweets did so even more than pro-Remain ones. The effect is small (3.3%) but is statistically significant (at p < 0.05) according to a Chi-Square test. So, whilst there is no difference when discussing people in general, when tweeting about politicians, pro-Leave discourse on Twitter is slightly more male-focused than pro-Remain discourse.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjczMjIwMywxODgyMjUwNzczLC0xMz
+eyJoaXN0b3J5IjpbLTk4MzU3MDM2OCwxODgyMjUwNzczLC0xMz
 g5MDk0MTEwLC0xMjM4Mjg3MDk4LDI0NjI3MjgyLDIwMDA0MzAy
 MTAsMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNzIwODAyMDM1LC
 04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5MDEsLTE2NjY4
