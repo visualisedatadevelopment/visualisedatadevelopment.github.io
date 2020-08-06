@@ -48,7 +48,7 @@ In order to answer this we need a way of classifying tweets as pro-Leave or pro-
 
 Firstly, since manually tagging tweets is very time and resource consuming, in order to create a tagged subset of tweets, we used an adapted hashtag-based analysis to identify Leave or Remain tweets. This involved creating a list of the most popular hashtags and manually classifying them as Leave, Remain or Neither, and then searching for tweets using a Leave/Remain hashtag. One of the drawbacks of hashtag-based analysis is that users sometimes will be writing about a hashtag without endorsing it. For example, the sentence "Theresa May said #leavemeansleave but what does that mean?" is very different to "People who want a second referendum don't get it - they lost, we're leaving the EU. #leavemeansleave". In order to avoid this problem, we only considered hashtags that were not part of a sentence and which, as is common in tweets, came at the end of the tweet. This still does not deal with other issues with hashtag-based analysis, such as people using them ironically, however it does reduce the complications of people discussing a hashtag/phrase they do not support.
 
-Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN) algorithm to classify the entire dataset. For this, the tweet text was converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) Python module. The KNN algorithm then calculated which tweets in the pre-tagged Leave/Remain set were semantically closest to each tweet, and then classifying th
+Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN) algorithm to classify the entire dataset. For this, the tweet text was converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) Python module. The KNN algorithm then calculated which tweets in the pre-tagged Leave/Remain set were semantically closest to each tweet, and then classifying the tweet based on these nearest "neighbours". Only classified a tweet as Leave or Remain if at least four of the five neighbours were of one particular
 
 
 
@@ -58,11 +58,11 @@ Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDA2ODg2NywtOTY3MzU1ODE5LC00Mz
-E0NDE5MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3
-Njk0NjYsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1ODkyNzQxMi
-wyODI0NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5LDY2MzA5
-ODkxNSwtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYyMy
-wtMTgyMTkzODE3LDExMDQwNTI4MjAsLTYxMTAxOTEzMCwyMDk3
-OTkxMDUzXX0=
+eyJoaXN0b3J5IjpbLTE3Mzg4MTg2NTcsLTk2NzM1NTgxOSwtND
+MxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1
+NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MT
+IsMjgyNDY1ODQ5LC0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMw
+OTg5MTUsLTQ1OTI0MDMwNSwtMTA2NjQ0Nzk5LC01ODkwOTk2Mj
+MsLTE4MjE5MzgxNywxMTA0MDUyODIwLC02MTEwMTkxMzAsMjA5
+Nzk5MTA1M119
 -->
