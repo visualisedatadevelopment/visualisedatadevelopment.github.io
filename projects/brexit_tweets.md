@@ -50,7 +50,9 @@ Firstly, since manually tagging tweets is very time and resource consuming, in o
 
 Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN) algorithm to classify the entire dataset. For this, the tweet text was converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) Python module. The KNN algorithm then calculated which tweets in the pre-tagged Leave/Remain set were semantically closest to each tweet, and then classified the tweet based on the side of these nearest "neighbours". The algorithm only classified a tweet as Leave or Remain if at least four of the five neighbours were of one particular side, otherwise it was classified as Neither. This approach meant that fewer tweets were given a Leave/Remain classification, but it also reduced the likelihood of false positives.
 
-After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which, before demographic weighting, have seen higher support for Remain than Leave on Twitter, which is in part to do with Twitter users generally being younger than the general population.
+After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which (before demographic weighting to adjust for the fact that Twitter users overall are younger than the general population) have seen higher support for Remain than Leave on Twitter.
+
+
 
 
 
@@ -59,11 +61,11 @@ After running the algorithm, the tweets were classified in the following proport
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMjQzNTk3LC03MjA4MDIwMzUsLTgzMD
-UxNTM2LC05NjczNTU4MTksLTQzMTQ0MTkwMSwtMTY2Njg1OTIy
-MSwtMTQwNjU5NjY0OCwtMTI5NTc2OTQ2NiwtNzg5NjY1MzIwLC
-03OTY0NjYxMDAsMTU4OTI3NDEyLDI4MjQ2NTg0OSwtMzU0NTc1
-MjA3LDE2ODY0ODA4MDksNjYzMDk4OTE1LC00NTkyNDAzMDUsLT
-EwNjY0NDc5OSwtNTg5MDk5NjIzLC0xODIxOTM4MTcsMTEwNDA1
-MjgyMF19
+eyJoaXN0b3J5IjpbMTM2MzgwNzQyOSwtNzIwODAyMDM1LC04Mz
+A1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5MDEsLTE2NjY4NTky
+MjEsLTE0MDY1OTY2NDgsLTEyOTU3Njk0NjYsLTc4OTY2NTMyMC
+wtNzk2NDY2MTAwLDE1ODkyNzQxMiwyODI0NjU4NDksLTM1NDU3
+NTIwNywxNjg2NDgwODA5LDY2MzA5ODkxNSwtNDU5MjQwMzA1LC
+0xMDY2NDQ3OTksLTU4OTA5OTYyMywtMTgyMTkzODE3LDExMDQw
+NTI4MjBdfQ==
 -->
