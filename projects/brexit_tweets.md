@@ -56,7 +56,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that Leave and Remain tweets discussed 
+The chart shows that there was almost no difference between Leave and Remain tweets in terms of the proportion 
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
 
@@ -66,7 +66,7 @@ The chart shows that Leave and Remain tweets discussed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjY3NjcxMywyMDAwNDMwMjEwLDIwMj
+eyJoaXN0b3J5IjpbLTM5NDQ3OTI4NywyMDAwNDMwMjEwLDIwMj
 k1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1
 MzYsLTk2NzM1NTgxOSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC
 0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03ODk2NjUzMjAsLTc5
