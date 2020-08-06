@@ -38,7 +38,7 @@ So, who are the people being mentioned? By far the most discussed were Boris Joh
  
 The charts show that it is mainly MPs being talked about, but several other figures also appear, including other politicians (Donald Trump, Ann Widdecombe), journalists/writers (Laura Kuenssberg, Ian McEwan, Katie Hopkins), activists involved with Brexit (Gina Miller) and historical figures (Winston Churchill). The top chart again shows that men are being discussed more than women in the tweets, with only 4 of the top 15 mentioned people being female.
 
-We can also see here that there are some figures who you would expect to see mentioned more, but who aren't - for example, the adviser to the Prime Minister, Dominic Cummings. Exploring this highlights some of the limitations of the methods used to find mentions of people in the tweet dataset. People who are mainly referred to by the last name only (such as Cummings) aren't extracted, for example, since their gender cannot be inferred without their first name. Whilst manually searching for people
+We can also see here that there are some figures who you would expect to see mentioned more, but who aren't - for example, the adviser to the Prime Minister, Dominic Cummings. Exploring this highlights some of the limitations of the methods used to find mentions of people in the tweet dataset. People who are mainly referred to by their last name only (such as Cummings) aren't extracted, for example, since their gender cannot be inferred without their first name. Whilst manually searching for people in the tweets would be possible, this would mean that the results would depend on who was searched for and who was not, and so would potentially skew the analysis.
 
 ## Does gendered discourse vary by political stance?
 
@@ -54,7 +54,7 @@ In order to answer this we need a way of classifying tweets as pro-Leave or pro-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzY3MzA2MCwtNDMxNDQxOTAxLC0xNj
+eyJoaXN0b3J5IjpbLTkxMTMzOTk3NCwtNDMxNDQxOTAxLC0xNj
 Y2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03ODk2
 NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MTIsMjgyNDY1ODQ5LC
 0zNTQ1NzUyMDcsMTY4NjQ4MDgwOSw2NjMwOTg5MTUsLTQ1OTI0
