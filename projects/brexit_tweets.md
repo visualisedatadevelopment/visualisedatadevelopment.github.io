@@ -55,6 +55,8 @@ After running the algorithm, the tweets were classified in the following proport
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below.
 
 ![](/assets/images/plots/gender_by_stance.png)
+
+
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
 
@@ -64,11 +66,11 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNz
-IwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5
-MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3Njk0Nj
-YsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1ODkyNzQxMiwyODI0
-NjU4NDksLTM1NDU3NTIwNywxNjg2NDgwODA5LDY2MzA5ODkxNS
-wtNDU5MjQwMzA1LC0xMDY2NDQ3OTksLTU4OTA5OTYyMywtMTgy
-MTkzODE3XX0=
+eyJoaXN0b3J5IjpbMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMT
+E1MTYxNzY2LC03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4
+MTksLTQzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OC
+wtMTI5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4
+OTI3NDEyLDI4MjQ2NTg0OSwtMzU0NTc1MjA3LDE2ODY0ODA4MD
+ksNjYzMDk4OTE1LC00NTkyNDAzMDUsLTEwNjY0NDc5OSwtNTg5
+MDk5NjIzXX0=
 -->
