@@ -33,10 +33,9 @@ This suggests that  the discussion of Brexit on Twitter was largely focused on m
 
 So, who are the people being mentioned? By far the most discussed were Boris Johnson and Nigel Farage with 2639 and 1459 mentions respectively. In order to visualise the other people mentioned, we've plotted below the most mentioned names excluding Boris Johnson and Nigel Farage since they dwarfed everyone else.
 
-![Plot of most mentioned people](/assets/images/plots/most_mentioned_people.png)
-![Plot of most mentioned people by gender](/assets/images/plots/most_mentioned_by_gender.png)
+![Plot of most mentioned people](/assets/images/plots/most_mentioned_people_stick.png)
  
-The charts show that it is mainly MPs being talked about, but several other figures also appear, including other politicians (Donald Trump, Ann Widdecombe), journalists/writers (Laura Kuenssberg, Ian McEwan, Katie Hopkins), activists involved with Brexit (Gina Miller) and historical figures (Winston Churchill). The top chart again shows that men are being discussed more than women in the tweets, with only 4 of the top 15 mentioned people being female.
+The chart shows that it is mainly MPs being talked about, but several other figures also appear, including other politicians (Donald Trump, Ann Widdecombe), journalists (Laura Kuenssberg), activists involved with Brexit (Gina Miller) and historical figures (Winston Churchill). it again shows that men are being discussed more than women in the tweets, with only 6 of the top 22 mentioned people being female.
 
 We can also see here that there are some figures who you would expect to see mentioned more, but who aren't - for example, the adviser to the Prime Minister, Dominic Cummings. Exploring this highlights some of the limitations of the methods used to find mentions of people in the tweet dataset. People who are mainly referred to by their last name only (such as Cummings) aren't extracted, for example, since their gender cannot be inferred without their first name. Whilst manually searching for people in the tweets would be possible, this would mean that the results would depend on who was searched for and who was not, and so would potentially skew the analysis.
 
@@ -67,11 +66,11 @@ Whilst both Leave and Remain tweets spoke about male MPs far more than female MP
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzU3MDM2OCwxODgyMjUwNzczLC0xMz
-g5MDk0MTEwLC0xMjM4Mjg3MDk4LDI0NjI3MjgyLDIwMDA0MzAy
-MTAsMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNzIwODAyMDM1LC
-04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5MDEsLTE2NjY4
-NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3Njk0NjYsLTc4OTY2NT
-MyMCwtNzk2NDY2MTAwLDE1ODkyNzQxMiwyODI0NjU4NDksLTM1
-NDU3NTIwN119
+eyJoaXN0b3J5IjpbMjA0NzgwNDE2LC05ODM1NzAzNjgsMTg4Mj
+I1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4NzA5OCwyNDYyNzI4
+MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3NjYsLT
+cyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQx
+OTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1NzY5ND
+Y2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwxNTg5Mjc0MTIsMjgy
+NDY1ODQ5XX0=
 -->
