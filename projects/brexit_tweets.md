@@ -53,22 +53,23 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if they are significant, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
+The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if there is a genuine , but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
-## Does the nature of Brexit discourse differ by gender?
+## What do we tweet about when discussing men and women?
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc0MzU4OTUsLTgwOTQ3NzI2Myw1Mj
-AwNjg1NjQsMjA0NzgwNDE2LC05ODM1NzAzNjgsMTg4MjI1MDc3
-MywtMTM4OTA5NDExMCwtMTIzODI4NzA5OCwyNDYyNzI4MiwyMD
-AwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgw
-MjAzNSwtODMwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQxOTAxLC
-0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03
-ODk2NjUzMjBdfQ==
+eyJoaXN0b3J5IjpbNjgwNTUyNjkxLC0xNTE3NDM1ODk1LC04MD
+k0NzcyNjMsNTIwMDY4NTY0LDIwNDc4MDQxNiwtOTgzNTcwMzY4
+LDE4ODIyNTA3NzMsLTEzODkwOTQxMTAsLTEyMzgyODcwOTgsMj
+Q2MjcyODIsMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMTE1MTYx
+NzY2LC03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4MTksLT
+QzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OCwtMTI5
+NTc2OTQ2Nl19
 -->
