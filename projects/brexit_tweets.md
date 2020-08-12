@@ -53,11 +53,11 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if there is a genuine , but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
+The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
-## What do we tweet about when discussing men and women?
+## What do people tweet about when discussing men and women?
 
 
 
@@ -65,11 +65,11 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwNTUyNjkxLC0xNTE3NDM1ODk1LC04MD
-k0NzcyNjMsNTIwMDY4NTY0LDIwNDc4MDQxNiwtOTgzNTcwMzY4
-LDE4ODIyNTA3NzMsLTEzODkwOTQxMTAsLTEyMzgyODcwOTgsMj
-Q2MjcyODIsMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMTE1MTYx
-NzY2LC03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4MTksLT
-QzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OCwtMTI5
-NTc2OTQ2Nl19
+eyJoaXN0b3J5IjpbMTcxMTUyNDkyMiwtMTUxNzQzNTg5NSwtOD
+A5NDc3MjYzLDUyMDA2ODU2NCwyMDQ3ODA0MTYsLTk4MzU3MDM2
+OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3MDk4LD
+I0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMjExNTE2
+MTc2NiwtNzIwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1ODE5LC
+00MzE0NDE5MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEy
+OTU3Njk0NjZdfQ==
 -->
