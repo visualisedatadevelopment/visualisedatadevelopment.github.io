@@ -55,7 +55,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant.
+The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. 
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
@@ -66,7 +66,7 @@ Whilst both Leave and Remain tweets spoke about male MPs far more than female MP
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzk2MjA4NSwyMDQ3ODA0MTYsLTk4Mz
+eyJoaXN0b3J5IjpbLTg1NDQwNDYzMywyMDQ3ODA0MTYsLTk4Mz
 U3MDM2OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3
 MDk4LDI0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMj
 ExNTE2MTc2NiwtNzIwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1
