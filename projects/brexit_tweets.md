@@ -39,7 +39,7 @@ The chart shows that it is mainly MPs being talked about, but several other figu
 
 We can also see here that there are some figures who you would expect to see mentioned more, but who aren't - for example, the adviser to the Prime Minister, Dominic Cummings. Exploring this highlights some of the limitations of the methods used to find mentions of people in the tweet dataset. People who are mainly referred to by their last name only (such as Cummings) aren't extracted, for example, since their gender cannot be inferred without their first name. Whilst manually searching for people in the tweets would be possible, this would mean that the results would depend on who was searched for and who was not, and so would potentially skew the analysis.
 
-## Does gendered discourse vary by political stance?
+## Does the focus on men vary by political stance?
 
 So far, we've seen how the set of #Brexit tweets is heavily male-focused, with most people who are tweeted about being men. But we might also ask, is this the same across political divides? Do tweets supporting Leave or Remain talk about different genders in the same proportion as each other, or is one side more male/female-focused than the other?
 
@@ -57,18 +57,18 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
-## Does the nature of Brexit discourse chan
+## Does the nature of Brexit discourse differ by gender?
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjU2NzEzNSwtODA5NDc3MjYzLDUyMD
-A2ODU2NCwyMDQ3ODA0MTYsLTk4MzU3MDM2OCwxODgyMjUwNzcz
-LC0xMzg5MDk0MTEwLC0xMjM4Mjg3MDk4LDI0NjI3MjgyLDIwMD
-A0MzAyMTAsMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNzIwODAy
-MDM1LC04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5MDEsLT
-E2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3Njk0NjYsLTc4
-OTY2NTMyMF19
+eyJoaXN0b3J5IjpbLTE1MTc0MzU4OTUsLTgwOTQ3NzI2Myw1Mj
+AwNjg1NjQsMjA0NzgwNDE2LC05ODM1NzAzNjgsMTg4MjI1MDc3
+MywtMTM4OTA5NDExMCwtMTIzODI4NzA5OCwyNDYyNzI4MiwyMD
+AwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgw
+MjAzNSwtODMwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQxOTAxLC
+0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03
+ODk2NjUzMjBdfQ==
 -->
