@@ -61,13 +61,13 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
 
 So far we have seen how discussion of men is far more prevalent in Brexit tweets than discussion of women. However, we might also ask whether the nature of discourse changes when talking about male and female figures  - are the same topics discussed, and is the language used the same?
 
-To analyse this we took a set of topics relating t
+To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MzgyNTYxLDEyMzc3Mjk2MDAsODY0Mj
+eyJoaXN0b3J5IjpbOTQ0MjExMDIxLDEyMzc3Mjk2MDAsODY0Mj
 A5MTc0LC0xNTE3NDM1ODk1LC04MDk0NzcyNjMsNTIwMDY4NTY0
 LDIwNDc4MDQxNiwtOTgzNTcwMzY4LDE4ODIyNTA3NzMsLTEzOD
 kwOTQxMTAsLTEyMzgyODcwOTgsMjQ2MjcyODIsMjAwMDQzMDIx
