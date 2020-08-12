@@ -57,18 +57,18 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
-## Does the nature of Brexit discourse 
+## Does the nature of Brexit discourse chan
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTQ3NzI2Myw1MjAwNjg1NjQsMjA0Nz
-gwNDE2LC05ODM1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDEx
-MCwtMTIzODI4NzA5OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMj
-k1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1
-MzYsLTk2NzM1NTgxOSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC
-0xNDA2NTk2NjQ4LC0xMjk1NzY5NDY2LC03ODk2NjUzMjAsLTc5
-NjQ2NjEwMF19
+eyJoaXN0b3J5IjpbMTI3MjU2NzEzNSwtODA5NDc3MjYzLDUyMD
+A2ODU2NCwyMDQ3ODA0MTYsLTk4MzU3MDM2OCwxODgyMjUwNzcz
+LC0xMzg5MDk0MTEwLC0xMjM4Mjg3MDk4LDI0NjI3MjgyLDIwMD
+A0MzAyMTAsMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNzIwODAy
+MDM1LC04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5MDEsLT
+E2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEyOTU3Njk0NjYsLTc4
+OTY2NTMyMF19
 -->
