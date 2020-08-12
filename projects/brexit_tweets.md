@@ -55,22 +55,22 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if they are significant, but generally there is no evidence to suggest the two sides discuss men and women in different proportions to each other - both pro-Remain discou
+The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if they are significant, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
-
+## 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTExMDgxMCwyMDQ3ODA0MTYsLTk4Mz
-U3MDM2OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3
-MDk4LDI0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMj
-ExNTE2MTc2NiwtNzIwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1
-ODE5LC00MzE0NDE5MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2ND
-gsLTEyOTU3Njk0NjYsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1
-ODkyNzQxMl19
+eyJoaXN0b3J5IjpbNDI4NzE2NjkyLDIwNDc4MDQxNiwtOTgzNT
+cwMzY4LDE4ODIyNTA3NzMsLTEzODkwOTQxMTAsLTEyMzgyODcw
+OTgsMjQ2MjcyODIsMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMT
+E1MTYxNzY2LC03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4
+MTksLTQzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OC
+wtMTI5NTc2OTQ2NiwtNzg5NjY1MzIwLC03OTY0NjYxMDAsMTU4
+OTI3NDEyXX0=
 -->
