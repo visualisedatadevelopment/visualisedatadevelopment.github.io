@@ -45,7 +45,7 @@ So far, we've seen how the set of #Brexit tweets is heavily male-focused, with m
 
 In order to answer this we need a way of classifying tweets as pro-Leave or pro-Remain. Previous research has used various text-mining methods for determining political stance of tweets. In relation to Brexit, [one study](https://ieeexplore.ieee.org/document/7836698) has used a hashtag-based analysis to classify tweets as Leave/Remain, whilst [others](https://link.springer.com/article/10.1186/s40649-017-0042-6#Sec15) have used more sophisticated, but also more labour-intensive, machine learning methods based on a subset of tweets that have been pre-classified by humans manually.
 
-In our research, we used an approach that is somewhere in between these two methods. Firstly, subset of pre-tagged tweets was created using an adapted hashtag-based analysis. All the tweets were then converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html). A K Nearest Neighbours (KNN) algorithm was then used to classify tweets as Leave or Remain based on their proximity to tweets in the pre-tagged subset.
+In our research, we used an approach that is somewhere in between these two methods. Firstly, a subset of pre-tagged tweets was created using an adapted hashtag-based analysis. All the tweets were then converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) package. A K Nearest Neighbours (KNN) algorithm was then used to classify tweets as Leave or Remain based on their proximity to tweets in the pre-tagged subset.
 
 After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter. This research has also found that once Twitter data is weighted to take account of the fact that social media users are generally younger than the overall population, Leave/Remain support on Twitter reflects that of the rest of the population.
 
@@ -57,7 +57,7 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
-## What do people tweet about when discussing men and women?
+## What do people tweet about when discussing men and women and Brexit?
 
 
 
@@ -65,11 +65,11 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTUyNDkyMiwtMTUxNzQzNTg5NSwtOD
-A5NDc3MjYzLDUyMDA2ODU2NCwyMDQ3ODA0MTYsLTk4MzU3MDM2
-OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3MDk4LD
-I0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMjExNTE2
-MTc2NiwtNzIwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1ODE5LC
-00MzE0NDE5MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2NDgsLTEy
-OTU3Njk0NjZdfQ==
+eyJoaXN0b3J5IjpbODY0MjA5MTc0LC0xNTE3NDM1ODk1LC04MD
+k0NzcyNjMsNTIwMDY4NTY0LDIwNDc4MDQxNiwtOTgzNTcwMzY4
+LDE4ODIyNTA3NzMsLTEzODkwOTQxMTAsLTEyMzgyODcwOTgsMj
+Q2MjcyODIsMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMTE1MTYx
+NzY2LC03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4MTksLT
+QzMTQ0MTkwMSwtMTY2Njg1OTIyMSwtMTQwNjU5NjY0OCwtMTI5
+NTc2OTQ2Nl19
 -->
