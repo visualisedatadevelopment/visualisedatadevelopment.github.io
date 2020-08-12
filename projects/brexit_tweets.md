@@ -49,7 +49,7 @@ Firstly, since manually tagging tweets is very time and resource consuming, in o
 
 Based on the set of pre-tagged tweets, we then used a K Nearest Neighbours (KNN) algorithm to classify the entire dataset. For this, the tweet text was converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) Python module. The KNN algorithm then calculated which tweets in the pre-tagged Leave/Remain set were semantically closest to each tweet, and then classified the tweet based on the side of these nearest "neighbours". The algorithm only classified a tweet as Leave or Remain if at least four of the five neighbours were of one particular side, otherwise it was classified as Neither. This approach meant that fewer tweets were given a Leave/Remain classification, but it also reduced the likelihood of false positives.
 
-After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter. Once taking into account the fact that social media users are generally youn
+After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter. This research has also found that once Twitter data is weighted to take account of the fact that social media users are generally younger than the overall population, Leave/Remain support on Twitetr
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below.
 
@@ -66,11 +66,11 @@ Whilst both Leave and Remain tweets spoke about male MPs far more than female MP
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjA2ODUxMywyMDQ3ODA0MTYsLTk4Mz
-U3MDM2OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3
-MDk4LDI0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMj
-ExNTE2MTc2NiwtNzIwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1
-ODE5LC00MzE0NDE5MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2ND
-gsLTEyOTU3Njk0NjYsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1
-ODkyNzQxMl19
+eyJoaXN0b3J5IjpbLTE0MzA5MDc3MDQsMjA0NzgwNDE2LC05OD
+M1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4
+NzA5OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLT
+IxMTUxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1
+NTgxOSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2Nj
+Q4LC0xMjk1NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwx
+NTg5Mjc0MTJdfQ==
 -->
