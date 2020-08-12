@@ -55,7 +55,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further invesit
+The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if they are significant, but generally there is no evidence to suggest the two sides discuss men and women in different proportions to each other - both pro-Remain discou
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
@@ -66,11 +66,11 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NzkwNTQsMjA0NzgwNDE2LC05ODM1Nz
-AzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4NzA5
-OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMT
-UxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1NTgx
-OSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC
-0xMjk1NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwxNTg5
-Mjc0MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5MTExMDgxMCwyMDQ3ODA0MTYsLTk4Mz
+U3MDM2OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3
+MDk4LDI0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMj
+ExNTE2MTc2NiwtNzIwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1
+ODE5LC00MzE0NDE5MDEsLTE2NjY4NTkyMjEsLTE0MDY1OTY2ND
+gsLTEyOTU3Njk0NjYsLTc4OTY2NTMyMCwtNzk2NDY2MTAwLDE1
+ODkyNzQxMl19
 -->
