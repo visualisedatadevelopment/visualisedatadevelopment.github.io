@@ -55,7 +55,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 ![](/assets/images/plots/gender_by_stance.png)
 
-The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. This would suggest that there is no substa
+The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further invesit
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
 
@@ -66,11 +66,11 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgxNDg5MDksMjA0NzgwNDE2LC05OD
-M1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4
-NzA5OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLT
-IxMTUxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1
-NTgxOSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2Nj
-Q4LC0xMjk1NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwx
-NTg5Mjc0MTJdfQ==
+eyJoaXN0b3J5IjpbNjQ3NzkwNTQsMjA0NzgwNDE2LC05ODM1Nz
+AzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4NzA5
+OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMT
+UxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1NTgx
+OSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2NTk2NjQ4LC
+0xMjk1NzY5NDY2LC03ODk2NjUzMjAsLTc5NjQ2NjEwMCwxNTg5
+Mjc0MTJdfQ==
 -->
