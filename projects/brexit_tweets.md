@@ -63,17 +63,18 @@ So far we have seen how discussion of men is far more prevalent in Brexit tweets
 
 To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. We then used these key words to find tweets that discussed each topic. This allowed us to see how commonly a topic was discussed, and in particular, to compare how likely they were to be brought up in a tweet that also discusses a man or a woman. The plot below compares tweets mentioning men to tweets mentioning women in terms of how likely they were to mention a certain topic.
 
-![](/asse
+![](/assets/images/plots/topic_gender_odds_ratios.png)
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTcyMzYwNTMsMTIzNzcyOTYwMCw4Nj
-QyMDkxNzQsLTE1MTc0MzU4OTUsLTgwOTQ3NzI2Myw1MjAwNjg1
-NjQsMjA0NzgwNDE2LC05ODM1NzAzNjgsMTg4MjI1MDc3MywtMT
-M4OTA5NDExMCwtMTIzODI4NzA5OCwyNDYyNzI4MiwyMDAwNDMw
-MjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgwMjAzNS
-wtODMwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQxOTAxLC0xNjY2
-ODU5MjIxXX0=
+eyJoaXN0b3J5IjpbLTI0MjIzMTg1NCwxMjM3NzI5NjAwLDg2ND
+IwOTE3NCwtMTUxNzQzNTg5NSwtODA5NDc3MjYzLDUyMDA2ODU2
+NCwyMDQ3ODA0MTYsLTk4MzU3MDM2OCwxODgyMjUwNzczLC0xMz
+g5MDk0MTEwLC0xMjM4Mjg3MDk4LDI0NjI3MjgyLDIwMDA0MzAy
+MTAsMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNzIwODAyMDM1LC
+04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5MDEsLTE2NjY4
+NTkyMjFdfQ==
 -->
