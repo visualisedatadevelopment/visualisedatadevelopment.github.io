@@ -59,17 +59,17 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
 
 ## What do people tweet about when discussing men and women and Brexit?
 
-So far we have seen
+So far we have seen how discussion of men is far more prevalent in Brexit tweets than discussion of women. However, we might also ask whether the nature of discourse changes when discussing male and female figures  - are the topics 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzcyOTYwMCw4NjQyMDkxNzQsLTE1MT
-c0MzU4OTUsLTgwOTQ3NzI2Myw1MjAwNjg1NjQsMjA0NzgwNDE2
-LC05ODM1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDExMCwtMT
-IzODI4NzA5OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMjk1MTEz
-MzQsLTIxMTUxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1MzYsLT
-k2NzM1NTgxOSwtNDMxNDQxOTAxLC0xNjY2ODU5MjIxLC0xNDA2
-NTk2NjQ4XX0=
+eyJoaXN0b3J5IjpbMTQ3MDI5ODg2MSwxMjM3NzI5NjAwLDg2ND
+IwOTE3NCwtMTUxNzQzNTg5NSwtODA5NDc3MjYzLDUyMDA2ODU2
+NCwyMDQ3ODA0MTYsLTk4MzU3MDM2OCwxODgyMjUwNzczLC0xMz
+g5MDk0MTEwLC0xMjM4Mjg3MDk4LDI0NjI3MjgyLDIwMDA0MzAy
+MTAsMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNzIwODAyMDM1LC
+04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5MDEsLTE2NjY4
+NTkyMjFdfQ==
 -->
