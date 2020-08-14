@@ -65,15 +65,15 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 
 ![](/assets/images/plots/topic_gender_odds_ratios.png)
 
-The chart shows some interesting differences, with men more likely to be spoken about in relation to trade
+The chart shows some interesting differences, with trade, no-deal and the backstop, and sovereignty and independence being more likely to be spoken about in relation to men than to women. On the other hand, tweets discussing women were more likely be
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4OTg0NzI4LC0yNDIyMzE4NTQsMTIzNz
-cyOTYwMCw4NjQyMDkxNzQsLTE1MTc0MzU4OTUsLTgwOTQ3NzI2
-Myw1MjAwNjg1NjQsMjA0NzgwNDE2LC05ODM1NzAzNjgsMTg4Mj
-I1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4NzA5OCwyNDYyNzI4
-MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3NjYsLT
-cyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQx
-OTAxXX0=
+eyJoaXN0b3J5IjpbMTgyMzUwNDY5NywtMjQyMjMxODU0LDEyMz
+c3Mjk2MDAsODY0MjA5MTc0LC0xNTE3NDM1ODk1LC04MDk0Nzcy
+NjMsNTIwMDY4NTY0LDIwNDc4MDQxNiwtOTgzNTcwMzY4LDE4OD
+IyNTA3NzMsLTEzODkwOTQxMTAsLTEyMzgyODcwOTgsMjQ2Mjcy
+ODIsMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMTE1MTYxNzY2LC
+03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4MTksLTQzMTQ0
+MTkwMV19
 -->
