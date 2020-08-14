@@ -67,11 +67,11 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 
 The chart shows some interesting differences, with tweets talking about men being more likely to discuss trade, no-deal and the backstop, and sovereignty and independence than tweets that mentioned women. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
-So what is behind these differences? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former Secretary of State for International Trade (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
+So who is driving these differences? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former International Trade Secretary (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjY4NTUzLC0yNDIyMzE4NTQsMTIzNz
+eyJoaXN0b3J5IjpbMTQzNTQyMTAxLC0yNDIyMzE4NTQsMTIzNz
 cyOTYwMCw4NjQyMDkxNzQsLTE1MTc0MzU4OTUsLTgwOTQ3NzI2
 Myw1MjAwNjg1NjQsMjA0NzgwNDE2LC05ODM1NzAzNjgsMTg4Mj
 I1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4NzA5OCwyNDYyNzI4
