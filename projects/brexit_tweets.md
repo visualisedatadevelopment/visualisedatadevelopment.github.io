@@ -65,15 +65,15 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 
 ![](/assets/images/plots/topic_gender_odds_ratios.png)
 
-The chart shows some interesting differences, with tweets talking about men being more likely to discuss trade, no-deal and the backstop, and sovereignty and independence than tweets that mentioned women. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women, though it is worth noting that once tweets have been broken down by both topic and gender
+The chart shows some interesting differences, with tweets talking about men being more likely to discuss trade, no-deal and the backstop, and sovereignty and independence than tweets that mentioned women. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MzkxOTIyLC0yNDIyMzE4NTQsMTIzNz
-cyOTYwMCw4NjQyMDkxNzQsLTE1MTc0MzU4OTUsLTgwOTQ3NzI2
-Myw1MjAwNjg1NjQsMjA0NzgwNDE2LC05ODM1NzAzNjgsMTg4Mj
-I1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4NzA5OCwyNDYyNzI4
-MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3NjYsLT
-cyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQx
-OTAxXX0=
+eyJoaXN0b3J5IjpbMTUxODMxOTEyMSwtMjQyMjMxODU0LDEyMz
+c3Mjk2MDAsODY0MjA5MTc0LC0xNTE3NDM1ODk1LC04MDk0Nzcy
+NjMsNTIwMDY4NTY0LDIwNDc4MDQxNiwtOTgzNTcwMzY4LDE4OD
+IyNTA3NzMsLTEzODkwOTQxMTAsLTEyMzgyODcwOTgsMjQ2Mjcy
+ODIsMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMTE1MTYxNzY2LC
+03MjA4MDIwMzUsLTgzMDUxNTM2LC05NjczNTU4MTksLTQzMTQ0
+MTkwMV19
 -->
