@@ -61,20 +61,19 @@ The chart shows that there was almost only a 1% gap between pro-Leave and pro-Re
 
 So far we have seen how discussion of men is far more prevalent in Brexit tweets than discussion of women. However, we might also ask whether the nature of discourse changes when talking about male and female figures  - are the same topics discussed, and is the language used the same?
 
-To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. We then used these key words to find tweets that discussed each topic. This allowed us to see how commonly a topic was discussed, and in particular, to compare how likely they were to be brought up in a tweet that also discusses a man or a woman. The plot below compares tweets mentioning men to tweets mentioning women in terms of how likely they were to mention a certain topic.
+To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. We then used these key words to find tweets that discussed each topic. This allowed us to see how commonly a topic was discussed, and in particular, to compare how likely they were to be brought up in a tweet that also discusses a man or a woman. The plot below compares tweets mentioning men to tweets mentioning women in terms of how likely they were to talk about a certain topic.
 
 ![](/assets/images/plots/topic_gender_odds_ratios.png)
 
-
-
+The chart shows some interesting differences, with men more likely to be spoken about in relation to trade
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjIzMTg1NCwxMjM3NzI5NjAwLDg2ND
-IwOTE3NCwtMTUxNzQzNTg5NSwtODA5NDc3MjYzLDUyMDA2ODU2
-NCwyMDQ3ODA0MTYsLTk4MzU3MDM2OCwxODgyMjUwNzczLC0xMz
-g5MDk0MTEwLC0xMjM4Mjg3MDk4LDI0NjI3MjgyLDIwMDA0MzAy
-MTAsMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNzIwODAyMDM1LC
-04MzA1MTUzNiwtOTY3MzU1ODE5LC00MzE0NDE5MDEsLTE2NjY4
-NTkyMjFdfQ==
+eyJoaXN0b3J5IjpbNDQ4OTg0NzI4LC0yNDIyMzE4NTQsMTIzNz
+cyOTYwMCw4NjQyMDkxNzQsLTE1MTc0MzU4OTUsLTgwOTQ3NzI2
+Myw1MjAwNjg1NjQsMjA0NzgwNDE2LC05ODM1NzAzNjgsMTg4Mj
+I1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4NzA5OCwyNDYyNzI4
+MiwyMDAwNDMwMjEwLDIwMjk1MTEzMzQsLTIxMTUxNjE3NjYsLT
+cyMDgwMjAzNSwtODMwNTE1MzYsLTk2NzM1NTgxOSwtNDMxNDQx
+OTAxXX0=
 -->
