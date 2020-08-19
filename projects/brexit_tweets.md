@@ -1,7 +1,7 @@
 ---
 layout: brexit_tweet_page
 ---
-
+<div, margin = "200px">
 # Gender and Brexit Discourse on Twitter
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
 
@@ -68,16 +68,16 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
 So who is driving these differences ? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former International Trade Secretary (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
-
+</div>
 <iframe  height = 600  width = "1200" frameBorder = 0  src = "/assets/plotly_files/terms_by_gender_and_sentiment.html"></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MDYwMjAzLDQ2MzIxMjAzOSwtNTk5Mz
-Q2MTg1LC0yNDIyMzE4NTQsMTIzNzcyOTYwMCw4NjQyMDkxNzQs
-LTE1MTc0MzU4OTUsLTgwOTQ3NzI2Myw1MjAwNjg1NjQsMjA0Nz
-gwNDE2LC05ODM1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDEx
-MCwtMTIzODI4NzA5OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMj
-k1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1
-MzZdfQ==
+eyJoaXN0b3J5IjpbMTQxNjc1Mzg4MywyNzcwNjAyMDMsNDYzMj
+EyMDM5LC01OTkzNDYxODUsLTI0MjIzMTg1NCwxMjM3NzI5NjAw
+LDg2NDIwOTE3NCwtMTUxNzQzNTg5NSwtODA5NDc3MjYzLDUyMD
+A2ODU2NCwyMDQ3ODA0MTYsLTk4MzU3MDM2OCwxODgyMjUwNzcz
+LC0xMzg5MDk0MTEwLC0xMjM4Mjg3MDk4LDI0NjI3MjgyLDIwMD
+A0MzAyMTAsMjAyOTUxMTMzNCwtMjExNTE2MTc2NiwtNzIwODAy
+MDM1XX0=
 -->
