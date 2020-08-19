@@ -69,15 +69,15 @@ The chart shows some interesting differences, with tweets talking about men bein
 
 So who is driving these differences ? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former International Trade Secretary (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
 
-<iframe margin = 10 10 10 -50 height = "600"  width = "1200" frameBorder = 0  src = "/assets/plotly_files/terms_by_gender_and_sentiment.html"></iframe>
+<iframe margin = "10 10 10 -50" height = "600"  width = "1200" frameBorder = 0  src = "/assets/plotly_files/terms_by_gender_and_sentiment.html"></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDA2Mzg4NSwyMTQ0MTg1MTU1LDEzND
-AwNjg1MzYsODk0MjE1MzEwLC0xNTIxMTYwNjA4LDE0MTY3NTM4
-ODMsMjc3MDYwMjAzLDQ2MzIxMjAzOSwtNTk5MzQ2MTg1LC0yND
-IyMzE4NTQsMTIzNzcyOTYwMCw4NjQyMDkxNzQsLTE1MTc0MzU4
-OTUsLTgwOTQ3NzI2Myw1MjAwNjg1NjQsMjA0NzgwNDE2LC05OD
-M1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4
-NzA5OF19
+eyJoaXN0b3J5IjpbLTEwMzk5MTM3OTEsMjE0NDE4NTE1NSwxMz
+QwMDY4NTM2LDg5NDIxNTMxMCwtMTUyMTE2MDYwOCwxNDE2NzUz
+ODgzLDI3NzA2MDIwMyw0NjMyMTIwMzksLTU5OTM0NjE4NSwtMj
+QyMjMxODU0LDEyMzc3Mjk2MDAsODY0MjA5MTc0LC0xNTE3NDM1
+ODk1LC04MDk0NzcyNjMsNTIwMDY4NTY0LDIwNDc4MDQxNiwtOT
+gzNTcwMzY4LDE4ODIyNTA3NzMsLTEzODkwOTQxMTAsLTEyMzgy
+ODcwOThdfQ==
 -->
