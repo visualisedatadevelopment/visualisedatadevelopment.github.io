@@ -71,8 +71,9 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 
 <iframe  height = 600  width = "100%" frameBorder = 0  src = "/assets/plotly_files/terms_by_gender_and_sentiment.html"></iframe>
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTA4NzMwOCwtNTk5MzQ2MTg1LC0yND
+eyJoaXN0b3J5IjpbLTkzNTM5Njk5OCwtNTk5MzQ2MTg1LC0yND
 IyMzE4NTQsMTIzNzcyOTYwMCw4NjQyMDkxNzQsLTE1MTc0MzU4
 OTUsLTgwOTQ3NzI2Myw1MjAwNjg1NjQsMjA0NzgwNDE2LC05OD
 M1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDExMCwtMTIzODI4
