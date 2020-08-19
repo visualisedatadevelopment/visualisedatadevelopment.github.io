@@ -67,16 +67,16 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
 So who is driving these differences ? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former International Trade Secretary (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
-</div>
+
 <iframe  height = 600  width = "1200" frameBorder = 0  src = "/assets/plotly_files/terms_by_gender_and_sentiment.html"></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODkwMTQ2NSwxNDE2NzUzODgzLDI3Nz
-A2MDIwMyw0NjMyMTIwMzksLTU5OTM0NjE4NSwtMjQyMjMxODU0
-LDEyMzc3Mjk2MDAsODY0MjA5MTc0LC0xNTE3NDM1ODk1LC04MD
-k0NzcyNjMsNTIwMDY4NTY0LDIwNDc4MDQxNiwtOTgzNTcwMzY4
-LDE4ODIyNTA3NzMsLTEzODkwOTQxMTAsLTEyMzgyODcwOTgsMj
-Q2MjcyODIsMjAwMDQzMDIxMCwyMDI5NTExMzM0LC0yMTE1MTYx
-NzY2XX0=
+eyJoaXN0b3J5IjpbLTE0NTc1NzYyMzEsMTQxNjc1Mzg4MywyNz
+cwNjAyMDMsNDYzMjEyMDM5LC01OTkzNDYxODUsLTI0MjIzMTg1
+NCwxMjM3NzI5NjAwLDg2NDIwOTE3NCwtMTUxNzQzNTg5NSwtOD
+A5NDc3MjYzLDUyMDA2ODU2NCwyMDQ3ODA0MTYsLTk4MzU3MDM2
+OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3MDk4LD
+I0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMjExNTE2
+MTc2Nl19
 -->
