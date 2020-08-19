@@ -1,6 +1,7 @@
 ---
 layout: brexit_tweet_page
 ---
+
 # Gender and Brexit Discourse on Twitter
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
 
@@ -72,11 +73,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjExNjA2MDgsMTQxNjc1Mzg4MywyNz
-cwNjAyMDMsNDYzMjEyMDM5LC01OTkzNDYxODUsLTI0MjIzMTg1
-NCwxMjM3NzI5NjAwLDg2NDIwOTE3NCwtMTUxNzQzNTg5NSwtOD
-A5NDc3MjYzLDUyMDA2ODU2NCwyMDQ3ODA0MTYsLTk4MzU3MDM2
-OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3MDk4LD
-I0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMjExNTE2
-MTc2Nl19
+eyJoaXN0b3J5IjpbODk0MjE1MzEwLC0xNTIxMTYwNjA4LDE0MT
+Y3NTM4ODMsMjc3MDYwMjAzLDQ2MzIxMjAzOSwtNTk5MzQ2MTg1
+LC0yNDIyMzE4NTQsMTIzNzcyOTYwMCw4NjQyMDkxNzQsLTE1MT
+c0MzU4OTUsLTgwOTQ3NzI2Myw1MjAwNjg1NjQsMjA0NzgwNDE2
+LC05ODM1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDExMCwtMT
+IzODI4NzA5OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMjk1MTEz
+MzRdfQ==
 -->
