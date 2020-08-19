@@ -1,5 +1,5 @@
 ---
-
+layout: brexit_tweet_page
 ---
 
 # Gender and Brexit Discourse on Twitter
@@ -73,11 +73,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMjEyMDM5LC01OTkzNDYxODUsLTI0Mj
-IzMTg1NCwxMjM3NzI5NjAwLDg2NDIwOTE3NCwtMTUxNzQzNTg5
-NSwtODA5NDc3MjYzLDUyMDA2ODU2NCwyMDQ3ODA0MTYsLTk4Mz
-U3MDM2OCwxODgyMjUwNzczLC0xMzg5MDk0MTEwLC0xMjM4Mjg3
-MDk4LDI0NjI3MjgyLDIwMDA0MzAyMTAsMjAyOTUxMTMzNCwtMj
-ExNTE2MTc2NiwtNzIwODAyMDM1LC04MzA1MTUzNiwtOTY3MzU1
-ODE5XX0=
+eyJoaXN0b3J5IjpbMjc3MDYwMjAzLDQ2MzIxMjAzOSwtNTk5Mz
+Q2MTg1LC0yNDIyMzE4NTQsMTIzNzcyOTYwMCw4NjQyMDkxNzQs
+LTE1MTc0MzU4OTUsLTgwOTQ3NzI2Myw1MjAwNjg1NjQsMjA0Nz
+gwNDE2LC05ODM1NzAzNjgsMTg4MjI1MDc3MywtMTM4OTA5NDEx
+MCwtMTIzODI4NzA5OCwyNDYyNzI4MiwyMDAwNDMwMjEwLDIwMj
+k1MTEzMzQsLTIxMTUxNjE3NjYsLTcyMDgwMjAzNSwtODMwNTE1
+MzZdfQ==
 -->
