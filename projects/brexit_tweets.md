@@ -14,7 +14,7 @@ The data we analysed consists of 157,512 tweets that used the hashtag #Brexit du
 
 The chart below shows how the tweets were distributed over the week. It's important to note here that the dataset is a sample of the tweets using #Brexit, rather than all tweets with that hashtag. So in the chart below, we're more interested in the relative distribution as opposed to the absolute number of tweets. Not surprisingly, we see higher volumes on the day the UK left and the morning after, with a notable spike around 11pm on the 31st January - the official moment of departure.
 
-![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png)
+![Plot of tweet frequency over time](/assets/images/plots/tweet_frequency_over_time.png =6000x3500)
 
 Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
@@ -73,11 +73,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTA1NTY4MCwxODM1OTcyNDgxLDE0MD
-UwNTU2ODAsODY4MjgwMjQ1LC0yMDI4MDc4MDE0LC03OTc3MDc1
-MzUsLTEwMzk5MTM3OTEsMjE0NDE4NTE1NSwxMzQwMDY4NTM2LD
-g5NDIxNTMxMCwtMTUyMTE2MDYwOCwxNDE2NzUzODgzLDI3NzA2
-MDIwMyw0NjMyMTIwMzksLTU5OTM0NjE4NSwtMjQyMjMxODU0LD
-EyMzc3Mjk2MDAsODY0MjA5MTc0LC0xNTE3NDM1ODk1LC04MDk0
-NzcyNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMTQ4MTY3MjUsMTQwNTA1NTY4MCwxOD
+M1OTcyNDgxLDE0MDUwNTU2ODAsODY4MjgwMjQ1LC0yMDI4MDc4
+MDE0LC03OTc3MDc1MzUsLTEwMzk5MTM3OTEsMjE0NDE4NTE1NS
+wxMzQwMDY4NTM2LDg5NDIxNTMxMCwtMTUyMTE2MDYwOCwxNDE2
+NzUzODgzLDI3NzA2MDIwMyw0NjMyMTIwMzksLTU5OTM0NjE4NS
+wtMjQyMjMxODU0LDEyMzc3Mjk2MDAsODY0MjA5MTc0LC0xNTE3
+NDM1ODk1XX0=
 -->
