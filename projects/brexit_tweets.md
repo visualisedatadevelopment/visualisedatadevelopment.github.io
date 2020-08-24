@@ -51,8 +51,7 @@ After running the algorithm, the tweets were classified in the following proport
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below.
 
-![](/assets/images/plots/gender_by_stance.png)
-
+<img src = "/assets/images/plots/gender_by_stance.png" height = "80%">
 The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
 ![](/assets/images/plots/gender_by_stance_mps_only.png) 
@@ -73,11 +72,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3ODAzMDE5LC0xNzc3MjI3MzE3LDQ1Nz
-gwMzAxOSwtMjEyODczNTAzNiwxNDA1MDU1NjgwLDE4MzU5NzI0
-ODEsMTQwNTA1NTY4MCw4NjgyODAyNDUsLTIwMjgwNzgwMTQsLT
-c5NzcwNzUzNSwtMTAzOTkxMzc5MSwyMTQ0MTg1MTU1LDEzNDAw
-Njg1MzYsODk0MjE1MzEwLC0xNTIxMTYwNjA4LDE0MTY3NTM4OD
-MsMjc3MDYwMjAzLDQ2MzIxMjAzOSwtNTk5MzQ2MTg1LC0yNDIy
-MzE4NTRdfQ==
+eyJoaXN0b3J5IjpbNTc4MTEwOTYsNDU3ODAzMDE5LC0xNzc3Mj
+I3MzE3LDQ1NzgwMzAxOSwtMjEyODczNTAzNiwxNDA1MDU1Njgw
+LDE4MzU5NzI0ODEsMTQwNTA1NTY4MCw4NjgyODAyNDUsLTIwMj
+gwNzgwMTQsLTc5NzcwNzUzNSwtMTAzOTkxMzc5MSwyMTQ0MTg1
+MTU1LDEzNDAwNjg1MzYsODk0MjE1MzEwLC0xNTIxMTYwNjA4LD
+E0MTY3NTM4ODMsMjc3MDYwMjAzLDQ2MzIxMjAzOSwtNTk5MzQ2
+MTg1XX0=
 -->
