@@ -51,7 +51,7 @@ After running the algorithm, the tweets were classified in the following proport
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below.
 
-<img class = "small_plot" src = "/assets/images/plots/gender_by_stance.png">
+<img src = "/assets/images/plots/gender_by_stance.png">
 
 The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
@@ -73,11 +73,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDkwMTIyOSwtNTk4MzE5MTA1LC0xMT
-g2NzA2MjY4LDQ1NzgwMzAxOSwtMTc3NzIyNzMxNyw0NTc4MDMw
-MTksLTIxMjg3MzUwMzYsMTQwNTA1NTY4MCwxODM1OTcyNDgxLD
-E0MDUwNTU2ODAsODY4MjgwMjQ1LC0yMDI4MDc4MDE0LC03OTc3
-MDc1MzUsLTEwMzk5MTM3OTEsMjE0NDE4NTE1NSwxMzQwMDY4NT
-M2LDg5NDIxNTMxMCwtMTUyMTE2MDYwOCwxNDE2NzUzODgzLDI3
-NzA2MDIwM119
+eyJoaXN0b3J5IjpbMjQzNzQxMDI5LC01OTgzMTkxMDUsLTExOD
+Y3MDYyNjgsNDU3ODAzMDE5LC0xNzc3MjI3MzE3LDQ1NzgwMzAx
+OSwtMjEyODczNTAzNiwxNDA1MDU1NjgwLDE4MzU5NzI0ODEsMT
+QwNTA1NTY4MCw4NjgyODAyNDUsLTIwMjgwNzgwMTQsLTc5Nzcw
+NzUzNSwtMTAzOTkxMzc5MSwyMTQ0MTg1MTU1LDEzNDAwNjg1Mz
+YsODk0MjE1MzEwLC0xNTIxMTYwNjA4LDE0MTY3NTM4ODMsMjc3
+MDYwMjAzXX0=
 -->
