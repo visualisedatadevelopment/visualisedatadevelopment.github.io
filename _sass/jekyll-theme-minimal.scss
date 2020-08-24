@@ -285,6 +285,11 @@ footer {
   pre, code {
     word-wrap:normal;
   }
+  
+  .front_display_item{
+  position: relative;
+  width: 50%;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -298,6 +303,10 @@ footer {
 
   .downloads li, .downloads li + li + li {
     width:33%;
+  }
+  .front_display_item{
+  position: relative;
+  width: 50%;
   }
 }
 
