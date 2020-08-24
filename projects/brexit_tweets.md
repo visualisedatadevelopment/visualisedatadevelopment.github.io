@@ -68,16 +68,16 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
 So who is driving these differences ? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former International Trade Secretary (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
-
+<div class = "extended_content_container">
 <iframe class = "plotly_plot" height = "600"  width = "1000" frameBorder = 0  src = "/assets/plotly_files/terms_by_gender_and_sentiment.html"></iframe>
-
+</div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg3MzUwMzYsMTQwNTA1NTY4MCwxOD
-M1OTcyNDgxLDE0MDUwNTU2ODAsODY4MjgwMjQ1LC0yMDI4MDc4
-MDE0LC03OTc3MDc1MzUsLTEwMzk5MTM3OTEsMjE0NDE4NTE1NS
-wxMzQwMDY4NTM2LDg5NDIxNTMxMCwtMTUyMTE2MDYwOCwxNDE2
-NzUzODgzLDI3NzA2MDIwMyw0NjMyMTIwMzksLTU5OTM0NjE4NS
-wtMjQyMjMxODU0LDEyMzc3Mjk2MDAsODY0MjA5MTc0LC0xNTE3
-NDM1ODk1XX0=
+eyJoaXN0b3J5IjpbNDU3ODAzMDE5LC0yMTI4NzM1MDM2LDE0MD
+UwNTU2ODAsMTgzNTk3MjQ4MSwxNDA1MDU1NjgwLDg2ODI4MDI0
+NSwtMjAyODA3ODAxNCwtNzk3NzA3NTM1LC0xMDM5OTEzNzkxLD
+IxNDQxODUxNTUsMTM0MDA2ODUzNiw4OTQyMTUzMTAsLTE1MjEx
+NjA2MDgsMTQxNjc1Mzg4MywyNzcwNjAyMDMsNDYzMjEyMDM5LC
+01OTkzNDYxODUsLTI0MjIzMTg1NCwxMjM3NzI5NjAwLDg2NDIw
+OTE3NF19
 -->
