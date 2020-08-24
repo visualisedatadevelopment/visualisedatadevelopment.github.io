@@ -104,6 +104,43 @@ img {
   max-width:100%;
 }
 
+.front_display_item{
+  margin: 5%
+}
+
+.project_image {
+  opacity: 1;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.front_display_item:hover .project_image {
+  opacity: 0.3;
+}
+
+.front_display_item_middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.front_display_item:hover .front_display_item_middle {
+  opacity: 1;
+}
+
+.view_text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
 header {
   width:auto;
   position: -webkit-sticky;
