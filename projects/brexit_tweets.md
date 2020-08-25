@@ -3,7 +3,9 @@ layout: brexit_tweet_page
 ---
 
 # Gender and Brexit Discourse on Twitter
-
+25th August 2020		Laurence Rowley-Abel
+----
+<br>
 <img src = "/assets/images/franz-wender-brexit-unsplash.jpg" width = "80%" margin = "auto" display = "block">
 
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
@@ -76,11 +78,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTg0NzcxMiwxNTEwNjMyNTA0LDE0Nz
-AwMDQ5NCwtODAwOTAxMjI5LDI0Mzc0MTAyOSwtNTk4MzE5MTA1
-LC0xMTg2NzA2MjY4LDQ1NzgwMzAxOSwtMTc3NzIyNzMxNyw0NT
-c4MDMwMTksLTIxMjg3MzUwMzYsMTQwNTA1NTY4MCwxODM1OTcy
-NDgxLDE0MDUwNTU2ODAsODY4MjgwMjQ1LC0yMDI4MDc4MDE0LC
-03OTc3MDc1MzUsLTEwMzk5MTM3OTEsMjE0NDE4NTE1NSwxMzQw
-MDY4NTM2XX0=
+eyJoaXN0b3J5IjpbMTU4NTQ4OTgyNiwxNjg5ODQ3NzEyLDE1MT
+A2MzI1MDQsMTQ3MDAwNDk0LC04MDA5MDEyMjksMjQzNzQxMDI5
+LC01OTgzMTkxMDUsLTExODY3MDYyNjgsNDU3ODAzMDE5LC0xNz
+c3MjI3MzE3LDQ1NzgwMzAxOSwtMjEyODczNTAzNiwxNDA1MDU1
+NjgwLDE4MzU5NzI0ODEsMTQwNTA1NTY4MCw4NjgyODAyNDUsLT
+IwMjgwNzgwMTQsLTc5NzcwNzUzNSwtMTAzOTkxMzc5MSwyMTQ0
+MTg1MTU1XX0=
 -->
