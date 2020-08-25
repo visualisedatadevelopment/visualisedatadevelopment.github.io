@@ -4,7 +4,7 @@ layout: brexit_tweet_page
 
 # Gender and Brexit Discourse on Twitter
 
-<img src = "/assets/images/franz-wender-brexit-unsplash.jpg">
+<img src = "/assets/images/franz-wender-brexit-unsplash.jpg" width = "80%" margin = "auto" display = "block">
 
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
 
@@ -76,11 +76,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU5ODgzOTYsMTUxMDYzMjUwNCwxND
-cwMDA0OTQsLTgwMDkwMTIyOSwyNDM3NDEwMjksLTU5ODMxOTEw
-NSwtMTE4NjcwNjI2OCw0NTc4MDMwMTksLTE3NzcyMjczMTcsND
-U3ODAzMDE5LC0yMTI4NzM1MDM2LDE0MDUwNTU2ODAsMTgzNTk3
-MjQ4MSwxNDA1MDU1NjgwLDg2ODI4MDI0NSwtMjAyODA3ODAxNC
-wtNzk3NzA3NTM1LC0xMDM5OTEzNzkxLDIxNDQxODUxNTUsMTM0
-MDA2ODUzNl19
+eyJoaXN0b3J5IjpbMTY4OTg0NzcxMiwxNTEwNjMyNTA0LDE0Nz
+AwMDQ5NCwtODAwOTAxMjI5LDI0Mzc0MTAyOSwtNTk4MzE5MTA1
+LC0xMTg2NzA2MjY4LDQ1NzgwMzAxOSwtMTc3NzIyNzMxNyw0NT
+c4MDMwMTksLTIxMjg3MzUwMzYsMTQwNTA1NTY4MCwxODM1OTcy
+NDgxLDE0MDUwNTU2ODAsODY4MjgwMjQ1LC0yMDI4MDc4MDE0LC
+03OTc3MDc1MzUsLTEwMzk5MTM3OTEsMjE0NDE4NTE1NSwxMzQw
+MDY4NTM2XX0=
 -->
