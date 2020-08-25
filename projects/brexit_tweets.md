@@ -7,7 +7,8 @@ layout: brexit_tweet_page
 
 <br>
 <img src = "/assets/images/franz-wender-brexit-unsplash.jpg" style = "width: 100%; display: block; margin-left: auto; margin-right: auto;">
-
+[Photo by Franz Wender](https://unsplash.com/@franz95)
+<br>
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
 
 Although issues such as EU legislation on women's employment rights have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). The fact that there was no significant difference in the proportions of men and women voting Leave/Remain (according to [British Election Study data](https://www.britishelectionstudy.com/data-objects/panel-study-data/)) has also led [some to argue](https://www.reuters.com/article/us-britain-brexit-women/is-brexit-good-or-bad-for-women-its-divisive-to-even-ask-idUSKCN1RH162) that gender is irrelevant to Brexit. But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (including the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, [researchers are finding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689) that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
@@ -78,11 +79,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1MTYzODA0LDE5NzQwNjI1NDksNjg2MD
-Y5MDkwLDE2ODk4NDc3MTIsMTUxMDYzMjUwNCwxNDcwMDA0OTQs
-LTgwMDkwMTIyOSwyNDM3NDEwMjksLTU5ODMxOTEwNSwtMTE4Nj
-cwNjI2OCw0NTc4MDMwMTksLTE3NzcyMjczMTcsNDU3ODAzMDE5
-LC0yMTI4NzM1MDM2LDE0MDUwNTU2ODAsMTgzNTk3MjQ4MSwxND
-A1MDU1NjgwLDg2ODI4MDI0NSwtMjAyODA3ODAxNCwtNzk3NzA3
-NTM1XX0=
+eyJoaXN0b3J5IjpbLTgzMzA5MDE0Niw1MDUxNjM4MDQsMTk3ND
+A2MjU0OSw2ODYwNjkwOTAsMTY4OTg0NzcxMiwxNTEwNjMyNTA0
+LDE0NzAwMDQ5NCwtODAwOTAxMjI5LDI0Mzc0MTAyOSwtNTk4Mz
+E5MTA1LC0xMTg2NzA2MjY4LDQ1NzgwMzAxOSwtMTc3NzIyNzMx
+Nyw0NTc4MDMwMTksLTIxMjg3MzUwMzYsMTQwNTA1NTY4MCwxOD
+M1OTcyNDgxLDE0MDUwNTU2ODAsODY4MjgwMjQ1LC0yMDI4MDc4
+MDE0XX0=
 -->
