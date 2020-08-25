@@ -106,13 +106,13 @@ img {
 
 .front_display_item_container{
   display: inline-block;
-  width: 40%;
-  margin: auto;
+  width: 50%;
 }
 
 .front_display_item{
   position: relative;
-  width: 100%;
+  width: auto;
+  margin: 10%;
 }
 
 .project_image {
