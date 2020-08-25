@@ -104,9 +104,14 @@ img {
   max-width:100%;
 }
 
+.front_display_item_container{
+  display: inline-block;
+  width = 40%;
+}
+
 .front_display_item{
   position: relative;
-  width: 50%;
+  width: 100%;
 }
 
 .project_image {
@@ -286,10 +291,11 @@ footer {
     word-wrap:normal;
   }
   
-  .front_display_item{
-  position: relative;
-  width: 100%;
+  .front_display_item_container{
+    display: inline-block;
+    width = 100%;
   }
+  
 }
 
 @media print, screen and (max-width: 480px) {
@@ -304,9 +310,9 @@ footer {
   .downloads li, .downloads li + li + li {
     width:33%;
   }
-  .front_display_item{
-  position: relative;
-  width: 100%;
+  .front_display_item_container{
+    display: inline-block;
+    width = 40%;
   }
 }
 
