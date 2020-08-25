@@ -4,7 +4,7 @@ layout: brexit_tweet_page
 
 # Gender and Brexit Discourse on Twitter
 25th August 2020		Laurence Rowley-Abel
-----
+<hr>
 <br>
 <img src = "/assets/images/franz-wender-brexit-unsplash.jpg" width = "80%" margin = "auto" display = "block">
 
@@ -78,7 +78,7 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTQ4OTgyNiwxNjg5ODQ3NzEyLDE1MT
+eyJoaXN0b3J5IjpbLTk4OTIzMjM1OCwxNjg5ODQ3NzEyLDE1MT
 A2MzI1MDQsMTQ3MDAwNDk0LC04MDA5MDEyMjksMjQzNzQxMDI5
 LC01OTgzMTkxMDUsLTExODY3MDYyNjgsNDU3ODAzMDE5LC0xNz
 c3MjI3MzE3LDQ1NzgwMzAxOSwtMjEyODczNTAzNiwxNDA1MDU1
