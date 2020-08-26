@@ -48,7 +48,16 @@ This suggests that  the discussion of Brexit on Twitter was largely focused on m
 
 So, who are the people being mentioned? By far the most discussed were Boris Johnson and Nigel Farage with 2639 and 1459 mentions respectively. In order to visualise the other people mentioned, we've plotted below the most mentioned names excluding Boris Johnson and Nigel Farage since they dwarfed everyone else.
 
-![Plot of most mentioned people](/assets/images/plots/most_mentioned_people_stick.png)
+<picture>
+   <source 
+      media="(min-width: 600px) and (max-resolution: 200dpi)"
+      srcset="/assets/images/plots/most_mentioned_people_stick.png">
+   <source 
+      media="(min-width: 100px)"
+		      srcset="/assets/images/plots/most_mentioned_people_stick_mobile.png">
+   <img src="/assets/images/plots/most_mentioned_people_stick_mobile.png" 
+   alt="plot of mentions by gender">
+</picture>
  
 The chart shows that it is mainly MPs being talked about, but several other figures also appear, including other politicians (Donald Trump, Ann Widdecombe), journalists (Laura Kuenssberg), activists involved with Brexit (Gina Miller) and historical figures (Winston Churchill). it again shows that men are being discussed more than women in the tweets, with only 6 of the top 22 mentioned people being female.
 
@@ -88,11 +97,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDk3MjQzNSwtMTE1NzcwNTY0NiwtOD
-kwMzA0MzkzLDE1NTMzODc0OCwtMTM5NTAwMjM2OCwxOTk4MDkw
-MDcwLDE2OTMyODA5NywtMzQ1ODkxMjE5LC0xOTgyOTc4NzUwLD
-EzODIyODM2NDIsMzUxNTA3NzY5LC05ODk1MzEyNzAsMjA4Njc0
-MDc0OSwxMDQ0MzI3NDg4LDE3ODYzMzkwMTQsLTE5MjkxNDM3MT
-gsNTA1MTYzODA0LDE5NzQwNjI1NDksNjg2MDY5MDkwLDE2ODk4
-NDc3MTJdfQ==
+eyJoaXN0b3J5IjpbMTQyMjUzOTc4NSwxMTQwOTcyNDM1LC0xMT
+U3NzA1NjQ2LC04OTAzMDQzOTMsMTU1MzM4NzQ4LC0xMzk1MDAy
+MzY4LDE5OTgwOTAwNzAsMTY5MzI4MDk3LC0zNDU4OTEyMTksLT
+E5ODI5Nzg3NTAsMTM4MjI4MzY0MiwzNTE1MDc3NjksLTk4OTUz
+MTI3MCwyMDg2NzQwNzQ5LDEwNDQzMjc0ODgsMTc4NjMzOTAxNC
+wtMTkyOTE0MzcxOCw1MDUxNjM4MDQsMTk3NDA2MjU0OSw2ODYw
+NjkwOTBdfQ==
 -->
