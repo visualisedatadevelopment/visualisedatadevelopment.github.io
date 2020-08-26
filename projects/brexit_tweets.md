@@ -39,7 +39,7 @@ This resulted in a set of 13,854 tweets in which we had detected a person being 
       srcset="/assets/images/plots/mentions_by_gender.png">
    <source 
       media="(max-width: 960px)"
-      srcset="/assets/images/plots/mentions_by_gender.png">
+      srcset="/assets/images/plots/mentions_by_gender_mobile.png">
    <img src="/assets/images/plots/mentions_by_gender.png" 
    alt="plot of mentions by gender">
 </picture>
@@ -88,11 +88,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5Mzk3NzI1LDE5OTgwOTAwNzAsMTY5Mz
-I4MDk3LC0zNDU4OTEyMTksLTE5ODI5Nzg3NTAsMTM4MjI4MzY0
-MiwzNTE1MDc3NjksLTk4OTUzMTI3MCwyMDg2NzQwNzQ5LDEwND
-QzMjc0ODgsMTc4NjMzOTAxNCwtMTkyOTE0MzcxOCw1MDUxNjM4
-MDQsMTk3NDA2MjU0OSw2ODYwNjkwOTAsMTY4OTg0NzcxMiwxNT
-EwNjMyNTA0LDE0NzAwMDQ5NCwtODAwOTAxMjI5LDI0Mzc0MTAy
-OV19
+eyJoaXN0b3J5IjpbLTEzODY0MTI3MjAsMTk5ODA5MDA3MCwxNj
+kzMjgwOTcsLTM0NTg5MTIxOSwtMTk4Mjk3ODc1MCwxMzgyMjgz
+NjQyLDM1MTUwNzc2OSwtOTg5NTMxMjcwLDIwODY3NDA3NDksMT
+A0NDMyNzQ4OCwxNzg2MzM5MDE0LC0xOTI5MTQzNzE4LDUwNTE2
+MzgwNCwxOTc0MDYyNTQ5LDY4NjA2OTA5MCwxNjg5ODQ3NzEyLD
+E1MTA2MzI1MDQsMTQ3MDAwNDk0LC04MDA5MDEyMjksMjQzNzQx
+MDI5XX0=
 -->
