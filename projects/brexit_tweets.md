@@ -75,7 +75,7 @@ After running the algorithm, the tweets were classified in the following proport
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below.
 
-<img class = "small_plot" src = "/assets/images/plots/gender_by_stance.png">
+<img src = "/assets/images/plots/gender_by_stance.png">
 
 The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
@@ -97,11 +97,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjUzOTc4NSwxMTQwOTcyNDM1LC0xMT
-U3NzA1NjQ2LC04OTAzMDQzOTMsMTU1MzM4NzQ4LC0xMzk1MDAy
-MzY4LDE5OTgwOTAwNzAsMTY5MzI4MDk3LC0zNDU4OTEyMTksLT
-E5ODI5Nzg3NTAsMTM4MjI4MzY0MiwzNTE1MDc3NjksLTk4OTUz
-MTI3MCwyMDg2NzQwNzQ5LDEwNDQzMjc0ODgsMTc4NjMzOTAxNC
-wtMTkyOTE0MzcxOCw1MDUxNjM4MDQsMTk3NDA2MjU0OSw2ODYw
-NjkwOTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNjI1NTQ5OSwxNDIyNTM5Nzg1LDExND
+A5NzI0MzUsLTExNTc3MDU2NDYsLTg5MDMwNDM5MywxNTUzMzg3
+NDgsLTEzOTUwMDIzNjgsMTk5ODA5MDA3MCwxNjkzMjgwOTcsLT
+M0NTg5MTIxOSwtMTk4Mjk3ODc1MCwxMzgyMjgzNjQyLDM1MTUw
+Nzc2OSwtOTg5NTMxMjcwLDIwODY3NDA3NDksMTA0NDMyNzQ4OC
+wxNzg2MzM5MDE0LC0xOTI5MTQzNzE4LDUwNTE2MzgwNCwxOTc0
+MDYyNTQ5XX0=
 -->
