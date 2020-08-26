@@ -75,7 +75,17 @@ After running the algorithm, the tweets were classified in the following proport
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below.
 
-<img src = "/assets/images/plots/gender_by_stance.png">
+<picture>
+   <source 
+      media="(min-width: 600px) and (max-resolution: 200dpi)"
+      srcset="/assets/images/plots/gender_by_stance.png">
+   <source 
+      media="(min-width: 100px)"
+		      srcset="/assets/images/plots/gender_by_stance_mobile.png">
+   <img src="/assets/images/plots/gender_by_stance.png" 
+   alt="plot of mentions by gender">
+</picture>
+ 
 
 The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
@@ -97,11 +107,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI1NTQ5OSwxNDIyNTM5Nzg1LDExND
-A5NzI0MzUsLTExNTc3MDU2NDYsLTg5MDMwNDM5MywxNTUzMzg3
-NDgsLTEzOTUwMDIzNjgsMTk5ODA5MDA3MCwxNjkzMjgwOTcsLT
-M0NTg5MTIxOSwtMTk4Mjk3ODc1MCwxMzgyMjgzNjQyLDM1MTUw
-Nzc2OSwtOTg5NTMxMjcwLDIwODY3NDA3NDksMTA0NDMyNzQ4OC
-wxNzg2MzM5MDE0LC0xOTI5MTQzNzE4LDUwNTE2MzgwNCwxOTc0
-MDYyNTQ5XX0=
+eyJoaXN0b3J5IjpbLTEyMTEzNDk5ODEsLTEyNjI1NTQ5OSwxND
+IyNTM5Nzg1LDExNDA5NzI0MzUsLTExNTc3MDU2NDYsLTg5MDMw
+NDM5MywxNTUzMzg3NDgsLTEzOTUwMDIzNjgsMTk5ODA5MDA3MC
+wxNjkzMjgwOTcsLTM0NTg5MTIxOSwtMTk4Mjk3ODc1MCwxMzgy
+MjgzNjQyLDM1MTUwNzc2OSwtOTg5NTMxMjcwLDIwODY3NDA3ND
+ksMTA0NDMyNzQ4OCwxNzg2MzM5MDE0LC0xOTI5MTQzNzE4LDUw
+NTE2MzgwNF19
 -->
