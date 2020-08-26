@@ -10,7 +10,7 @@ layout: default
 <br>
 <br>
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
-<img src = "/assets/images/plots/mentions_by_gender_mobile.png">
+
 Although issues such as EU legislation on women's employment rights have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). The fact that there was no significant difference in the proportions of men and women voting Leave/Remain (according to [British Election Study data](https://www.britishelectionstudy.com/data-objects/panel-study-data/)) has also led [some to argue](https://www.reuters.com/article/us-britain-brexit-women/is-brexit-good-or-bad-for-women-its-divisive-to-even-ask-idUSKCN1RH162) that gender is irrelevant to Brexit. But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (including the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, [researchers are finding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689) that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
 
 So how is gender reflected in popular discourse on Brexit? One place to analyse this is Twitter, which has been a hotspot of public debate on the issue. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and so in this research we looked at a dataset of #Brexit tweets from that week in order to look at how men and women were talked about in relation to leaving the EU. How much are men and women discussed, is it in the same way, and what topics are people talking about in reference to different genders? 
@@ -32,7 +32,7 @@ Firstly, a Named Entity Recognition algorithm was run on the tweets in order to 
 Secondly, the names of all current Members of Parliament (MPs) in the UK parliament and, if they were on Twitter, their [Twitter handles](https://www.mpsontwitter.co.uk/list), were searched for in the tweets. There was a particular focus on MPs since, given the political nature of the topic, MPs are often discussed. But also, in the context of Brexit, many [female MPs have highlighted](https://www.theguardian.com/politics/2019/sep/26/abuse-is-virtually-constant-female-mps-speak-about-the-threats-they-face) increasingly hostile rhetoric and abuse directed towards them, especially on social media. In light of this, exploring discourse related to MPs and Brexit would useful.
 
 This resulted in a set of 13,854 tweets in which we had detected a person being mentioned by name, and whose gender we had inferred. As can be seen in the chart below, men were mentioned in a far greater proportion than women, both in general and when just looking at mentions of MPs.
-
+<img srcset = "/assets/images/plots/mentions_by_gender.png
 ![Plot of tweets mentioning men and women](/assets/images/plots/mentions_by_gender.png)
 
 This suggests that  the discussion of Brexit on Twitter was largely focused on men, which is consistent with [previous research](https://www.prio.org/Publications/Publication/?x=10651) which has discussed how the Brexit debate has been male-dominated. As is shown above, this is even more true when we consider just the discussion of MPs - in general, tweets mentioning someone mention women 15.01% of the time, but tweets mentioning an MP mention female MPs only 12.02% of the time. This added focus on men when it comes to MPs was largely driven by mentions of Boris Johnson, who was unsurprisingly discussed a lot given that he was Prime Minister. But even when we remove mentions of Boris Johnson, the conversation was still focused on male figures (out of tweets mentioning someone other than the PM, 79.13% mentioned men and 20.87% mentioned women).
@@ -79,11 +79,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI5Nzg3NTAsMTM4MjI4MzY0MiwzNT
-E1MDc3NjksLTk4OTUzMTI3MCwyMDg2NzQwNzQ5LDEwNDQzMjc0
-ODgsMTc4NjMzOTAxNCwtMTkyOTE0MzcxOCw1MDUxNjM4MDQsMT
-k3NDA2MjU0OSw2ODYwNjkwOTAsMTY4OTg0NzcxMiwxNTEwNjMy
-NTA0LDE0NzAwMDQ5NCwtODAwOTAxMjI5LDI0Mzc0MTAyOSwtNT
-k4MzE5MTA1LC0xMTg2NzA2MjY4LDQ1NzgwMzAxOSwtMTc3NzIy
-NzMxN119
+eyJoaXN0b3J5IjpbLTM0NTg5MTIxOSwtMTk4Mjk3ODc1MCwxMz
+gyMjgzNjQyLDM1MTUwNzc2OSwtOTg5NTMxMjcwLDIwODY3NDA3
+NDksMTA0NDMyNzQ4OCwxNzg2MzM5MDE0LC0xOTI5MTQzNzE4LD
+UwNTE2MzgwNCwxOTc0MDYyNTQ5LDY4NjA2OTA5MCwxNjg5ODQ3
+NzEyLDE1MTA2MzI1MDQsMTQ3MDAwNDk0LC04MDA5MDEyMjksMj
+QzNzQxMDI5LC01OTgzMTkxMDUsLTExODY3MDYyNjgsNDU3ODAz
+MDE5XX0=
 -->
