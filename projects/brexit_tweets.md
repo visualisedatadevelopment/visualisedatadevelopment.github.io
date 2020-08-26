@@ -10,7 +10,7 @@ layout: default
 <br>
 <br>
 In the campaign leading up to the EU referendum in 2016, and the subsequent years of debate, the politics of Brexit has been about many things, from sovereignty to regulations, public trust in institutions and immigration. Yet one thing has largely been left off the agenda - gender.
-
+<img src = "/assets/images/plots/mentions_by_gender_mobile.png">
 Although issues such as EU legislation on women's employment rights have come up at times, they were [never central to the debate](https://ecpr.eu/Events/PaperDetails.aspx?PaperID=33436&EventID=114). The fact that there was no significant difference in the proportions of men and women voting Leave/Remain (according to [British Election Study data](https://www.britishelectionstudy.com/data-objects/panel-study-data/)) has also led [some to argue](https://www.reuters.com/article/us-britain-brexit-women/is-brexit-good-or-bad-for-women-its-divisive-to-even-ask-idUSKCN1RH162) that gender is irrelevant to Brexit. But at the same time, public discussion of Brexit has had a very gendered nature. The call for leaving the EU was largely led by male figures (including the "Bad Boys of Brexit"), but also, [a study](https://blog.lboro.ac.uk/crcc/eu-referendum/gender-balance-eu-referendum-coverage/) from 2016 estimated that 82.5% of the voices, on either side of the debate, included in media coverage of the campaign were male. And more recently, [researchers are finding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429689) that attitudes towards gender roles and perceived discrimination against men played a part in the Leave vote.
 
 So how is gender reflected in popular discourse on Brexit? One place to analyse this is Twitter, which has been a hotspot of public debate on the issue. When Britain officially left the EU on the 31st January 2020, there was significant activity around the #Brexit hashtag on the platform, and so in this research we looked at a dataset of #Brexit tweets from that week in order to look at how men and women were talked about in relation to leaving the EU. How much are men and women discussed, is it in the same way, and what topics are people talking about in reference to different genders? 
@@ -79,11 +79,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjI4MzY0MiwzNTE1MDc3NjksLTk4OT
-UzMTI3MCwyMDg2NzQwNzQ5LDEwNDQzMjc0ODgsMTc4NjMzOTAx
-NCwtMTkyOTE0MzcxOCw1MDUxNjM4MDQsMTk3NDA2MjU0OSw2OD
-YwNjkwOTAsMTY4OTg0NzcxMiwxNTEwNjMyNTA0LDE0NzAwMDQ5
-NCwtODAwOTAxMjI5LDI0Mzc0MTAyOSwtNTk4MzE5MTA1LC0xMT
-g2NzA2MjY4LDQ1NzgwMzAxOSwtMTc3NzIyNzMxNyw0NTc4MDMw
-MTldfQ==
+eyJoaXN0b3J5IjpbLTE5ODI5Nzg3NTAsMTM4MjI4MzY0MiwzNT
+E1MDc3NjksLTk4OTUzMTI3MCwyMDg2NzQwNzQ5LDEwNDQzMjc0
+ODgsMTc4NjMzOTAxNCwtMTkyOTE0MzcxOCw1MDUxNjM4MDQsMT
+k3NDA2MjU0OSw2ODYwNjkwOTAsMTY4OTg0NzcxMiwxNTEwNjMy
+NTA0LDE0NzAwMDQ5NCwtODAwOTAxMjI5LDI0Mzc0MTAyOSwtNT
+k4MzE5MTA1LC0xMTg2NzA2MjY4LDQ1NzgwMzAxOSwtMTc3NzIy
+NzMxN119
 -->
