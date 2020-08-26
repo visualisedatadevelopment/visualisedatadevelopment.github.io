@@ -20,7 +20,7 @@ The data we analysed consists of 157,512 tweets that used the hashtag #Brexit du
 
 The chart below shows how the tweets were distributed over the week. It's important to note here that the dataset is a sample of the tweets using #Brexit, rather than all tweets with that hashtag. So in the chart below, we're more interested in the relative distribution as opposed to the absolute number of tweets. Not surprisingly, we see higher volumes on the day the UK left and the morning after, with a notable spike around 11pm on the 31st January - the official moment of departure.
 
-<img src="/assets/images/plots/test8.png" alt="Plot of tweet frequency over time">
+<img src="/assets/images/plots/test9.png" alt="Plot of tweet frequency over time">
 
 Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
@@ -79,11 +79,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNTA3NzY5LC05ODk1MzEyNzAsMjA4Nj
-c0MDc0OSwxMDQ0MzI3NDg4LDE3ODYzMzkwMTQsLTE5MjkxNDM3
-MTgsNTA1MTYzODA0LDE5NzQwNjI1NDksNjg2MDY5MDkwLDE2OD
-k4NDc3MTIsMTUxMDYzMjUwNCwxNDcwMDA0OTQsLTgwMDkwMTIy
-OSwyNDM3NDEwMjksLTU5ODMxOTEwNSwtMTE4NjcwNjI2OCw0NT
-c4MDMwMTksLTE3NzcyMjczMTcsNDU3ODAzMDE5LC0yMTI4NzM1
-MDM2XX0=
+eyJoaXN0b3J5IjpbMTM4MjI4MzY0MiwzNTE1MDc3NjksLTk4OT
+UzMTI3MCwyMDg2NzQwNzQ5LDEwNDQzMjc0ODgsMTc4NjMzOTAx
+NCwtMTkyOTE0MzcxOCw1MDUxNjM4MDQsMTk3NDA2MjU0OSw2OD
+YwNjkwOTAsMTY4OTg0NzcxMiwxNTEwNjMyNTA0LDE0NzAwMDQ5
+NCwtODAwOTAxMjI5LDI0Mzc0MTAyOSwtNTk4MzE5MTA1LC0xMT
+g2NzA2MjY4LDQ1NzgwMzAxOSwtMTc3NzIyNzMxNyw0NTc4MDMw
+MTldfQ==
 -->
