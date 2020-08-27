@@ -20,7 +20,16 @@ The data we analysed consists of 157,512 tweets that used the hashtag #Brexit du
 
 The chart below shows how the tweets were distributed over the week. It's important to note here that the dataset is a sample of the tweets using #Brexit, rather than all tweets with that hashtag. So in the chart below, we're more interested in the relative distribution as opposed to the absolute number of tweets. Not surprisingly, we see higher volumes on the day the UK left and the morning after, with a notable spike around 11pm on the 31st January - the official moment of departure.
 
-<img src="/assets/images/plots/test9.png" alt="Plot of tweet frequency over time">
+<picture>
+   <source 
+      media="(min-width: 600px) and (max-resolution: 200dpi)"
+      srcset="/assets/images/plots/gender_by_stance.png">
+   <source 
+      media="(min-width: 100px)"
+		      srcset="/assets/images/plots/gender_by_stance_mobile.png">
+   <img src="/assets/images/plots/gender_by_stance.png" 
+   alt="plot of mentions by gender">
+</picture>
 
 Before delving into the analysis, it is always worth bearing in mind when looking at Twitter data that [the tweeting population differs](https://journals.sagepub.com/doi/full/10.1177/2053168017720008) from the general UK population in terms of their demographics and political attitudes, though this does not mean that it's not a useful artefact of public discourse. And equally, it's important to note that this analysis is limited in only analysing male and female gender, largely because the methods used rely on binary notions of gender (such as gendered entity recognition based on census data) or linguistic distinctions like "he/she". For some interesting discussion of the limitations of these approaches in text-mining research, have a look [here](https://www.frontiersin.org/articles/10.3389/fdata.2019.00029/full).
 
@@ -107,11 +116,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEzNDk5ODEsLTEyNjI1NTQ5OSwxND
-IyNTM5Nzg1LDExNDA5NzI0MzUsLTExNTc3MDU2NDYsLTg5MDMw
-NDM5MywxNTUzMzg3NDgsLTEzOTUwMDIzNjgsMTk5ODA5MDA3MC
-wxNjkzMjgwOTcsLTM0NTg5MTIxOSwtMTk4Mjk3ODc1MCwxMzgy
-MjgzNjQyLDM1MTUwNzc2OSwtOTg5NTMxMjcwLDIwODY3NDA3ND
-ksMTA0NDMyNzQ4OCwxNzg2MzM5MDE0LC0xOTI5MTQzNzE4LDUw
-NTE2MzgwNF19
+eyJoaXN0b3J5IjpbLTg1NDk4Nzc2MiwtMTIxMTM0OTk4MSwtMT
+I2MjU1NDk5LDE0MjI1Mzk3ODUsMTE0MDk3MjQzNSwtMTE1Nzcw
+NTY0NiwtODkwMzA0MzkzLDE1NTMzODc0OCwtMTM5NTAwMjM2OC
+wxOTk4MDkwMDcwLDE2OTMyODA5NywtMzQ1ODkxMjE5LC0xOTgy
+OTc4NzUwLDEzODIyODM2NDIsMzUxNTA3NzY5LC05ODk1MzEyNz
+AsMjA4Njc0MDc0OSwxMDQ0MzI3NDg4LDE3ODYzMzkwMTQsLTE5
+MjkxNDM3MThdfQ==
 -->
