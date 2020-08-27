@@ -23,7 +23,7 @@ The chart below shows how the tweets were distributed over the week. It's import
 <picture>
    <source 
       media="(min-width: 600px) and (max-resolution: 200dpi)"
-      srcset="/assets/images/plots/gender_by_stance.png">
+      srcset="/assets/images/plots/tweet_frequency_over_time.png">
    <source 
       media="(min-width: 100px)"
 		      srcset="/assets/images/plots/gender_by_stance_mobile.png">
@@ -116,11 +116,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDk4Nzc2MiwtMTIxMTM0OTk4MSwtMT
-I2MjU1NDk5LDE0MjI1Mzk3ODUsMTE0MDk3MjQzNSwtMTE1Nzcw
-NTY0NiwtODkwMzA0MzkzLDE1NTMzODc0OCwtMTM5NTAwMjM2OC
-wxOTk4MDkwMDcwLDE2OTMyODA5NywtMzQ1ODkxMjE5LC0xOTgy
-OTc4NzUwLDEzODIyODM2NDIsMzUxNTA3NzY5LC05ODk1MzEyNz
-AsMjA4Njc0MDc0OSwxMDQ0MzI3NDg4LDE3ODYzMzkwMTQsLTE5
-MjkxNDM3MThdfQ==
+eyJoaXN0b3J5IjpbLTI2NjYxMzM4OSwtODU0OTg3NzYyLC0xMj
+ExMzQ5OTgxLC0xMjYyNTU0OTksMTQyMjUzOTc4NSwxMTQwOTcy
+NDM1LC0xMTU3NzA1NjQ2LC04OTAzMDQzOTMsMTU1MzM4NzQ4LC
+0xMzk1MDAyMzY4LDE5OTgwOTAwNzAsMTY5MzI4MDk3LC0zNDU4
+OTEyMTksLTE5ODI5Nzg3NTAsMTM4MjI4MzY0MiwzNTE1MDc3Nj
+ksLTk4OTUzMTI3MCwyMDg2NzQwNzQ5LDEwNDQzMjc0ODgsMTc4
+NjMzOTAxNF19
 -->
