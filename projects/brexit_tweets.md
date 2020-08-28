@@ -111,11 +111,11 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
 So who is driving these differences ? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former International Trade Secretary (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
-<iframe class = "plotly_plot" width = "100%" height = 600 frameBorder = 0  src = "/assets/plotly_files/language_plot.html"></iframe>
-<iframe class = "plotly_plot" width = "100%" height = 600 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
+<iframe width = "100%" height = 600 frameBorder = 0  src = "/assets/plotly_files/language_plot.html"></iframe>
+<iframe width = "100%" height = 600 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTc0NDgwNiwxMzAzMzc2MDM5LDE3Nz
+eyJoaXN0b3J5IjpbLTg1NDQ3MDY4MCwxMzAzMzc2MDM5LDE3Nz
 AyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0OTk4MSwtMTI2MjU1
 NDk5LDE0MjI1Mzk3ODUsMTE0MDk3MjQzNSwtMTE1NzcwNTY0Ni
 wtODkwMzA0MzkzLDE1NTMzODc0OCwtMTM5NTAwMjM2OCwxOTk4
