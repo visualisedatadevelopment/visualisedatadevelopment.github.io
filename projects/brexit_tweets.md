@@ -98,7 +98,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
-<img class = "small_plot" src = "/assets/images/plots/gender_by_stance_mps_only.png">
+<img src = "/assets/images/plots/gender_by_stance_mps_only.png">
 
 ## What do people tweet about when discussing men and women and Brexit?
 
@@ -115,11 +115,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIyNzM4NDMsMTk1MDcxNzU1LDEzMD
-MzNzYwMzksMTc3MDI4NDk2NywtODU0OTg3NzYyLC0xMjExMzQ5
-OTgxLC0xMjYyNTU0OTksMTQyMjUzOTc4NSwxMTQwOTcyNDM1LC
-0xMTU3NzA1NjQ2LC04OTAzMDQzOTMsMTU1MzM4NzQ4LC0xMzk1
-MDAyMzY4LDE5OTgwOTAwNzAsMTY5MzI4MDk3LC0zNDU4OTEyMT
-ksLTE5ODI5Nzg3NTAsMTM4MjI4MzY0MiwzNTE1MDc3NjksLTk4
-OTUzMTI3MF19
+eyJoaXN0b3J5IjpbMTA1NjkxNTU1MSwtMTMzMjI3Mzg0MywxOT
+UwNzE3NTUsMTMwMzM3NjAzOSwxNzcwMjg0OTY3LC04NTQ5ODc3
+NjIsLTEyMTEzNDk5ODEsLTEyNjI1NTQ5OSwxNDIyNTM5Nzg1LD
+ExNDA5NzI0MzUsLTExNTc3MDU2NDYsLTg5MDMwNDM5MywxNTUz
+Mzg3NDgsLTEzOTUwMDIzNjgsMTk5ODA5MDA3MCwxNjkzMjgwOT
+csLTM0NTg5MTIxOSwtMTk4Mjk3ODc1MCwxMzgyMjgzNjQyLDM1
+MTUwNzc2OV19
 -->
