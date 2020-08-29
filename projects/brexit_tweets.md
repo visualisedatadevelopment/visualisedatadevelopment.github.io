@@ -98,15 +98,34 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
-<img src = "/assets/images/plots/gender_by_stance_mps_only.png">
-
+<picture>
+   <source 
+      media="(min-width: 600px) and (max-resolution: 200dpi)"
+      srcset="/assets/images/plots/gender_by_stance_mps_only.png">
+   <source 
+      media="(min-width: 100px)"
+		      srcset="/assets/images/plots/gender_by_stance_mps_only_mobile.png">
+   <img src="/assets/images/plots/gender_by_stance_mps_only.png" 
+   alt="plot of mentions by gender">
+</picture>
+ 
 ## What do people tweet about when discussing men and women and Brexit?
 
 So far we have seen how discussion of men is far more prevalent in Brexit tweets than discussion of women. However, we might also ask whether the nature of discourse changes when talking about male and female figures  - are the same topics discussed, and is the language used the same?
 
 To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. We then used these key words to find tweets that discussed each topic. This allowed us to see how commonly a topic was discussed, and in particular, to compare how likely they were to be brought up in a tweet that also discusses a man or a woman. The plot below compares tweets mentioning men to tweets mentioning women in terms of how likely they were to talk about a certain topic.
 
-![](/assets/images/plots/topic_gender_odds_ratios.png)
+<picture>
+   <source 
+      media="(min-width: 600px) and (max-resolution: 200dpi)"
+      srcset="/assets/images/plots/topic_gender_odds_ratios.png">
+   <source 
+      media="(min-width: 100px)"
+		      srcset="/assets/images/plots/topic_gender_odds_ratios_mobile.png">
+   <img src="/assets/images/plots/topic_gender_odds_ratio.png" 
+   alt="plot of mentions by gender">
+</picture>
+ 
 
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
@@ -115,11 +134,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjkxNTU1MSwtMTMzMjI3Mzg0MywxOT
-UwNzE3NTUsMTMwMzM3NjAzOSwxNzcwMjg0OTY3LC04NTQ5ODc3
-NjIsLTEyMTEzNDk5ODEsLTEyNjI1NTQ5OSwxNDIyNTM5Nzg1LD
-ExNDA5NzI0MzUsLTExNTc3MDU2NDYsLTg5MDMwNDM5MywxNTUz
-Mzg3NDgsLTEzOTUwMDIzNjgsMTk5ODA5MDA3MCwxNjkzMjgwOT
-csLTM0NTg5MTIxOSwtMTk4Mjk3ODc1MCwxMzgyMjgzNjQyLDM1
-MTUwNzc2OV19
+eyJoaXN0b3J5IjpbODI5NDUzMjcwLDEwNTY5MTU1NTEsLTEzMz
+IyNzM4NDMsMTk1MDcxNzU1LDEzMDMzNzYwMzksMTc3MDI4NDk2
+NywtODU0OTg3NzYyLC0xMjExMzQ5OTgxLC0xMjYyNTU0OTksMT
+QyMjUzOTc4NSwxMTQwOTcyNDM1LC0xMTU3NzA1NjQ2LC04OTAz
+MDQzOTMsMTU1MzM4NzQ4LC0xMzk1MDAyMzY4LDE5OTgwOTAwNz
+AsMTY5MzI4MDk3LC0zNDU4OTEyMTksLTE5ODI5Nzg3NTAsMTM4
+MjI4MzY0Ml19
 -->
