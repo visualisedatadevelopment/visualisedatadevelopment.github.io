@@ -100,7 +100,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 	</tr>
 	<tr>
 		<td>Tweets mentioning women</td>
-		<td>1
+		<td>15.96%</td>
 		
 		
 </table>
@@ -159,11 +159,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAyMTg3NjQsNzUxNzUwMzY2LC0xOT
-E0MDQ1NzE3LDgyOTQ1MzI3MCwxMDU2OTE1NTUxLC0xMzMyMjcz
-ODQzLDE5NTA3MTc1NSwxMzAzMzc2MDM5LDE3NzAyODQ5NjcsLT
-g1NDk4Nzc2MiwtMTIxMTM0OTk4MSwtMTI2MjU1NDk5LDE0MjI1
-Mzk3ODUsMTE0MDk3MjQzNSwtMTE1NzcwNTY0NiwtODkwMzA0Mz
-kzLDE1NTMzODc0OCwtMTM5NTAwMjM2OCwxOTk4MDkwMDcwLDE2
-OTMyODA5N119
+eyJoaXN0b3J5IjpbMTkwMTIxNjI2NCw3NTE3NTAzNjYsLTE5MT
+QwNDU3MTcsODI5NDUzMjcwLDEwNTY5MTU1NTEsLTEzMzIyNzM4
+NDMsMTk1MDcxNzU1LDEzMDMzNzYwMzksMTc3MDI4NDk2NywtOD
+U0OTg3NzYyLC0xMjExMzQ5OTgxLC0xMjYyNTU0OTksMTQyMjUz
+OTc4NSwxMTQwOTcyNDM1LC0xMTU3NzA1NjQ2LC04OTAzMDQzOT
+MsMTU1MzM4NzQ4LC0xMzk1MDAyMzY4LDE5OTgwOTAwNzAsMTY5
+MzI4MDk3XX0=
 -->
