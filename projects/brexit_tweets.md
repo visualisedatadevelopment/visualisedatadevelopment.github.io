@@ -87,15 +87,11 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 <table>
 	<tr>
-		<
+		<td></td>
+		<td colspan = 3> Brexit Side</td>
+		<td></td>
+		
 </table>
-
-|<td colspan = 3>Side</td>|||||
-|---|---|---|---|---|
-||Leave|Remain|Neither|Total|
-|Tweets mentioning women|15.96%	|16.94%|15.38%|84.12%|
-|Tweets mentioning men|84.04%|83.06%|84.62%|84.12%|
-
 
 We found that both sides, as well as those tweets classified as neither side, were heavily male-dominated
 
@@ -151,7 +147,7 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMTg3ODI0LC0xOTE0MDQ1NzE3LDgyOT
+eyJoaXN0b3J5IjpbNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOT
 Q1MzI3MCwxMDU2OTE1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1
 NSwxMzAzMzc2MDM5LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMT
 IxMTM0OTk4MSwtMTI2MjU1NDk5LDE0MjI1Mzk3ODUsMTE0MDk3
