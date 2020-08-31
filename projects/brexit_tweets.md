@@ -117,7 +117,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
  </tr>
 </table>
 
-As can be seen, there is little difference across sides, with Leave, Remain and Neither tweets all talking about men
+As can be seen, there is only a 1% difference between Leave and Remain tweets
 
 The results are shown in the plot below.
 
@@ -171,11 +171,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc2MzAyMzgsLTEyODU0ODY1OSwtMT
-cxNjkyNDg3NiwxNTIxNjg0MjAsLTIwOTI3NjAwOTQsMTE2Njg4
-MjY5OSw2NjQxMTg5ODEsNzA3OTMzMDc1LDE1MzY2OTA2NjksMT
-kwMTIxNjI2NCw3NTE3NTAzNjYsLTE5MTQwNDU3MTcsODI5NDUz
-MjcwLDEwNTY5MTU1NTEsLTEzMzIyNzM4NDMsMTk1MDcxNzU1LD
-EzMDMzNzYwMzksMTc3MDI4NDk2NywtODU0OTg3NzYyLC0xMjEx
-MzQ5OTgxXX0=
+eyJoaXN0b3J5IjpbMTE0NzMxMDEzNSwtMTI4NTQ4NjU5LC0xNz
+E2OTI0ODc2LDE1MjE2ODQyMCwtMjA5Mjc2MDA5NCwxMTY2ODgy
+Njk5LDY2NDExODk4MSw3MDc5MzMwNzUsMTUzNjY5MDY2OSwxOT
+AxMjE2MjY0LDc1MTc1MDM2NiwtMTkxNDA0NTcxNyw4Mjk0NTMy
+NzAsMTA1NjkxNTU1MSwtMTMzMjI3Mzg0MywxOTUwNzE3NTUsMT
+MwMzM3NjAzOSwxNzcwMjg0OTY3LC04NTQ5ODc3NjIsLTEyMTEz
+NDk5ODFdfQ==
 -->
