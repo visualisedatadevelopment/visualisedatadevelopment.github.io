@@ -82,7 +82,12 @@ In our research, we used an approach that is somewhere in between these two meth
 
 After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter (largely due to the younger profile of Twitter users compared to the general population).
 
-We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. We found that both sides, as well as those tweets classified as neither side, were heavily male-dominated
+We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the table below.
+
+|	|	|
+|---|---|
+
+We found that both sides, as well as those tweets classified as neither side, were heavily male-dominated
 
 The results are shown in the plot below.
 
@@ -136,11 +141,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MjM4MjY2LDgyOTQ1MzI3MCwxMDU2OT
-E1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1NSwxMzAzMzc2MDM5
-LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0OTk4MSwtMT
-I2MjU1NDk5LDE0MjI1Mzk3ODUsMTE0MDk3MjQzNSwtMTE1Nzcw
-NTY0NiwtODkwMzA0MzkzLDE1NTMzODc0OCwtMTM5NTAwMjM2OC
-wxOTk4MDkwMDcwLDE2OTMyODA5NywtMzQ1ODkxMjE5LC0xOTgy
-OTc4NzUwXX0=
+eyJoaXN0b3J5IjpbLTIwMTM5MzgxODUsODI5NDUzMjcwLDEwNT
+Y5MTU1NTEsLTEzMzIyNzM4NDMsMTk1MDcxNzU1LDEzMDMzNzYw
+MzksMTc3MDI4NDk2NywtODU0OTg3NzYyLC0xMjExMzQ5OTgxLC
+0xMjYyNTU0OTksMTQyMjUzOTc4NSwxMTQwOTcyNDM1LC0xMTU3
+NzA1NjQ2LC04OTAzMDQzOTMsMTU1MzM4NzQ4LC0xMzk1MDAyMz
+Y4LDE5OTgwOTAwNzAsMTY5MzI4MDk3LC0zNDU4OTEyMTksLTE5
+ODI5Nzg3NTBdfQ==
 -->
