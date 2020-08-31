@@ -83,7 +83,7 @@ In our research, we used an approach that is somewhere in between these two meth
 After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter (largely due to the younger profile of Twitter users compared to the general population).
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the table below.
-|	|Side|	|
+|<td colspan = 2>Side	|
 |---|---|---|---|
 |	|Leave|Remain|Total|
 |	|	|	|	|
@@ -143,7 +143,7 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODk3OTU4OSwtMTkxNDA0NTcxNyw4Mj
+eyJoaXN0b3J5IjpbMTEwNTY1OTA4NCwtMTkxNDA0NTcxNyw4Mj
 k0NTMyNzAsMTA1NjkxNTU1MSwtMTMzMjI3Mzg0MywxOTUwNzE3
 NTUsMTMwMzM3NjAzOSwxNzcwMjg0OTY3LC04NTQ5ODc3NjIsLT
 EyMTEzNDk5ODEsLTEyNjI1NTQ5OSwxNDIyNTM5Nzg1LDExNDA5
