@@ -134,7 +134,7 @@ We can also look at this same data the other way round - that is, do tweets ment
 
 This again shows that there are small differences, with tweets mentioning women supporting Remain slightly more often than tweets mentioning men. Again though, the difference is not statistically significant.
 
-Interesting, however, if we restrict the analysis to looking at just MPs, we see larger differences appear in the data. The plot below is the same as the one above, except this time only for tweets that mention an MP.
+Interestingly, however, if we restrict the analysis to looking at just MPs, we see larger, statistically significant differences appear in the data. The plot below is the same as the one above, except this time only for tweets that mention an MP.
  
 <picture>
    <source 
@@ -147,7 +147,7 @@ Interesting, however, if we restrict the analysis to looking at just MPs, we see
    alt="plot of mentions by gender">
 </picture>
 
-Here we see that there is considerably higher support for Remain in tweets that mention a female MP compared to tweets that mention a male MP. In fact, whilst overall that was greater support for Remain than Leave in the tweet dataset, amongst tweets discussing male MPs, it is Leave that has most support.
+Here we see that there is considerably higher support for Remain in tweets that mention a female MP compared to tweets that mention a male MP. In fact, whilst overall that was greater support for Remain than Leave in the tweet dataset, amongst tweets discussing male MPs, it is Leave that has most support. What this shows, then, is that 
  
 ## What do people tweet about when discussing men and women and Brexit?
 
@@ -174,11 +174,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MDUyODM5LC0xMjg1NDg2NTksLTE3MT
-Y5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4ODI2
-OTksNjY0MTE4OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MD
-EyMTYyNjQsNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3
-MCwxMDU2OTE1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1NSwxMz
-AzMzc2MDM5LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0
-OTk4MV19
+eyJoaXN0b3J5IjpbMTQ2NTI2NjUyNyw1MjkwNTI4MzksLTEyOD
+U0ODY1OSwtMTcxNjkyNDg3NiwxNTIxNjg0MjAsLTIwOTI3NjAw
+OTQsMTE2Njg4MjY5OSw2NjQxMTg5ODEsNzA3OTMzMDc1LDE1Mz
+Y2OTA2NjksMTkwMTIxNjI2NCw3NTE3NTAzNjYsLTE5MTQwNDU3
+MTcsODI5NDUzMjcwLDEwNTY5MTU1NTEsLTEzMzIyNzM4NDMsMT
+k1MDcxNzU1LDEzMDMzNzYwMzksMTc3MDI4NDk2NywtODU0OTg3
+NzYyXX0=
 -->
