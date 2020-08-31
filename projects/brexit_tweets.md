@@ -88,8 +88,15 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 <table>
 	<tr>
 		<td></td>
-		<td colspan = 3> Brexit Side</td>
+		<td colspan = 3>Side tweet supports</td>
 		<td></td>
+	</tr>
+	<tr>
+	<td></td>
+	<td>Leave</td>
+	<td>Remain</td>
+	<td>Neither</td>
+		
 		
 </table>
 
@@ -147,11 +154,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOT
-Q1MzI3MCwxMDU2OTE1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1
-NSwxMzAzMzc2MDM5LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMT
-IxMTM0OTk4MSwtMTI2MjU1NDk5LDE0MjI1Mzk3ODUsMTE0MDk3
-MjQzNSwtMTE1NzcwNTY0NiwtODkwMzA0MzkzLDE1NTMzODc0OC
-wtMTM5NTAwMjM2OCwxOTk4MDkwMDcwLDE2OTMyODA5NywtMzQ1
-ODkxMjE5XX0=
+eyJoaXN0b3J5IjpbNjE3NjczNDQsNzUxNzUwMzY2LC0xOTE0MD
+Q1NzE3LDgyOTQ1MzI3MCwxMDU2OTE1NTUxLC0xMzMyMjczODQz
+LDE5NTA3MTc1NSwxMzAzMzc2MDM5LDE3NzAyODQ5NjcsLTg1ND
+k4Nzc2MiwtMTIxMTM0OTk4MSwtMTI2MjU1NDk5LDE0MjI1Mzk3
+ODUsMTE0MDk3MjQzNSwtMTE1NzcwNTY0NiwtODkwMzA0MzkzLD
+E1NTMzODc0OCwtMTM5NTAwMjM2OCwxOTk4MDkwMDcwLDE2OTMy
+ODA5N119
 -->
