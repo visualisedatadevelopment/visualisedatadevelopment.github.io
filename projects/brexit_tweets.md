@@ -132,9 +132,9 @@ We can also look at this same data the other way round - that is, do tweets ment
    alt="plot of mentions by gender">
 </picture>
 
-This again shows that there are small differences, with tweets mentioning women supporting Remain slightly more often than tweets mentioning men. Again, however 
+This again shows that there are small differences, with tweets mentioning women supporting Remain slightly more often than tweets mentioning men. Again though, the difference is not statistically significant.
 
-The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
+Interesting, however, if we restrict the analysis to looking at just MPs, we see larger differences appear in the data.
  
 <picture>
    <source 
@@ -172,7 +172,7 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTc4NDQwLC0xMjg1NDg2NTksLTE3MT
+eyJoaXN0b3J5IjpbOTc1NjE0MjYwLC0xMjg1NDg2NTksLTE3MT
 Y5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4ODI2
 OTksNjY0MTE4OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MD
 EyMTYyNjQsNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3
