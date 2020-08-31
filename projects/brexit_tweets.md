@@ -117,7 +117,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
  </tr>
 </table>
 
-As can be seen, there is only a 1% difference between Leave and Remain tweets in terms of how much they discuss men/women, which is not statistically significant accordin
+As can be seen, there is only a 1% difference between Leave and Remain tweets in terms of how much they discuss men/women, which is not statistically significant according to a Chi Square test at the p < 0.05 level. This would suggest that both sides, as well as tweets supporting neither Leave nor Remain
 
 The results are shown in the plot below.
 
@@ -171,7 +171,7 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMzY0NjI0LC0xMjg1NDg2NTksLTE3MT
+eyJoaXN0b3J5IjpbNDY0Mzk5MDg0LC0xMjg1NDg2NTksLTE3MT
 Y5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4ODI2
 OTksNjY0MTE4OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MD
 EyMTYyNjQsNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3
