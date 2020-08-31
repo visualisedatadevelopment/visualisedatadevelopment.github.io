@@ -74,13 +74,13 @@ We can also see here that there are some figures who you would expect to see men
 
 ## Is there a relationship between the focus on men and political stance?
 
-So far, we've seen how the set of #Brexit tweets is heavily male-focused, with most people who are tweeted about being men. But we might also ask, is this the same across political divides? Do tweets supporting Leave or Remain talk about different genders in the same proportion as each other, or is one side more male/female-focused than the other? Equally, do tweets discussing one gender support Leave/Remain in the s
+So far, we've seen how the set of #Brexit tweets is heavily male-focused, with most people who are tweeted about being men. But we might also ask, is this the same across political divides? Do tweets supporting Leave or Remain talk about different genders in the same proportion as each other, or is one side more male/female-focused than the other? Equally, do tweets discussing one gender support Leave/Remain in the same proportion as tweets discussing the other gender?
 
 In order to answer this we need a way of classifying tweets as pro-Leave or pro-Remain. Previous research has used various text-mining methods for determining political stance of tweets. In relation to Brexit, [one study](https://ieeexplore.ieee.org/document/7836698) has used a hashtag-based analysis to classify tweets as Leave/Remain, whilst [others](https://link.springer.com/article/10.1186/s40649-017-0042-6#Sec15) have used more sophisticated, but also more labour-intensive, machine learning methods based on a subset of tweets that have been pre-classified by humans manually.
 
 In our research, we used an approach that is somewhere in between these two methods. Firstly, a subset of pre-tagged tweets was created using an adapted hashtag-based analysis. All the tweets were then converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) package. A K Nearest Neighbours (KNN) algorithm was then used to classify tweets as Leave or Remain based on their proximity to tweets in the pre-tagged subset.
 
-After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter. This research has also found that once Twitter data is weighted to take account of the fact that social media users are generally younger than the overall population, Leave/Remain support on Twitter reflects that of the rest of the population.
+After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter (largely due to the younger profile of Twitter users compared to the general population).
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the plot below.
 
@@ -134,11 +134,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMxMjYxNDcsODI5NDUzMjcwLDEwNT
-Y5MTU1NTEsLTEzMzIyNzM4NDMsMTk1MDcxNzU1LDEzMDMzNzYw
-MzksMTc3MDI4NDk2NywtODU0OTg3NzYyLC0xMjExMzQ5OTgxLC
-0xMjYyNTU0OTksMTQyMjUzOTc4NSwxMTQwOTcyNDM1LC0xMTU3
-NzA1NjQ2LC04OTAzMDQzOTMsMTU1MzM4NzQ4LC0xMzk1MDAyMz
-Y4LDE5OTgwOTAwNzAsMTY5MzI4MDk3LC0zNDU4OTEyMTksLTE5
-ODI5Nzg3NTBdfQ==
+eyJoaXN0b3J5IjpbNjI5NjA0MzMyLDgyOTQ1MzI3MCwxMDU2OT
+E1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1NSwxMzAzMzc2MDM5
+LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0OTk4MSwtMT
+I2MjU1NDk5LDE0MjI1Mzk3ODUsMTE0MDk3MjQzNSwtMTE1Nzcw
+NTY0NiwtODkwMzA0MzkzLDE1NTMzODc0OCwtMTM5NTAwMjM2OC
+wxOTk4MDkwMDcwLDE2OTMyODA5NywtMzQ1ODkxMjE5LC0xOTgy
+OTc4NzUwXX0=
 -->
