@@ -121,8 +121,6 @@ As can be seen, there is only a 1% difference between Leave and Remain tweets in
 
 We can also look at this same data the other way round - that is, do tweets mentioning men/women differ in their support for Leave and Remain compared to tweets mentioning the other gender? The proportions supporting each side, separated by gender, are visualised in the plot below.
 
-The results are shown in the plot below.
-
 <picture>
    <source 
       media="(min-width: 600px) and (max-resolution: 200dpi)"
@@ -133,7 +131,8 @@ The results are shown in the plot below.
    <img src="/assets/images/plots/gender_by_stance.png" 
    alt="plot of mentions by gender">
 </picture>
- 
+
+This again shows that there are small differences, with tweets mentioning women supporting Remain slightly more often than tweets mentioning men. Again, however 
 
 The chart shows that there was almost only a 1% gap between pro-Leave and pro-Remain tweets, which was not a statistically significant difference (according to a Chi Square test with p < 0.05). Both sides were far more likely to mention men than women. The same is broadly true when we look at just MPs (as shown in the plot below), where the gap is slightly bigger but still not statistically significant. These small differences could be further investigated with a larger sample of tweets in order to see if pro-Remain tweets are slightly more likely to mention women than pro-Leave tweets, but within this dataset, there is no evidence to suggest the two sides discuss men and women in substantially different proportions to each other. What is evident, is that both pro-Remain discourse and pro-Leave discourse was heavily male-centric.
  
@@ -173,11 +172,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIxNzY3MzMsLTEyODU0ODY1OSwtMT
-cxNjkyNDg3NiwxNTIxNjg0MjAsLTIwOTI3NjAwOTQsMTE2Njg4
-MjY5OSw2NjQxMTg5ODEsNzA3OTMzMDc1LDE1MzY2OTA2NjksMT
-kwMTIxNjI2NCw3NTE3NTAzNjYsLTE5MTQwNDU3MTcsODI5NDUz
-MjcwLDEwNTY5MTU1NTEsLTEzMzIyNzM4NDMsMTk1MDcxNzU1LD
-EzMDMzNzYwMzksMTc3MDI4NDk2NywtODU0OTg3NzYyLC0xMjEx
-MzQ5OTgxXX0=
+eyJoaXN0b3J5IjpbMTM0NTc4NDQwLC0xMjg1NDg2NTksLTE3MT
+Y5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4ODI2
+OTksNjY0MTE4OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MD
+EyMTYyNjQsNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3
+MCwxMDU2OTE1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1NSwxMz
+AzMzc2MDM5LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0
+OTk4MV19
 -->
