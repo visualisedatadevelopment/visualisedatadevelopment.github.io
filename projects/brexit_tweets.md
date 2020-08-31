@@ -72,7 +72,7 @@ The chart shows that it is mainly MPs being talked about, but several other figu
 
 We can also see here that there are some figures who you would expect to see mentioned more, but who aren't - for example, the adviser to the Prime Minister, Dominic Cummings. Exploring this highlights some of the limitations of the methods used to find mentions of people in the tweet dataset. People who are mainly referred to by their last name only (such as Cummings) aren't extracted, for example, since their gender cannot be inferred without their first name. Whilst manually searching for people in the tweets would be possible, this would mean that the results would depend on who was searched for and who was not, and so would potentially skew the analysis.
 
-## Does the focus on men vary by political stance?
+## Is there a relationship between the focus on men and ?
 
 So far, we've seen how the set of #Brexit tweets is heavily male-focused, with most people who are tweeted about being men. But we might also ask, is this the same across political divides? Do tweets supporting Leave or Remain talk about different genders in the same proportion as each other, or is one side more male/female-focused than the other?
 
@@ -134,11 +134,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NDUzMjcwLDEwNTY5MTU1NTEsLTEzMz
-IyNzM4NDMsMTk1MDcxNzU1LDEzMDMzNzYwMzksMTc3MDI4NDk2
-NywtODU0OTg3NzYyLC0xMjExMzQ5OTgxLC0xMjYyNTU0OTksMT
-QyMjUzOTc4NSwxMTQwOTcyNDM1LC0xMTU3NzA1NjQ2LC04OTAz
-MDQzOTMsMTU1MzM4NzQ4LC0xMzk1MDAyMzY4LDE5OTgwOTAwNz
-AsMTY5MzI4MDk3LC0zNDU4OTEyMTksLTE5ODI5Nzg3NTAsMTM4
-MjI4MzY0Ml19
+eyJoaXN0b3J5IjpbLTMzMjY1NDI1Nyw4Mjk0NTMyNzAsMTA1Nj
+kxNTU1MSwtMTMzMjI3Mzg0MywxOTUwNzE3NTUsMTMwMzM3NjAz
+OSwxNzcwMjg0OTY3LC04NTQ5ODc3NjIsLTEyMTEzNDk5ODEsLT
+EyNjI1NTQ5OSwxNDIyNTM5Nzg1LDExNDA5NzI0MzUsLTExNTc3
+MDU2NDYsLTg5MDMwNDM5MywxNTUzMzg3NDgsLTEzOTUwMDIzNj
+gsMTk5ODA5MDA3MCwxNjkzMjgwOTcsLTM0NTg5MTIxOSwtMTk4
+Mjk3ODc1MF19
 -->
