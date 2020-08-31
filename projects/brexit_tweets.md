@@ -134,7 +134,7 @@ We can also look at this same data the other way round - that is, do tweets ment
 
 This again shows that there are small differences, with tweets mentioning women supporting Remain slightly more often than tweets mentioning men. Again though, the difference is not statistically significant.
 
-Interesting, however, if we restrict the analysis to looking at just MPs, we see larger differences appear in the data.
+Interesting, however, if we restrict the analysis to looking at just MPs, we see larger differences appear in the data. The plot below is the same as the one above, except this time only for tweets that mention an MP.
  
 <picture>
    <source 
@@ -146,6 +146,8 @@ Interesting, however, if we restrict the analysis to looking at just MPs, we see
    <img src="/assets/images/plots/gender_by_stance_mps_only.png" 
    alt="plot of mentions by gender">
 </picture>
+
+Here we see that there is considerably higher support for Remain in tweets that mention a female MP compared to tweets that mention a male MP. Ind
  
 ## What do people tweet about when discussing men and women and Brexit?
 
@@ -172,11 +174,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NjE0MjYwLC0xMjg1NDg2NTksLTE3MT
-Y5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4ODI2
-OTksNjY0MTE4OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MD
-EyMTYyNjQsNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3
-MCwxMDU2OTE1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1NSwxMz
-AzMzc2MDM5LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0
-OTk4MV19
+eyJoaXN0b3J5IjpbMjA5ODA3NTQzMywtMTI4NTQ4NjU5LC0xNz
+E2OTI0ODc2LDE1MjE2ODQyMCwtMjA5Mjc2MDA5NCwxMTY2ODgy
+Njk5LDY2NDExODk4MSw3MDc5MzMwNzUsMTUzNjY5MDY2OSwxOT
+AxMjE2MjY0LDc1MTc1MDM2NiwtMTkxNDA0NTcxNyw4Mjk0NTMy
+NzAsMTA1NjkxNTU1MSwtMTMzMjI3Mzg0MywxOTUwNzE3NTUsMT
+MwMzM3NjAzOSwxNzcwMjg0OTY3LC04NTQ5ODc3NjIsLTEyMTEz
+NDk5ODFdfQ==
 -->
