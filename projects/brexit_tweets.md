@@ -86,9 +86,9 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 
 <table>
-	<tr>
+	<tr style = "text-align: center; background-color: #F6F4F4">
 		<th></th>
-		<th style = "text-align: center;" colspan = 3>Side tweet supports</th>
+		<th colspan = 3>Side tweet supports</th>
 		<th></th>
 	</tr>
 	<tr>
@@ -168,11 +168,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0MTUwOTIzLDExNjY4ODI2OTksNjY0MT
-E4OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MDEyMTYyNjQs
-NzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3MCwxMDU2OT
-E1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1NSwxMzAzMzc2MDM5
-LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0OTk4MSwtMT
-I2MjU1NDk5LDE0MjI1Mzk3ODUsMTE0MDk3MjQzNSwtMTE1Nzcw
-NTY0Nl19
+eyJoaXN0b3J5IjpbLTIwOTI3NjAwOTQsMTE2Njg4MjY5OSw2Nj
+QxMTg5ODEsNzA3OTMzMDc1LDE1MzY2OTA2NjksMTkwMTIxNjI2
+NCw3NTE3NTAzNjYsLTE5MTQwNDU3MTcsODI5NDUzMjcwLDEwNT
+Y5MTU1NTEsLTEzMzIyNzM4NDMsMTk1MDcxNzU1LDEzMDMzNzYw
+MzksMTc3MDI4NDk2NywtODU0OTg3NzYyLC0xMjExMzQ5OTgxLC
+0xMjYyNTU0OTksMTQyMjUzOTc4NSwxMTQwOTcyNDM1LC0xMTU3
+NzA1NjQ2XX0=
 -->
