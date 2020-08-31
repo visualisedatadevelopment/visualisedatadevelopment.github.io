@@ -84,11 +84,11 @@ After running the algorithm, the tweets were classified in the following proport
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the table below.
 
-|<td colspan = 2>Side</td>||||
+|<td colspan = 3>Side</td>|||||
 |---|---|---|---|---|
 ||Leave|Remain|Neither|Total|
-|Tweets mentioning women|15.96%	|16.94%|15.38%||
-|Tweets mentioning men|
+|Tweets mentioning women|15.96%	|16.94%|15.38%|84.12%|
+|Tweets mentioning men|84.04%|83.06%|84.62%|
 
 
 We found that both sides, as well as those tweets classified as neither side, were heavily male-dominated
@@ -145,7 +145,7 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzUwODg5NiwtMTkxNDA0NTcxNyw4Mj
+eyJoaXN0b3J5IjpbMTU3OTQzODU3NSwtMTkxNDA0NTcxNyw4Mj
 k0NTMyNzAsMTA1NjkxNTU1MSwtMTMzMjI3Mzg0MywxOTUwNzE3
 NTUsMTMwMzM3NjAzOSwxNzcwMjg0OTY3LC04NTQ5ODc3NjIsLT
 EyMTEzNDk5ODEsLTEyNjI1NTQ5OSwxNDIyNTM5Nzg1LDExNDA5
