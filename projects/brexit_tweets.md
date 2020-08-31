@@ -72,9 +72,9 @@ The chart shows that it is mainly MPs being talked about, but several other figu
 
 We can also see here that there are some figures who you would expect to see mentioned more, but who aren't - for example, the adviser to the Prime Minister, Dominic Cummings. Exploring this highlights some of the limitations of the methods used to find mentions of people in the tweet dataset. People who are mainly referred to by their last name only (such as Cummings) aren't extracted, for example, since their gender cannot be inferred without their first name. Whilst manually searching for people in the tweets would be possible, this would mean that the results would depend on who was searched for and who was not, and so would potentially skew the analysis.
 
-## Is there a relationship between the focus on men and ?
+## Is there a relationship between the focus on men and political stance?
 
-So far, we've seen how the set of #Brexit tweets is heavily male-focused, with most people who are tweeted about being men. But we might also ask, is this the same across political divides? Do tweets supporting Leave or Remain talk about different genders in the same proportion as each other, or is one side more male/female-focused than the other?
+So far, we've seen how the set of #Brexit tweets is heavily male-focused, with most people who are tweeted about being men. But we might also ask, is this the same across political divides? Do tweets supporting Leave or Remain talk about different genders in the same proportion as each other, or is one side more male/female-focused than the other? Equally, do tweets discussing one gender support Leave/Remain in the s
 
 In order to answer this we need a way of classifying tweets as pro-Leave or pro-Remain. Previous research has used various text-mining methods for determining political stance of tweets. In relation to Brexit, [one study](https://ieeexplore.ieee.org/document/7836698) has used a hashtag-based analysis to classify tweets as Leave/Remain, whilst [others](https://link.springer.com/article/10.1186/s40649-017-0042-6#Sec15) have used more sophisticated, but also more labour-intensive, machine learning methods based on a subset of tweets that have been pre-classified by humans manually.
 
@@ -134,11 +134,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjY1NDI1Nyw4Mjk0NTMyNzAsMTA1Nj
-kxNTU1MSwtMTMzMjI3Mzg0MywxOTUwNzE3NTUsMTMwMzM3NjAz
-OSwxNzcwMjg0OTY3LC04NTQ5ODc3NjIsLTEyMTEzNDk5ODEsLT
-EyNjI1NTQ5OSwxNDIyNTM5Nzg1LDExNDA5NzI0MzUsLTExNTc3
-MDU2NDYsLTg5MDMwNDM5MywxNTUzMzg3NDgsLTEzOTUwMDIzNj
-gsMTk5ODA5MDA3MCwxNjkzMjgwOTcsLTM0NTg5MTIxOSwtMTk4
-Mjk3ODc1MF19
+eyJoaXN0b3J5IjpbLTE0NjMxMjYxNDcsODI5NDUzMjcwLDEwNT
+Y5MTU1NTEsLTEzMzIyNzM4NDMsMTk1MDcxNzU1LDEzMDMzNzYw
+MzksMTc3MDI4NDk2NywtODU0OTg3NzYyLC0xMjExMzQ5OTgxLC
+0xMjYyNTU0OTksMTQyMjUzOTc4NSwxMTQwOTcyNDM1LC0xMTU3
+NzA1NjQ2LC04OTAzMDQzOTMsMTU1MzM4NzQ4LC0xMzk1MDAyMz
+Y4LDE5OTgwOTAwNzAsMTY5MzI4MDk3LC0zNDU4OTEyMTksLTE5
+ODI5Nzg3NTBdfQ==
 -->
