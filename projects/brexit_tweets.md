@@ -78,7 +78,7 @@ So far, we've seen how the set of #Brexit tweets is heavily male-focused, with m
 
 In order to answer this we need a way of classifying tweets as pro-Leave or pro-Remain. Previous research has used various text-mining methods for determining political stance of tweets. In relation to Brexit, [one study](https://ieeexplore.ieee.org/document/7836698) has used a hashtag-based analysis to classify tweets as Leave/Remain, whilst [others](https://link.springer.com/article/10.1186/s40649-017-0042-6#Sec15) have used more sophisticated, but also more labour-intensive, machine learning methods based on a subset of tweets that have been pre-classified by humans manually.
 
-In our research, we used an approach that is somewhere in between these two methods. Firstly, a subset of pre-tagged tweets was created using an adapted hashtag-based analysis. All the tweets were then converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) package. A K Nearest Neighbours (KNN) algorithm was then used to classify tweets as Leave or Remain based on their proximity to tweets in the pre-tagged subset.
+In our research, we used an approach that is somewhere in between these two methods. Firstly, a subset of pre-tagged tweets was created using an adapted hashtag-based analysis. All the tweets were then converted into a vector representation using a [word2vec](https://arxiv.org/abs/1301.3781) model in the [gensim](https://radimrehurek.com/gensim/models/word2vec.html) package. A K Nearest Neighbours (KNN) algorithm was then used to classify tweets as Leave or Remain based on their semantic proximity to tweets in the pre-tagged subset.
 
 After running the algorithm, the tweets were classified in the following proportions: 27.21% in favour of Remain, 21.99% in favour of Leave, and 50.81% not classified as either. This is broadly consistent with results found in other studies, which have seen higher support for Remain than Leave on Twitter (largely due to the younger profile of Twitter users compared to the general population).
 
@@ -117,7 +117,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
  </tr>
 </table>
 
-As can be seen, there is only a 1% difference between Leave and Remain tweets
+As can be seen, there is only a 1% difference between Leave and Remain tweets in terms of how much they discuss men/women, which is not statistically significant accordin
 
 The results are shown in the plot below.
 
@@ -171,11 +171,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzMxMDEzNSwtMTI4NTQ4NjU5LC0xNz
-E2OTI0ODc2LDE1MjE2ODQyMCwtMjA5Mjc2MDA5NCwxMTY2ODgy
-Njk5LDY2NDExODk4MSw3MDc5MzMwNzUsMTUzNjY5MDY2OSwxOT
-AxMjE2MjY0LDc1MTc1MDM2NiwtMTkxNDA0NTcxNyw4Mjk0NTMy
-NzAsMTA1NjkxNTU1MSwtMTMzMjI3Mzg0MywxOTUwNzE3NTUsMT
-MwMzM3NjAzOSwxNzcwMjg0OTY3LC04NTQ5ODc3NjIsLTEyMTEz
-NDk5ODFdfQ==
+eyJoaXN0b3J5IjpbODcyMzY0NjI0LC0xMjg1NDg2NTksLTE3MT
+Y5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4ODI2
+OTksNjY0MTE4OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MD
+EyMTYyNjQsNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3
+MCwxMDU2OTE1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1NSwxMz
+AzMzc2MDM5LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0
+OTk4MV19
 -->
