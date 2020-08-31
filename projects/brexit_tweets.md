@@ -119,7 +119,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 
 As can be seen, there is only a 1% difference between Leave and Remain tweets in terms of how much they discuss men/women, which is not statistically significant according to a Chi Square test at the p < 0.05 level. This would suggest that both sides, as well as tweets supporting neither Leave nor Remain, were heavily male-dominated and in broadly similar proportions.
 
-We can also look at this same data the other way round - that is, do tweets mentioning men/women differ in their support for Leave and Remain compared to tweets mentioning the other gender?
+We can also look at this same data the other way round - that is, do tweets mentioning men/women differ in their support for Leave and Remain compared to tweets mentioning the other gender? The proportions supporting each side, separated by gender, are visualised in the plot below.
 
 The results are shown in the plot below.
 
@@ -173,11 +173,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2MTU2MTg0LC0xMjg1NDg2NTksLTE3MT
-Y5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4ODI2
-OTksNjY0MTE4OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MD
-EyMTYyNjQsNzUxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3
-MCwxMDU2OTE1NTUxLC0xMzMyMjczODQzLDE5NTA3MTc1NSwxMz
-AzMzc2MDM5LDE3NzAyODQ5NjcsLTg1NDk4Nzc2MiwtMTIxMTM0
-OTk4MV19
+eyJoaXN0b3J5IjpbLTExNTIxNzY3MzMsLTEyODU0ODY1OSwtMT
+cxNjkyNDg3NiwxNTIxNjg0MjAsLTIwOTI3NjAwOTQsMTE2Njg4
+MjY5OSw2NjQxMTg5ODEsNzA3OTMzMDc1LDE1MzY2OTA2NjksMT
+kwMTIxNjI2NCw3NTE3NTAzNjYsLTE5MTQwNDU3MTcsODI5NDUz
+MjcwLDEwNTY5MTU1NTEsLTEzMzIyNzM4NDMsMTk1MDcxNzU1LD
+EzMDMzNzYwMzksMTc3MDI4NDk2NywtODU0OTg3NzYyLC0xMjEx
+MzQ5OTgxXX0=
 -->
