@@ -88,7 +88,7 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 <table>
 	<tr>
 		<td></td>
-		<td colspan = 3>Side tweet supports</td>
+		<td align = 'center' colspan = 3>Side tweet supports</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -101,8 +101,17 @@ We now looked at the tweets classified as Leave or Remain that also mentioned so
 	<tr>
 		<td>Tweets mentioning women</td>
 		<td>15.96%</td>
-		
-		
+		<td>16.94%</td>
+    <td>15.38%</td>
+    <td>15.88%</td>
+  </tr>
+  <tr>
+    <td>Tweets mentioning men</td>
+    <td>84.04%</td>
+    <td>83.06%</td>
+    <td>84.62%</td>
+    <td>84.12%</td>
+  </tr>
 </table>
 
 We found that both sides, as well as those tweets classified as neither side, were heavily male-dominated
@@ -159,11 +168,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTIxNjI2NCw3NTE3NTAzNjYsLTE5MT
-QwNDU3MTcsODI5NDUzMjcwLDEwNTY5MTU1NTEsLTEzMzIyNzM4
-NDMsMTk1MDcxNzU1LDEzMDMzNzYwMzksMTc3MDI4NDk2NywtOD
-U0OTg3NzYyLC0xMjExMzQ5OTgxLC0xMjYyNTU0OTksMTQyMjUz
-OTc4NSwxMTQwOTcyNDM1LC0xMTU3NzA1NjQ2LC04OTAzMDQzOT
-MsMTU1MzM4NzQ4LC0xMzk1MDAyMzY4LDE5OTgwOTAwNzAsMTY5
-MzI4MDk3XX0=
+eyJoaXN0b3J5IjpbMTUzNjY5MDY2OSwxOTAxMjE2MjY0LDc1MT
+c1MDM2NiwtMTkxNDA0NTcxNyw4Mjk0NTMyNzAsMTA1NjkxNTU1
+MSwtMTMzMjI3Mzg0MywxOTUwNzE3NTUsMTMwMzM3NjAzOSwxNz
+cwMjg0OTY3LC04NTQ5ODc3NjIsLTEyMTEzNDk5ODEsLTEyNjI1
+NTQ5OSwxNDIyNTM5Nzg1LDExNDA5NzI0MzUsLTExNTc3MDU2ND
+YsLTg5MDMwNDM5MywxNTUzMzg3NDgsLTEzOTUwMDIzNjgsMTk5
+ODA5MDA3MF19
 -->
