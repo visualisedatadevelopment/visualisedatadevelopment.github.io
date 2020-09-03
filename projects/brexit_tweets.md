@@ -172,18 +172,18 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 
 <div class = "iframe_container">
 	<div class = "desktop_only_box" style = "width: 100%; height: 100%;">
-	<div class = "desktop_only_message"> It looks like your on a tablet or mobile device and this interactive graphic can't display properly here. Please come back on a desktop.</div>
+	<div class = "desktop_only_message"> It looks like you're on a tablet or mobile device and this interactive graphic can't display properly here. Please come back on a desktop.</div>
 	</div>
 	<iframe width = "100%" height = 500 frameBorder = 0  src = "/assets/plotly_files/language_plot.html">			</iframe>
 	<iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQwNTIyMzQsLTMzMTQ4NDY2NCwtMT
-E4MjYxMTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLTE1MzM2MzU1
-MDksLTIxMDM0MjU2OTEsNjg4NDk4MTQ4LDg1NTg0MTMwNiwxMj
-kxNjYwMDI1LDUyOTA1MjgzOSwtMTI4NTQ4NjU5LC0xNzE2OTI0
-ODc2LDE1MjE2ODQyMCwtMjA5Mjc2MDA5NCwxMTY2ODgyNjk5LD
-Y2NDExODk4MSw3MDc5MzMwNzUsMTUzNjY5MDY2OSwxOTAxMjE2
-MjY0XX0=
+eyJoaXN0b3J5IjpbOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMz
+E0ODQ2NjQsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUz
+LC0xNTMzNjM1NTA5LC0yMTAzNDI1NjkxLDY4ODQ5ODE0OCw4NT
+U4NDEzMDYsMTI5MTY2MDAyNSw1MjkwNTI4MzksLTEyODU0ODY1
+OSwtMTcxNjkyNDg3NiwxNTIxNjg0MjAsLTIwOTI3NjAwOTQsMT
+E2Njg4MjY5OSw2NjQxMTg5ODEsNzA3OTMzMDc1LDE1MzY2OTA2
+NjldfQ==
 -->
