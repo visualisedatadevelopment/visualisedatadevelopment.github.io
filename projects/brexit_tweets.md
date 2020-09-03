@@ -85,7 +85,7 @@ After running the algorithm, the tweets were classified in the following proport
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the table below.
 
 
-<table width = 90%>
+<table width = "90%">
 	<tr style = "text-align: center; background-color: #F6F4F4">
 		<th></th>
 		<th style = "text-align: center;" colspan = 3>Side tweet supports</th>
@@ -174,11 +174,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe style = "display: none;" width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDY4NzgzNCwxMjkxNjYwMDI1LDUyOT
-A1MjgzOSwtMTI4NTQ4NjU5LC0xNzE2OTI0ODc2LDE1MjE2ODQy
-MCwtMjA5Mjc2MDA5NCwxMTY2ODgyNjk5LDY2NDExODk4MSw3MD
-c5MzMwNzUsMTUzNjY5MDY2OSwxOTAxMjE2MjY0LDc1MTc1MDM2
-NiwtMTkxNDA0NTcxNyw4Mjk0NTMyNzAsMTA1NjkxNTU1MSwtMT
-MzMjI3Mzg0MywxOTUwNzE3NTUsMTMwMzM3NjAzOSwxNzcwMjg0
-OTY3XX0=
+eyJoaXN0b3J5IjpbODU1ODQxMzA2LDEyOTE2NjAwMjUsNTI5MD
+UyODM5LC0xMjg1NDg2NTksLTE3MTY5MjQ4NzYsMTUyMTY4NDIw
+LC0yMDkyNzYwMDk0LDExNjY4ODI2OTksNjY0MTE4OTgxLDcwNz
+kzMzA3NSwxNTM2NjkwNjY5LDE5MDEyMTYyNjQsNzUxNzUwMzY2
+LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3MCwxMDU2OTE1NTUxLC0xMz
+MyMjczODQzLDE5NTA3MTc1NSwxMzAzMzc2MDM5LDE3NzAyODQ5
+NjddfQ==
 -->
