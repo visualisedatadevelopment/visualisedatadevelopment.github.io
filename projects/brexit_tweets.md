@@ -84,6 +84,37 @@ After running the algorithm, the tweets were classified in the following proport
 
 We now looked at the tweets classified as Leave or Remain that also mentioned somebody in order to see if they differed in the amount they spoke about men/women. The results are shown in the table below.
 
+<table>
+	<tr style = "text-align: center; background-color: #F6F4F4">
+		<th></th>
+		<th style = "text-align: center;" colspan = 3>Side tweet supports</th>
+		<th></th>
+	</tr>
+	<tr style = "background-color: #F6F4F4;">
+		<td></td>
+		<td>Leave</td>
+		<td>Remain</td>
+		<td>Neither</td>
+		<td>Total</td>
+	</tr>
+	<tr>
+		<td style = "background-color: #F6F4F4;">Tweet mentions women</td>
+		<td>15.96%</td>
+		<td>16.94%</td>
+    <td>15.38%</td>
+    <td>15.88%</td>
+  </tr>
+  <tr>
+    <td style = "background-color: #F6F4F4;">Tweet mentions men</td>
+    <td>84.04%</td>
+    <td>83.06%</td>
+    <td>84.62%</td>
+    <td>84.12%</td>
+  </tr>
+  <tr>
+	  <td> N = 9970</td>
+ </tr>
+</table>
 
 As can be seen, there is only a 1% difference between Leave and Remain tweets in terms of how much they discuss men/women, which is not statistically significant according to a Chi Square test at the p < 0.05 level. This would suggest that both sides, as well as tweets supporting neither Leave nor Remain, were heavily male-dominated and in broadly similar proportions.
 
@@ -142,11 +173,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 <iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM0MjU2OTEsNjg4NDk4MTQ4LDg1NT
-g0MTMwNiwxMjkxNjYwMDI1LDUyOTA1MjgzOSwtMTI4NTQ4NjU5
-LC0xNzE2OTI0ODc2LDE1MjE2ODQyMCwtMjA5Mjc2MDA5NCwxMT
-Y2ODgyNjk5LDY2NDExODk4MSw3MDc5MzMwNzUsMTUzNjY5MDY2
-OSwxOTAxMjE2MjY0LDc1MTc1MDM2NiwtMTkxNDA0NTcxNyw4Mj
-k0NTMyNzAsMTA1NjkxNTU1MSwtMTMzMjI3Mzg0MywxOTUwNzE3
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MzM2MzU1MDksLTIxMDM0MjU2OTEsNj
+g4NDk4MTQ4LDg1NTg0MTMwNiwxMjkxNjYwMDI1LDUyOTA1Mjgz
+OSwtMTI4NTQ4NjU5LC0xNzE2OTI0ODc2LDE1MjE2ODQyMCwtMj
+A5Mjc2MDA5NCwxMTY2ODgyNjk5LDY2NDExODk4MSw3MDc5MzMw
+NzUsMTUzNjY5MDY2OSwxOTAxMjE2MjY0LDc1MTc1MDM2NiwtMT
+kxNDA0NTcxNyw4Mjk0NTMyNzAsMTA1NjkxNTU1MSwtMTMzMjI3
+Mzg0M119
 -->
