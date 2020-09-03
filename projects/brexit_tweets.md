@@ -169,15 +169,19 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
 So who is driving these differences ? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former International Trade Secretary (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
-<iframe width = "100%" height = 500 frameBorder = 0  src = "/assets/plotly_files/language_plot.html"></iframe>
-<iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
+
+<div>
+	<div class = "desktop_only_message">Desktop only</div>
+	<iframe width = "100%" height = 500 frameBorder = 0  src = "/assets/plotly_files/language_plot.html">			</iframe>
+	<iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
+</div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM2MzU1MDksLTIxMDM0MjU2OTEsNj
-g4NDk4MTQ4LDg1NTg0MTMwNiwxMjkxNjYwMDI1LDUyOTA1Mjgz
-OSwtMTI4NTQ4NjU5LC0xNzE2OTI0ODc2LDE1MjE2ODQyMCwtMj
-A5Mjc2MDA5NCwxMTY2ODgyNjk5LDY2NDExODk4MSw3MDc5MzMw
-NzUsMTUzNjY5MDY2OSwxOTAxMjE2MjY0LDc1MTc1MDM2NiwtMT
-kxNDA0NTcxNyw4Mjk0NTMyNzAsMTA1NjkxNTU1MSwtMTMzMjI3
-Mzg0M119
+eyJoaXN0b3J5IjpbMTk2MzgzOTM1MywtMTUzMzYzNTUwOSwtMj
+EwMzQyNTY5MSw2ODg0OTgxNDgsODU1ODQxMzA2LDEyOTE2NjAw
+MjUsNTI5MDUyODM5LC0xMjg1NDg2NTksLTE3MTY5MjQ4NzYsMT
+UyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4ODI2OTksNjY0MTE4
+OTgxLDcwNzkzMzA3NSwxNTM2NjkwNjY5LDE5MDEyMTYyNjQsNz
+UxNzUwMzY2LC0xOTE0MDQ1NzE3LDgyOTQ1MzI3MCwxMDU2OTE1
+NTUxXX0=
 -->
