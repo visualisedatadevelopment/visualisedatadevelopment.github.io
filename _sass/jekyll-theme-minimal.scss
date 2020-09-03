@@ -287,6 +287,13 @@ footer {
     right:50px;
     top:52px;
   }
+  
+  th, td {
+    font: 10px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align:left;
+    padding:auto;
+    border-bottom:1px solid #e5e5e5;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -311,6 +318,13 @@ footer {
     width: 100%;
   }
   
+  th, td {
+    font: 10px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align:left;
+    padding:auto;
+    border-bottom:1px solid #e5e5e5;
+  }
+  
 }
 
 @media print, screen and (max-width: 480px) {
@@ -325,9 +339,17 @@ footer {
   .downloads li, .downloads li + li + li {
     width:33%;
   }
+  
   .front_display_item_container{
     display: inline-block;
     width: 100%;
+  }
+  
+  th, td {
+    font: 10px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align:left;
+    padding:auto;
+    border-bottom:1px solid #e5e5e5;
   }
 }
 
