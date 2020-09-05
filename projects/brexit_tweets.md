@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Gender and Brexit Discourse on Twitter
-25th August 2020		Laurence Rowley-Abel
+25th August 2020	
+Laurence Rowley-Abel
 
 <br>
 <img src = "/assets/images/brexit_tweets_page_photo.png" style = "width: 100%; display: block; margin-left: auto; margin-right: auto;">
@@ -179,11 +180,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMz
-E0ODQ2NjQsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUz
-LC0xNTMzNjM1NTA5LC0yMTAzNDI1NjkxLDY4ODQ5ODE0OCw4NT
-U4NDEzMDYsMTI5MTY2MDAyNSw1MjkwNTI4MzksLTEyODU0ODY1
-OSwtMTcxNjkyNDg3NiwxNTIxNjg0MjAsLTIwOTI3NjAwOTQsMT
-E2Njg4MjY5OSw2NjQxMTg5ODEsNzA3OTMzMDc1LDE1MzY2OTA2
-NjldfQ==
+eyJoaXN0b3J5IjpbLTk5MDU4MjYzMiw5MTM3OTU2MTQsLTEyMD
+QwNTIyMzQsLTMzMTQ4NDY2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4
+LDE5NjM4MzkzNTMsLTE1MzM2MzU1MDksLTIxMDM0MjU2OTEsNj
+g4NDk4MTQ4LDg1NTg0MTMwNiwxMjkxNjYwMDI1LDUyOTA1Mjgz
+OSwtMTI4NTQ4NjU5LC0xNzE2OTI0ODc2LDE1MjE2ODQyMCwtMj
+A5Mjc2MDA5NCwxMTY2ODgyNjk5LDY2NDExODk4MSw3MDc5MzMw
+NzVdfQ==
 -->
