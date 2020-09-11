@@ -169,7 +169,7 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
 
-So who is driving these differences ? Tweets mentioning men were over twice as likely to bring up the topic of trade than those mentioning women. If we look into these tweets, we see that a bunch of male politicians dominate the discourse on trade. Mentions of Boris Johnson are even more prevalent here than these tweets than they are in general, and commentary on a US-UK trade deal mean that Donald Trump is also particularly central to tweets about trade. Liam Fox, the former International Trade Secretary (under Theresa May) is also discussed often in these tweets, notably more so than Liz Truss, despite the fact that she currently holds that position.
+
 
 <div class = "iframe_container">
 	<div class = "desktop_only_box" style = "width: 100%; height: 100%;">
@@ -180,11 +180,11 @@ So who is driving these differences ? Tweets mentioning men were over twice as l
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDU4MjYzMiw5MTM3OTU2MTQsLTEyMD
-QwNTIyMzQsLTMzMTQ4NDY2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4
-LDE5NjM4MzkzNTMsLTE1MzM2MzU1MDksLTIxMDM0MjU2OTEsNj
-g4NDk4MTQ4LDg1NTg0MTMwNiwxMjkxNjYwMDI1LDUyOTA1Mjgz
-OSwtMTI4NTQ4NjU5LC0xNzE2OTI0ODc2LDE1MjE2ODQyMCwtMj
-A5Mjc2MDA5NCwxMTY2ODgyNjk5LDY2NDExODk4MSw3MDc5MzMw
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjAwNjQ1MzAsLTk5MDU4MjYzMiw5MT
+M3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4NDY2NCwtMTE4MjYx
+MTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLTE1MzM2MzU1MDksLT
+IxMDM0MjU2OTEsNjg4NDk4MTQ4LDg1NTg0MTMwNiwxMjkxNjYw
+MDI1LDUyOTA1MjgzOSwtMTI4NTQ4NjU5LC0xNzE2OTI0ODc2LD
+E1MjE2ODQyMCwtMjA5Mjc2MDA5NCwxMTY2ODgyNjk5LDY2NDEx
+ODk4MV19
 -->
