@@ -149,7 +149,7 @@ Interestingly, however, if we restrict the analysis to looking at just MPs, we s
 
 Here we see that there is considerably higher support for Remain in tweets that mention a female MP compared to tweets that mention a male MP. In fact, whilst there was greater support for Remain than Leave in the dataset overall, amongst tweets discussing male MPs, it is Leave that has most support. What this shows, then, is that Brexit discourse around male MPs is more pro-Leave than that around female MPs.
 
-Looking at these charts together then, we see that when we look at male-focused and female-focused Twitter discourse in general, there isn't evidence of a difference in Leave/Remain support between the two sets of tweets. However, when looking at just MPs, there seems to be an association between tweets displaying pro-Leave sentiment and mentioning male MPs, and vice versa between tweets displaying pro-Remain sentiment and mentioning female MPs. This may in part be due to Boris Johnson being Prime Minister and an ardent pro-Brexit figure, but at the same time it is notable that even after Theresa May had been in charge of getting Brexit completed for over three years, the pro-Leave discourse still had a greater tendency to discuss male political figures than pro-Remain discourse. These findings are interesting in light of other research that has studied how the Leave campaign in particular was been dominated by male politicians. However, . Of course this will in part be because of Boris Johnson having become Prime Minister by the time of the UK's actual departure, but it is nonetheless
+Looking at these charts together then, we see that when we look at male-focused and female-focused Twitter discourse in general, there isn't evidence of a difference in Leave/Remain support between the two sets of tweets. However, when looking at just MPs, there seems to be an association between tweets displaying pro-Leave sentiment and mentioning male MPs, and vice versa between tweets displaying pro-Remain sentiment and mentioning female MPs. This may in part be due to Boris Johnson being Prime Minister and an ardent pro-Brexit figure, but at the same time it is notable that even after Theresa May had been in charge of getting Brexit completed for over three years, the pro-Leave discourse still had a greater tendency to discuss male politicians than pro-Remain discourse. 
  
 ## What do people tweet about when discussing men and women and Brexit?
 
@@ -182,11 +182,11 @@ The chart shows some interesting differences, with tweets talking about men bein
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODYzMjI4NywtMTAwNTc3NjM3NiwtMj
-AyMDA2NDUzMCwtOTkwNTgyNjMyLDkxMzc5NTYxNCwtMTIwNDA1
-MjIzNCwtMzMxNDg0NjY0LC0xMTgyNjExNDUxLDIyMzMzMTgsMT
-k2MzgzOTM1MywtMTUzMzYzNTUwOSwtMjEwMzQyNTY5MSw2ODg0
-OTgxNDgsODU1ODQxMzA2LDEyOTE2NjAwMjUsNTI5MDUyODM5LC
-0xMjg1NDg2NTksLTE3MTY5MjQ4NzYsMTUyMTY4NDIwLC0yMDky
-NzYwMDk0XX0=
+eyJoaXN0b3J5IjpbLTIwNDA4MDQ0ODEsMTE5ODYzMjI4NywtMT
+AwNTc3NjM3NiwtMjAyMDA2NDUzMCwtOTkwNTgyNjMyLDkxMzc5
+NTYxNCwtMTIwNDA1MjIzNCwtMzMxNDg0NjY0LC0xMTgyNjExND
+UxLDIyMzMzMTgsMTk2MzgzOTM1MywtMTUzMzYzNTUwOSwtMjEw
+MzQyNTY5MSw2ODg0OTgxNDgsODU1ODQxMzA2LDEyOTE2NjAwMj
+UsNTI5MDUyODM5LC0xMjg1NDg2NTksLTE3MTY5MjQ4NzYsMTUy
+MTY4NDIwXX0=
 -->
