@@ -173,7 +173,7 @@ The chart shows some interesting differences, with tweets talking about men bein
 
 So what is driving these differences? To some extent, this is an extension of what we saw above in terms of differences in how much pro-Leave/Remain tweets discuss different genders. This is because the the topics that were more likely to be brought up when discussing men are also generally those that were more likely to be brought up in pro-Leave tweets: tweets discussing trade were 60% pro-Leave, 40% pro-Remain, and tweets discussing sovereignty/independence were 65% pro-Leave 35% pro-Remain. Likewise, topics that were discussed more in relation to women were also more likely to mentioned by pro-Remain tweets: tweets discussing immigration were 40% pro-Leave, 60% pro-Remain and tweets discussing democracy were 41% pro-Leave, 59% pro-Remain. This suggests that the association between a tweet discussing women and being pro-Remain (and vice versa) is also affecting the content of what is being tweeted about in relation to each gender.
 
-The exception here is "No Deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a different mechanism a tendency which has been highlighted in <href src = https://www.ubcpress.ca/gendered-news>previous research</href> for male politicians to be covered in the media in relation to "hard" policy areas such as foreign policy, crime and the economy, whilst female politicians are more associated with the "softer" more abstract areas of politics related to "social affairs". Negotiations over our trade deals an
+The exception here is "No Deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a different mechanism a tendency which has been highlighted in <href src = https://www.ubcpress.ca/gendered-news>previous research</href> for male politicians to be covered in the media in relation to "hard" policy areas such as foreign policy, crime and the economy, whilst female politicians are more associated with the "softer" more abstract areas of politics related to "social affairs". Debates over the UK's trading position in the event of no deal being agreed, as well as the potential impact this might have the Irish border, could be seen as an example of a "hard" policy issue. 
 
 
 
@@ -186,11 +186,11 @@ The exception here is "No Deal/the Backstop", which was a topic more discussed w
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMTM5OTc4LC0xNzk5MTQzODgwLDQyND
-U4Njc0LC0xNTAxOTY5MDQsLTc1NjkyMjU4NiwtMjE0NjE3NTYx
-NCwxMTk4NjMyMjg3LC0xMDA1Nzc2Mzc2LC0yMDIwMDY0NTMwLC
-05OTA1ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMzE0
-ODQ2NjQsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUzLC
-0xNTMzNjM1NTA5LC0yMTAzNDI1NjkxLDY4ODQ5ODE0OCw4NTU4
-NDEzMDZdfQ==
+eyJoaXN0b3J5IjpbLTQwODQ0NDcxMCwtMTc5OTE0Mzg4MCw0Mj
+Q1ODY3NCwtMTUwMTk2OTA0LC03NTY5MjI1ODYsLTIxNDYxNzU2
+MTQsMTE5ODYzMjI4NywtMTAwNTc3NjM3NiwtMjAyMDA2NDUzMC
+wtOTkwNTgyNjMyLDkxMzc5NTYxNCwtMTIwNDA1MjIzNCwtMzMx
+NDg0NjY0LC0xMTgyNjExNDUxLDIyMzMzMTgsMTk2MzgzOTM1My
+wtMTUzMzYzNTUwOSwtMjEwMzQyNTY5MSw2ODg0OTgxNDgsODU1
+ODQxMzA2XX0=
 -->
