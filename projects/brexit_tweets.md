@@ -149,7 +149,7 @@ Interestingly, however, if we restrict the analysis to looking at just MPs, we s
 
 Here we see that there is considerably higher support for Remain in tweets that mention a female MP compared to tweets that mention a male MP. In fact, whilst there was greater support for Remain than Leave in the dataset overall, amongst tweets discussing male MPs, it is Leave that has most support. What this shows, then, is that Brexit discourse around male MPs is more pro-Leave than that around female MPs.
 
-Looking at these charts together then, we see that when we look at male-focused and female-focused Twitter discourse in general, there isn't evidence of a difference in Leave/Remain support between the two sets of tweets. However, when looking at just MPs, there seems to be an association between tweets displaying pro-Leave sentiment and mentioning male MPs, and vice versa between tweets displaying pro-Remain sentiment and mentioning female MPs. These findings are interesting in light of other research that has studied how the Leave campaign in particular was headed
+Looking at these charts together then, we see that when we look at male-focused and female-focused Twitter discourse in general, there isn't evidence of a difference in Leave/Remain support between the two sets of tweets. However, when looking at just MPs, there seems to be an association between tweets displaying pro-Leave sentiment and mentioning male MPs, and vice versa between tweets displaying pro-Remain sentiment and mentioning female MPs. These findings are interesting in light of other research that has studied how the Leave side in particular has been dominated by male politicians
  
 ## What do people tweet about when discussing men and women and Brexit?
 
@@ -182,11 +182,11 @@ The chart shows some interesting differences, with tweets talking about men bein
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjIxNjE1NywtMjAyMDA2NDUzMCwtOT
-kwNTgyNjMyLDkxMzc5NTYxNCwtMTIwNDA1MjIzNCwtMzMxNDg0
-NjY0LC0xMTgyNjExNDUxLDIyMzMzMTgsMTk2MzgzOTM1MywtMT
-UzMzYzNTUwOSwtMjEwMzQyNTY5MSw2ODg0OTgxNDgsODU1ODQx
-MzA2LDEyOTE2NjAwMjUsNTI5MDUyODM5LC0xMjg1NDg2NTksLT
-E3MTY5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4
-ODI2OTldfQ==
+eyJoaXN0b3J5IjpbLTEyOTI5NzczMjgsLTIwMjAwNjQ1MzAsLT
+k5MDU4MjYzMiw5MTM3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4
+NDY2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLT
+E1MzM2MzU1MDksLTIxMDM0MjU2OTEsNjg4NDk4MTQ4LDg1NTg0
+MTMwNiwxMjkxNjYwMDI1LDUyOTA1MjgzOSwtMTI4NTQ4NjU5LC
+0xNzE2OTI0ODc2LDE1MjE2ODQyMCwtMjA5Mjc2MDA5NCwxMTY2
+ODgyNjk5XX0=
 -->
