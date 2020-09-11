@@ -171,7 +171,7 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - the research would benefit here from a larger sample size.
 
-So what is driving these differences? To some extent, this is an extension of what we saw about in terms of differences in how much pro-Leave/Remain tweets discuss different genders. This is because the the topics that are more likely to be brought up when discussing men are generally also those that are more likely to be brought up in pro-Leave tweets. Tweets discussing trade were 60% pro-Leave, 40% pro-Remain, and for tweets discussing sovereignty/independence, On the other hand
+So what is driving these differences? To some extent, this is an extension of what we saw about in terms of differences in how much pro-Leave/Remain tweets discuss different genders. This is because the the topics that were more likely to be brought up when discussing men are also generally those that were more likely to be brought up in pro-Leave tweets: tweets discussing trade were 60% pro-Leave, 40% pro-Remain, and tweets discussing sovereignty/independence were 65% pro-Leave 35% pro-Remain. Likewise, topics that were
 
 
 
@@ -184,7 +184,7 @@ So what is driving these differences? To some extent, this is an extension of wh
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2OTk2NDY4LC03NTY5MjI1ODYsLTIxND
+eyJoaXN0b3J5IjpbOTM1OTYzNTgwLC03NTY5MjI1ODYsLTIxND
 YxNzU2MTQsMTE5ODYzMjI4NywtMTAwNTc3NjM3NiwtMjAyMDA2
 NDUzMCwtOTkwNTgyNjMyLDkxMzc5NTYxNCwtMTIwNDA1MjIzNC
 wtMzMxNDg0NjY0LC0xMTgyNjExNDUxLDIyMzMzMTgsMTk2Mzgz
