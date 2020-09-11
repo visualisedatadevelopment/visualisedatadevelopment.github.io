@@ -149,13 +149,11 @@ Interestingly, however, if we restrict the analysis to looking at just MPs, we s
 
 Here we see that there is considerably higher support for Remain in tweets that mention a female MP compared to tweets that mention a male MP. In fact, whilst there was greater support for Remain than Leave in the dataset overall, amongst tweets discussing male MPs, it is Leave that has most support. What this shows, then, is that Brexit discourse around male MPs is more pro-Leave than that around female MPs.
 
-Looking at these charts together then, we see that when we look at male-focused and female-focused Twitter discourse in general, there isn't evidence of a difference in Leave/Remain support between the two sets of tweets. However, when looking at just MPs, there seems to be an association between tweets displaying pro-Leave sentiment and mentioning male MPs, and vice versa between tweets displaying pro-Remain sentiment and mentioning female MPs. This may in part be due to the Prime Minister being male and an ardent pro-Brexit figure, but at the same time it is notable that even after Theresa May had been in charge of getting Brexit completed for over three years, the pro-Leave discourse still had a greater tendency to discuss male politicians than pro-Remain discourse. Equally, it is interesting that this association was present in tweets discussing MPs, but not in discussions of people in general - this may suggest that it is 
-
-These findings are notable in light of other research that has looked at how the Leave campaign before the referendum was particularly male-dominated, and they suggest that this may be reflected in how people have discussed Brexit subsequently. A question for further research would be whether this association between discussing male politicians and expressing pro-Leave sentiment was also present during the period when Theresa May was Prime Minister.
+Looking at these charts together then, we see that when we look at male-focused and female-focused Twitter discourse in general, there isn't evidence of a difference in Leave/Remain support between the two sets of tweets. However, when looking at just MPs, there seems to be an association between tweets displaying pro-Leave sentiment and mentioning male MPs, and vice versa between tweets displaying pro-Remain sentiment and mentioning female MPs. This may in part be due to the Prime Minister being male and an ardent pro-Brexit figure, but at the same time it is notable that even after Theresa May had been in charge of getting Brexit completed for over three years, the pro-Leave discourse still had a greater tendency to discuss male politicians than pro-Remain discourse. These findings are notable in light of other research that has looked at how the Leave campaign before the referendum was particularly male-dominated, and they suggest that this may be reflected in how people have discussed Brexit subsequently. A question for further research would be whether this association between discussing male politicians and expressing pro-Leave sentiment was also present during the period when Theresa May was Prime Minister. Equally, we could look also further at why this association was present in tweets discussing MPs, but not in discussions of people in general.
  
 ## What do people tweet about when discussing men and women and Brexit?
 
-So far we have seen how discussion of men is far more prevalent in Brexit tweets than discussion of women. However, we might also ask whether the nature of discourse changes when talking about male and female figures  - are the same topics discussed, and is the language used the same?
+As well as s we might also ask whether the nature of discourse changes when talking about male and female figures  - are the same topics discussed, and is the language used the same?
 
 To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. We then used these key words to find tweets that discussed each topic. This allowed us to see how commonly a topic was discussed, and in particular, to compare how likely they were to be brought up in a tweet that also discusses a man or a woman. The plot below compares tweets mentioning men to tweets mentioning women in terms of how likely they were to talk about a certain topic.
 
@@ -184,11 +182,11 @@ The chart shows some interesting differences, with tweets talking about men bein
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNzg4OTcwLC0yMTQ2MTc1NjE0LDExOT
-g2MzIyODcsLTEwMDU3NzYzNzYsLTIwMjAwNjQ1MzAsLTk5MDU4
-MjYzMiw5MTM3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4NDY2NC
-wtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLTE1MzM2
-MzU1MDksLTIxMDM0MjU2OTEsNjg4NDk4MTQ4LDg1NTg0MTMwNi
-wxMjkxNjYwMDI1LDUyOTA1MjgzOSwtMTI4NTQ4NjU5LC0xNzE2
-OTI0ODc2XX0=
+eyJoaXN0b3J5IjpbMTkwNTk3MzczNiwtMjE0NjE3NTYxNCwxMT
+k4NjMyMjg3LC0xMDA1Nzc2Mzc2LC0yMDIwMDY0NTMwLC05OTA1
+ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMzE0ODQ2Nj
+QsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUzLC0xNTMz
+NjM1NTA5LC0yMTAzNDI1NjkxLDY4ODQ5ODE0OCw4NTU4NDEzMD
+YsMTI5MTY2MDAyNSw1MjkwNTI4MzksLTEyODU0ODY1OSwtMTcx
+NjkyNDg3Nl19
 -->
