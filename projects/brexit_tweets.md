@@ -173,7 +173,7 @@ The chart shows some interesting differences, with tweets talking about men bein
 
 So what is driving these differences? To some extent, this is an extension of what we saw above in terms of differences in how much pro-Leave/Remain tweets discuss different genders. This is because the the topics that were more likely to be brought up when discussing men are also generally those that were more likely to be brought up in pro-Leave tweets: tweets discussing trade were 60% pro-Leave, 40% pro-Remain, and tweets discussing sovereignty/independence were 65% pro-Leave 35% pro-Remain. Likewise, topics that were discussed more in relation to women were also more likely to mentioned by pro-Remain tweets: tweets discussing immigration were 40% pro-Leave, 60% pro-Remain and tweets discussing democracy were 41% pro-Leave, 59% pro-Remain. This suggests that the association between a tweet discussing women and being pro-Remain (and vice versa) is also affecting the content of what is being tweeted about in relation to each gender.
 
-The exception here is "No deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a different mechanism a tendency which has been highlighted in <href src = https://journals.sagepub.com/doi/full/10.1177/1065912914525861>previous research</href> for male politicians to be associated with "hard" policy areas such as foreign policy, crime and the economy, whilst female politicians are more associated with "softer" areas related to social affairs and 
+The exception here is "No deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a different mechanism a tendency which has been highlighted in <href src = https://journals.sagepub.com/doi/full/10.1177/1065912914525861>previous research</href> for male politicians to be associated with "hard" policy areas such as foreign policy, crime and the economy, whilst female politicians are more associated with the "softer" more abstract areas of politics related to "social affairs".
 
 
 
@@ -186,11 +186,11 @@ The exception here is "No deal/the Backstop", which was a topic more discussed w
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzk3ODEsNDI0NTg2NzQsLTE1MDE5Nj
-kwNCwtNzU2OTIyNTg2LC0yMTQ2MTc1NjE0LDExOTg2MzIyODcs
-LTEwMDU3NzYzNzYsLTIwMjAwNjQ1MzAsLTk5MDU4MjYzMiw5MT
-M3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4NDY2NCwtMTE4MjYx
-MTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLTE1MzM2MzU1MDksLT
-IxMDM0MjU2OTEsNjg4NDk4MTQ4LDg1NTg0MTMwNiwxMjkxNjYw
-MDI1XX0=
+eyJoaXN0b3J5IjpbLTE3OTkxNDM4ODAsNDI0NTg2NzQsLTE1MD
+E5NjkwNCwtNzU2OTIyNTg2LC0yMTQ2MTc1NjE0LDExOTg2MzIy
+ODcsLTEwMDU3NzYzNzYsLTIwMjAwNjQ1MzAsLTk5MDU4MjYzMi
+w5MTM3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4NDY2NCwtMTE4
+MjYxMTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLTE1MzM2MzU1MD
+ksLTIxMDM0MjU2OTEsNjg4NDk4MTQ4LDg1NTg0MTMwNiwxMjkx
+NjYwMDI1XX0=
 -->
