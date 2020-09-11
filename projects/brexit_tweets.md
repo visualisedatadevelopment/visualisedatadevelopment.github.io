@@ -171,7 +171,7 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - the research would benefit here from a larger sample size.
 
-So what is driving these differences? To some extent, this is an extension of what we saw about in terms of differences in how much pro-Leave/Remain tweets discuss different genders. This is because the the topics that were more likely to be brought up when discussing men are also generally those that were more likely to be brought up in pro-Leave tweets: tweets discussing trade were 60% pro-Leave, 40% pro-Remain, and tweets discussing sovereignty/independence were 65% pro-Leave 35% pro-Remain. Likewise, topics that were discussed more in relation to women were also more likely to mentioned by pro-Remain tweets: tweets discussing immigration were 40% pro-Leave, 60% pro-Remain and tweets discussing democracy were 41% pro-Leave, 59% pro-Remain. This suggests that the association between a tweet discussing women and being pro-Remain (and vice versa) is also affecting the content of what is being tweeted about.
+So what is driving these differences? To some extent, this is an extension of what we saw about in terms of differences in how much pro-Leave/Remain tweets discuss different genders. This is because the the topics that were more likely to be brought up when discussing men are also generally those that were more likely to be brought up in pro-Leave tweets: tweets discussing trade were 60% pro-Leave, 40% pro-Remain, and tweets discussing sovereignty/independence were 65% pro-Leave 35% pro-Remain. Likewise, topics that were discussed more in relation to women were also more likely to mentioned by pro-Remain tweets: tweets discussing immigration were 40% pro-Leave, 60% pro-Remain and tweets discussing democracy were 41% pro-Leave, 59% pro-Remain. This suggests that the association between a tweet discussing women and being pro-Remain (and vice versa) is also affecting the content of what is being tweeted about in relation to each gender.
 
 
 
@@ -184,7 +184,7 @@ So what is driving these differences? To some extent, this is an extension of wh
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTAzODk1MCwtNzU2OTIyNTg2LC0yMT
+eyJoaXN0b3J5IjpbMTM2MDEyNjI4MiwtNzU2OTIyNTg2LC0yMT
 Q2MTc1NjE0LDExOTg2MzIyODcsLTEwMDU3NzYzNzYsLTIwMjAw
 NjQ1MzAsLTk5MDU4MjYzMiw5MTM3OTU2MTQsLTEyMDQwNTIyMz
 QsLTMzMTQ4NDY2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5NjM4
