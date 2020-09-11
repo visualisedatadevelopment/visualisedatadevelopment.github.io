@@ -148,6 +148,8 @@ Interestingly, however, if we restrict the analysis to looking at just MPs, we s
 </picture>
 
 Here we see that there is considerably higher support for Remain in tweets that mention a female MP compared to tweets that mention a male MP. In fact, whilst there was greater support for Remain than Leave in the dataset overall, amongst tweets discussing male MPs, it is Leave that has most support. What this shows, then, is that Brexit discourse around male MPs is more pro-Leave than that around female MPs.
+
+Looking at these charts together then, we see that there isn't evidence of a difference in 
  
 ## What do people tweet about when discussing men and women and Brexit?
 
@@ -180,11 +182,11 @@ The chart shows some interesting differences, with tweets talking about men bein
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcyMjE4MDgsLTIwMjAwNjQ1MzAsLT
-k5MDU4MjYzMiw5MTM3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4
-NDY2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLT
-E1MzM2MzU1MDksLTIxMDM0MjU2OTEsNjg4NDk4MTQ4LDg1NTg0
-MTMwNiwxMjkxNjYwMDI1LDUyOTA1MjgzOSwtMTI4NTQ4NjU5LC
-0xNzE2OTI0ODc2LDE1MjE2ODQyMCwtMjA5Mjc2MDA5NCwxMTY2
-ODgyNjk5XX0=
+eyJoaXN0b3J5IjpbNjgzODYwNjAzLC0yMDIwMDY0NTMwLC05OT
+A1ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMzE0ODQ2
+NjQsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUzLC0xNT
+MzNjM1NTA5LC0yMTAzNDI1NjkxLDY4ODQ5ODE0OCw4NTU4NDEz
+MDYsMTI5MTY2MDAyNSw1MjkwNTI4MzksLTEyODU0ODY1OSwtMT
+cxNjkyNDg3NiwxNTIxNjg0MjAsLTIwOTI3NjAwOTQsMTE2Njg4
+MjY5OV19
 -->
