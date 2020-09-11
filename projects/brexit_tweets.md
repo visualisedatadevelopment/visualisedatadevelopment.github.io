@@ -173,7 +173,7 @@ The chart shows some interesting differences, with tweets talking about men bein
 
 So what is driving these differences? To some extent, this is an extension of what we saw above in terms of differences in how much pro-Leave/Remain tweets discuss different genders. This is because the the topics that were more likely to be brought up when discussing men are also generally those that were more likely to be brought up in pro-Leave tweets: tweets discussing trade were 60% pro-Leave, 40% pro-Remain, and tweets discussing sovereignty/independence were 65% pro-Leave 35% pro-Remain. Likewise, topics that were discussed more in relation to women were also more likely to mentioned by pro-Remain tweets: tweets discussing immigration were 40% pro-Leave, 60% pro-Remain and tweets discussing democracy were 41% pro-Leave, 59% pro-Remain. This suggests that the association between a tweet discussing women and being pro-Remain (and vice versa) is also affecting the content of what is being tweeted about in relation to each gender.
 
-The exception here is "No deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a different mechanism a tendency which has been highlighted in <href src = previous research 
+The exception here is "No deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a different mechanism a tendency which has been highlighted in <href src = https://journals.sagepub.com/doi/full/10.1177/1065912914525861>previous research</href> for men politicians to be associated with "hard" policy areas such as foreign policy, crime and the economy, whil
 
 
 
@@ -186,7 +186,7 @@ The exception here is "No deal/the Backstop", which was a topic more discussed w
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDczMTA4Miw0MjQ1ODY3NCwtMTUwMT
+eyJoaXN0b3J5IjpbLTgwNzg0MDIwMCw0MjQ1ODY3NCwtMTUwMT
 k2OTA0LC03NTY5MjI1ODYsLTIxNDYxNzU2MTQsMTE5ODYzMjI4
 NywtMTAwNTc3NjM3NiwtMjAyMDA2NDUzMCwtOTkwNTgyNjMyLD
 kxMzc5NTYxNCwtMTIwNDA1MjIzNCwtMzMxNDg0NjY0LC0xMTgy
