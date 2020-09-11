@@ -149,7 +149,7 @@ Interestingly, however, if we restrict the analysis to looking at just MPs, we s
 
 Here we see that there is considerably higher support for Remain in tweets that mention a female MP compared to tweets that mention a male MP. In fact, whilst there was greater support for Remain than Leave in the dataset overall, amongst tweets discussing male MPs, it is Leave that has most support. What this shows, then, is that Brexit discourse around male MPs is more pro-Leave than that around female MPs.
 
-Looking at these charts together then, we see that when we look at male-focused and female-focused Twitter discourse in general, there isn't evidence of a difference in Leave/Remain support between the two sets of tweets. However, when looking at just MPs, there seems to be an association between tweets displaying pro-Leave sentiment and mentioning male MPs, and vice versa between tweets displaying pro-Remain sentiment and mentioning female MPs. These findings are interesting in light of other research
+Looking at these charts together then, we see that when we look at male-focused and female-focused Twitter discourse in general, there isn't evidence of a difference in Leave/Remain support between the two sets of tweets. However, when looking at just MPs, there seems to be an association between tweets displaying pro-Leave sentiment and mentioning male MPs, and vice versa between tweets displaying pro-Remain sentiment and mentioning female MPs. These findings 
  
 ## What do people tweet about when discussing men and women and Brexit?
 
@@ -182,11 +182,11 @@ The chart shows some interesting differences, with tweets talking about men bein
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDMzNjM1NiwtMjAyMDA2NDUzMCwtOT
-kwNTgyNjMyLDkxMzc5NTYxNCwtMTIwNDA1MjIzNCwtMzMxNDg0
-NjY0LC0xMTgyNjExNDUxLDIyMzMzMTgsMTk2MzgzOTM1MywtMT
-UzMzYzNTUwOSwtMjEwMzQyNTY5MSw2ODg0OTgxNDgsODU1ODQx
-MzA2LDEyOTE2NjAwMjUsNTI5MDUyODM5LC0xMjg1NDg2NTksLT
-E3MTY5MjQ4NzYsMTUyMTY4NDIwLC0yMDkyNzYwMDk0LDExNjY4
-ODI2OTldfQ==
+eyJoaXN0b3J5IjpbNjU0MzAxMTUzLC0yMDIwMDY0NTMwLC05OT
+A1ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMzE0ODQ2
+NjQsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUzLC0xNT
+MzNjM1NTA5LC0yMTAzNDI1NjkxLDY4ODQ5ODE0OCw4NTU4NDEz
+MDYsMTI5MTY2MDAyNSw1MjkwNTI4MzksLTEyODU0ODY1OSwtMT
+cxNjkyNDg3NiwxNTIxNjg0MjAsLTIwOTI3NjAwOTQsMTE2Njg4
+MjY5OV19
 -->
