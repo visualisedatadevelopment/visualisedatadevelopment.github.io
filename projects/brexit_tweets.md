@@ -171,7 +171,7 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 
 The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - the research would benefit here from a larger sample size.
 
-So what is driving these differences?
+So what is driving these differences? To some extent, this is an extension of what we saw about in terms of differences in how much pro-Leave/Remain tweets discuss different genders. Th
 
 
 
@@ -184,11 +184,11 @@ So what is driving these differences?
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjkyMjU4NiwtMjE0NjE3NTYxNCwxMT
-k4NjMyMjg3LC0xMDA1Nzc2Mzc2LC0yMDIwMDY0NTMwLC05OTA1
-ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMzE0ODQ2Nj
-QsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUzLC0xNTMz
-NjM1NTA5LC0yMTAzNDI1NjkxLDY4ODQ5ODE0OCw4NTU4NDEzMD
-YsMTI5MTY2MDAyNSw1MjkwNTI4MzksLTEyODU0ODY1OSwtMTcx
-NjkyNDg3Nl19
+eyJoaXN0b3J5IjpbMTQ2MDc2MzUyLC03NTY5MjI1ODYsLTIxND
+YxNzU2MTQsMTE5ODYzMjI4NywtMTAwNTc3NjM3NiwtMjAyMDA2
+NDUzMCwtOTkwNTgyNjMyLDkxMzc5NTYxNCwtMTIwNDA1MjIzNC
+wtMzMxNDg0NjY0LC0xMTgyNjExNDUxLDIyMzMzMTgsMTk2Mzgz
+OTM1MywtMTUzMzYzNTUwOSwtMjEwMzQyNTY5MSw2ODg0OTgxND
+gsODU1ODQxMzA2LDEyOTE2NjAwMjUsNTI5MDUyODM5LC0xMjg1
+NDg2NTldfQ==
 -->
