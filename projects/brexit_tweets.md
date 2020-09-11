@@ -153,7 +153,7 @@ Looking at these charts together then, we see that when we look at male-focused 
  
 ## What do people tweet about when discussing men and women and Brexit?
 
-As well as s we might also ask whether the nature of discourse changes when talking about male and female figures  - are the same topics discussed, and is the language used the same?
+As well as looking at differences in political stance, we might also ask whether the nature of discourse changes when talking about male and female figures  - are the same topics discussed, and is the language used the same?
 
 To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. We then used these key words to find tweets that discussed each topic. This allowed us to see how commonly a topic was discussed, and in particular, to compare how likely they were to be brought up in a tweet that also discusses a man or a woman. The plot below compares tweets mentioning men to tweets mentioning women in terms of how likely they were to talk about a certain topic.
 
@@ -169,7 +169,9 @@ To analyse this we took a set of common topics relating to Brexit (trade, immigr
 </picture>
  
 
-The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - again, the research would benefit here from a larger sample size.
+The chart shows some interesting differences, with tweets talking about men being more likely than tweets that mentioned women to discuss trade, no-deal and the backstop, and sovereignty and independence. On the other hand, tweets discussing women had a greater odds of talking about immigration and democracy than tweets discussing men did. Other topics did not show significant differences in terms of their likelihood of being discussed in relation to men and women. It is worth noting that once tweets have been broken down by both topic and gender the numbers involved are relatively small and so the some of confidence intervals are comparatively large - the research would benefit here from a larger sample size.
+
+So what is driving these difference
 
 
 
@@ -182,7 +184,7 @@ The chart shows some interesting differences, with tweets talking about men bein
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTk3MzczNiwtMjE0NjE3NTYxNCwxMT
+eyJoaXN0b3J5IjpbLTU0NDkzNDI3OCwtMjE0NjE3NTYxNCwxMT
 k4NjMyMjg3LC0xMDA1Nzc2Mzc2LC0yMDIwMDY0NTMwLC05OTA1
 ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMzE0ODQ2Nj
 QsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUzLC0xNTMz
