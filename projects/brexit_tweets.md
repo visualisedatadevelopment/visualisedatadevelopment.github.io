@@ -154,7 +154,7 @@ Looking at these charts together then, we see that when we look at male-focused 
  
 ## What do people tweet about when discussing men and women and Brexit?
 
-As well as looking at differences in political stance, we might also ask whether the nature of discourse changes when talking about male and female figures  - are the same topics discussed, and is the language used the same?
+As well as looking at differences in political stance, we might also ask whether the content of discourse changes when talking about male and female figures  - what are people tweeting about when they discuss women and men, anare the same topics discussed, and is the language used the same?
 
 To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. We then used these key words to find tweets that discussed each topic. This allowed us to see how commonly a topic was discussed, and in particular, to compare how likely they were to be brought up in a tweet that also discusses a man or a woman. The plot below compares tweets mentioning men to tweets mentioning women in terms of how likely they were to talk about a certain topic.
 
@@ -178,20 +178,13 @@ The exception here is "No Deal/the Backstop", which was a topic more discussed w
 
 However, on the whole, the pattern seems to be that tweets mentioning women focused on topics that were favoured by the pro-Remain side, whilst tweets mentioning men were centred around issues talked about by the pro-Leave side. This reinforces the idea that there is a gendered divide in discussions around Brexit, with Leave discourse being more male-focused than Remain discourse.
 
-<div class = "iframe_container">
-	<div class = "desktop_only_box" style = "width: 100%; height: 100%;">
-	<div class = "desktop_only_message"> It looks like you're on a tablet or mobile device and this interactive graphic can't display properly here. Please come back on a desktop.</div>
-	</div>
-	<iframe width = "100%" height = 500 frameBorder = 0  src = "/assets/plotly_files/language_plot.html">			</iframe>
-	<iframe width = "100%" height = 200 frameBorder = 0  src = "/assets/plotly_files/language_plot_legend.html"></iframe>
-</div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNzY0NDYsLTkyMjg0NjMwNSwtMjAzOT
-cwNzUwOSwtMTg4NzY1MzA0LDE0NzUwODgxNTQsLTE3OTkxNDM4
-ODAsNDI0NTg2NzQsLTE1MDE5NjkwNCwtNzU2OTIyNTg2LC0yMT
-Q2MTc1NjE0LDExOTg2MzIyODcsLTEwMDU3NzYzNzYsLTIwMjAw
-NjQ1MzAsLTk5MDU4MjYzMiw5MTM3OTU2MTQsLTEyMDQwNTIyMz
-QsLTMzMTQ4NDY2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5NjM4
-MzkzNTNdfQ==
+eyJoaXN0b3J5IjpbLTExMjMwNzUzMTUsLTkyMjg0NjMwNSwtMj
+AzOTcwNzUwOSwtMTg4NzY1MzA0LDE0NzUwODgxNTQsLTE3OTkx
+NDM4ODAsNDI0NTg2NzQsLTE1MDE5NjkwNCwtNzU2OTIyNTg2LC
+0yMTQ2MTc1NjE0LDExOTg2MzIyODcsLTEwMDU3NzYzNzYsLTIw
+MjAwNjQ1MzAsLTk5MDU4MjYzMiw5MTM3OTU2MTQsLTEyMDQwNT
+IyMzQsLTMzMTQ4NDY2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5
+NjM4MzkzNTNdfQ==
 -->
