@@ -3,9 +3,7 @@ layout: default
 ---
 
 # Gender and Brexit Discourse on Twitter
-25th August 2020	
-
-Laurence Rowley-Abel
+25th August 2020	   |    Laurence Rowley-Abel
 
 <br>
 <img src = "/assets/images/brexit_tweets_page_photo.png" style = "width: 100%; display: block; margin-left: auto; margin-right: auto;">
@@ -182,11 +180,11 @@ However, on the whole, the pattern seems to be that tweets mentioning women focu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMTQ3NDYyLC05MjI4NDYzMDUsLTIwMz
-k3MDc1MDksLTE4ODc2NTMwNCwxNDc1MDg4MTU0LC0xNzk5MTQz
-ODgwLDQyNDU4Njc0LC0xNTAxOTY5MDQsLTc1NjkyMjU4NiwtMj
-E0NjE3NTYxNCwxMTk4NjMyMjg3LC0xMDA1Nzc2Mzc2LC0yMDIw
-MDY0NTMwLC05OTA1ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMj
-M0LC0zMzE0ODQ2NjQsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYz
-ODM5MzUzXX0=
+eyJoaXN0b3J5IjpbLTE0NjczMTMxNTQsMjUxMTQ3NDYyLC05Mj
+I4NDYzMDUsLTIwMzk3MDc1MDksLTE4ODc2NTMwNCwxNDc1MDg4
+MTU0LC0xNzk5MTQzODgwLDQyNDU4Njc0LC0xNTAxOTY5MDQsLT
+c1NjkyMjU4NiwtMjE0NjE3NTYxNCwxMTk4NjMyMjg3LC0xMDA1
+Nzc2Mzc2LC0yMDIwMDY0NTMwLC05OTA1ODI2MzIsOTEzNzk1Nj
+E0LC0xMjA0MDUyMjM0LC0zMzE0ODQ2NjQsLTExODI2MTE0NTEs
+MjIzMzMxOF19
 -->
