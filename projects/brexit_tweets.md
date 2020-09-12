@@ -176,7 +176,7 @@ So what is driving these differences? To some extent, this is an extension of wh
 
 The exception here is "No Deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a tendency, which has been highlighted in <href src = "https://www.ubcpress.ca/gendered-news">previous research,</href> for male politicians to be covered in the media in relation to "hard" policy areas such as foreign policy, trade and the economy, whilst female politicians are more associated with the "softer", more abstract areas of politics related to "social affairs". Debates over the UK's trading position in the event of no deal, as well as the potential impact this might have on the Irish border, are an example of a "hard" policy issue, and this could explain why it was discussed more in relation to men. However, this distinction does not necessarily play out across the other topics - whilst the less-concrete issue of "democracy" was brought up more when tweeting about women, "sovereignty and independence" are equally abstract topics and they were discussed more in relation to men. Equally, immigration could be seen as a "hard" topic, yet it comes up more in tweets mentioning men.
 
-However, on the whole, the pattern seems to be that 
+However, on the whole, the pattern seems to be that tweets mentioning women focused on topics that were favoured by the pro-Remain
 
 <div class = "iframe_container">
 	<div class = "desktop_only_box" style = "width: 100%; height: 100%;">
@@ -187,11 +187,11 @@ However, on the whole, the pattern seems to be that
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNzA4MzYxLC0yMDM5NzA3NTA5LC0xOD
-g3NjUzMDQsMTQ3NTA4ODE1NCwtMTc5OTE0Mzg4MCw0MjQ1ODY3
-NCwtMTUwMTk2OTA0LC03NTY5MjI1ODYsLTIxNDYxNzU2MTQsMT
-E5ODYzMjI4NywtMTAwNTc3NjM3NiwtMjAyMDA2NDUzMCwtOTkw
-NTgyNjMyLDkxMzc5NTYxNCwtMTIwNDA1MjIzNCwtMzMxNDg0Nj
-Y0LC0xMTgyNjExNDUxLDIyMzMzMTgsMTk2MzgzOTM1MywtMTUz
-MzYzNTUwOV19
+eyJoaXN0b3J5IjpbLTIyMDYxMjkwOSwtMjAzOTcwNzUwOSwtMT
+g4NzY1MzA0LDE0NzUwODgxNTQsLTE3OTkxNDM4ODAsNDI0NTg2
+NzQsLTE1MDE5NjkwNCwtNzU2OTIyNTg2LC0yMTQ2MTc1NjE0LD
+ExOTg2MzIyODcsLTEwMDU3NzYzNzYsLTIwMjAwNjQ1MzAsLTk5
+MDU4MjYzMiw5MTM3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4ND
+Y2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLTE1
+MzM2MzU1MDldfQ==
 -->
