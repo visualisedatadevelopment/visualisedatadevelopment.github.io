@@ -176,7 +176,7 @@ So what is driving these differences? To some extent, this is an extension of wh
 
 The exception here is "No Deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a tendency, which has been highlighted in <href src = "https://www.ubcpress.ca/gendered-news">previous research,</href> for male politicians to be covered in the media in relation to "hard" policy areas such as foreign policy, trade and the economy, whilst female politicians are more associated with the "softer", more abstract areas of politics related to "social affairs". Debates over the UK's trading position in the event of no deal, as well as the potential impact this might have on the Irish border, are an example of a "hard" policy issue, and this could explain why it was discussed more in relation to men. However, this distinction does not necessarily play out across the other topics - whilst the less-concrete issue of "democracy" was brought up more when tweeting about women, "sovereignty and independence" are equally abstract topics and they were discussed more in relation to men. Equally, immigration could be seen as a "hard" topic, yet it comes up more in tweets mentioning men.
 
-However, on the whole, the pattern seems to be that tweets mentioning women focused on topics that were favoured by the pro-Remain side, whilst tweets mentioning men were centred around issues talked about by the pro-Leave side. This reinforces the idea tha
+However, on the whole, the pattern seems to be that tweets mentioning women focused on topics that were favoured by the pro-Remain side, whilst tweets mentioning men were centred around issues talked about by the pro-Leave side. This reinforces the idea that there is a gendered divide in discussions around Brexit, with Leave discourse being more male-focused than Remain discourse.
 
 <div class = "iframe_container">
 	<div class = "desktop_only_box" style = "width: 100%; height: 100%;">
@@ -187,11 +187,11 @@ However, on the whole, the pattern seems to be that tweets mentioning women focu
 </div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE4MjE3NTUsLTIwMzk3MDc1MDksLT
-E4ODc2NTMwNCwxNDc1MDg4MTU0LC0xNzk5MTQzODgwLDQyNDU4
-Njc0LC0xNTAxOTY5MDQsLTc1NjkyMjU4NiwtMjE0NjE3NTYxNC
-wxMTk4NjMyMjg3LC0xMDA1Nzc2Mzc2LC0yMDIwMDY0NTMwLC05
-OTA1ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMjM0LC0zMzE0OD
-Q2NjQsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYzODM5MzUzLC0x
-NTMzNjM1NTA5XX0=
+eyJoaXN0b3J5IjpbLTkyMjg0NjMwNSwtMjAzOTcwNzUwOSwtMT
+g4NzY1MzA0LDE0NzUwODgxNTQsLTE3OTkxNDM4ODAsNDI0NTg2
+NzQsLTE1MDE5NjkwNCwtNzU2OTIyNTg2LC0yMTQ2MTc1NjE0LD
+ExOTg2MzIyODcsLTEwMDU3NzYzNzYsLTIwMjAwNjQ1MzAsLTk5
+MDU4MjYzMiw5MTM3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4ND
+Y2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5NjM4MzkzNTMsLTE1
+MzM2MzU1MDldfQ==
 -->
