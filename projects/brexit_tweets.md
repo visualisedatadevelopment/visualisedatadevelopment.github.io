@@ -154,7 +154,7 @@ Looking at these charts together then, we see that when we look at male-focused 
  
 ## What do people tweet about when discussing men and women and Brexit?
 
-As well as looking at differences in political stance, we might also ask whether the content of discourse changes when talking about male and female figures  - what are people tweeting about when they discuss women and men, anare the same topics discussed, and is the language used the same?
+As well as looking at differences in political stance, we might also ask whether the content of discourse changes when talking about male and female figures  - what are people tweeting about when they discuss women and men, and are the tweets centred around the same topics?
 
 To analyse this we took a set of common topics relating to Brexit (trade, immigration, no deal etc.) and created sets of key words for each topic. We then used these key words to find tweets that discussed each topic. This allowed us to see how commonly a topic was discussed, and in particular, to compare how likely they were to be brought up in a tweet that also discusses a man or a woman. The plot below compares tweets mentioning men to tweets mentioning women in terms of how likely they were to talk about a certain topic.
 
@@ -178,13 +178,15 @@ The exception here is "No Deal/the Backstop", which was a topic more discussed w
 
 However, on the whole, the pattern seems to be that tweets mentioning women focused on topics that were favoured by the pro-Remain side, whilst tweets mentioning men were centred around issues talked about by the pro-Leave side. This reinforces the idea that there is a gendered divide in discussions around Brexit, with Leave discourse being more male-focused than Remain discourse.
 
+## Some closing thoughts
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjMwNzUzMTUsLTkyMjg0NjMwNSwtMj
-AzOTcwNzUwOSwtMTg4NzY1MzA0LDE0NzUwODgxNTQsLTE3OTkx
-NDM4ODAsNDI0NTg2NzQsLTE1MDE5NjkwNCwtNzU2OTIyNTg2LC
-0yMTQ2MTc1NjE0LDExOTg2MzIyODcsLTEwMDU3NzYzNzYsLTIw
-MjAwNjQ1MzAsLTk5MDU4MjYzMiw5MTM3OTU2MTQsLTEyMDQwNT
-IyMzQsLTMzMTQ4NDY2NCwtMTE4MjYxMTQ1MSwyMjMzMzE4LDE5
-NjM4MzkzNTNdfQ==
+eyJoaXN0b3J5IjpbMjUxMTQ3NDYyLC05MjI4NDYzMDUsLTIwMz
+k3MDc1MDksLTE4ODc2NTMwNCwxNDc1MDg4MTU0LC0xNzk5MTQz
+ODgwLDQyNDU4Njc0LC0xNTAxOTY5MDQsLTc1NjkyMjU4NiwtMj
+E0NjE3NTYxNCwxMTk4NjMyMjg3LC0xMDA1Nzc2Mzc2LC0yMDIw
+MDY0NTMwLC05OTA1ODI2MzIsOTEzNzk1NjE0LC0xMjA0MDUyMj
+M0LC0zMzE0ODQ2NjQsLTExODI2MTE0NTEsMjIzMzMxOCwxOTYz
+ODM5MzUzXX0=
 -->
