@@ -172,7 +172,7 @@ The chart shows some interesting differences, with tweets talking about men bein
 
 So what is driving these differences? To some extent, this is an extension of what we saw above in terms of differences in how much pro-Leave/Remain tweets discuss different genders. This is because the the topics that were more likely to be brought up when discussing men are also generally those that were more likely to be brought up in pro-Leave tweets: tweets discussing trade were 60% pro-Leave, 40% pro-Remain, and tweets discussing sovereignty/independence were 65% pro-Leave 35% pro-Remain. Likewise, topics that were discussed more in relation to women were also more likely to mentioned by pro-Remain tweets: tweets discussing immigration were 40% pro-Leave, 60% pro-Remain and tweets discussing democracy were 41% pro-Leave, 59% pro-Remain. This suggests that the association between a tweet discussing women and being pro-Remain (and vice versa) is also affecting the content of what is being tweeted about in relation to each gender.
 
-The exception here is "No Deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a tendency, which has been highlighted in <a href = "https://www.ubcpress.ca/gendered-news">previous research,</a> for male politicians to be covered in the media in relation to "hard" policy areas such as foreign policy, trade and the economy, whilst female politicians are more associated with the "softer", more abstract areas of politics related to "social affairs". Debates over the UK's trading position in the event of no deal, as well as the potential impact this might have on the Irish border, are an example of a "hard" policy issue, and this could explain why it was discussed more in relation to men. However, this distinction does not necessarily play out across the other topics - whilst the less-concrete issue of "democracy" was brought up more when tweeting about women, "sovereignty and independence" are equally abstract topics and they were discussed more in relation to men. Equally, immigration could be seen as a "hard" topic, yet it comes up more in tweets mentioning men.
+The exception here is "No Deal/the Backstop", which was a topic more discussed when talking about men, but was also featured in more pro-Remain tweets. This may be reflecting a tendency, which has been highlighted in <a href = "https://www.ubcpress.ca/gendered-news">previous research,</a> for male politicians to be covered in the media in relation to "hard" policy areas such as foreign policy, trade and the economy, whilst female politicians are more associated with the "softer", more abstract areas of politics related to "social affairs". Debates over the UK's trading position in the event of no deal, as well as the potential impact this might have on the Irish border, are an example of a "hard" policy issue, and this could explain why it was discussed more in relation to men. However, this distinction does not necessarily play out across the other topics - whilst the less-concrete issue of "democracy" was brought up more when tweeting about women, "sovereignty and independence" are equally abstract topics and they were discussed more in relation to men. Equally, immigration could be seen as a "hard" topic, yet it comes up more in tweets mentioning women.
 
 However, on the whole, the pattern seems to be that tweets mentioning women focused on topics that were favoured by the pro-Remain side, whilst tweets mentioning men were centred around issues talked about by the pro-Leave side. This reinforces the idea that there is a gendered divide in discussions around Brexit, with Leave discourse being more male-focused than Remain discourse.
 
@@ -180,11 +180,11 @@ However, on the whole, the pattern seems to be that tweets mentioning women focu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjczMTMxNTQsMjUxMTQ3NDYyLC05Mj
-I4NDYzMDUsLTIwMzk3MDc1MDksLTE4ODc2NTMwNCwxNDc1MDg4
-MTU0LC0xNzk5MTQzODgwLDQyNDU4Njc0LC0xNTAxOTY5MDQsLT
-c1NjkyMjU4NiwtMjE0NjE3NTYxNCwxMTk4NjMyMjg3LC0xMDA1
-Nzc2Mzc2LC0yMDIwMDY0NTMwLC05OTA1ODI2MzIsOTEzNzk1Nj
-E0LC0xMjA0MDUyMjM0LC0zMzE0ODQ2NjQsLTExODI2MTE0NTEs
-MjIzMzMxOF19
+eyJoaXN0b3J5IjpbMTAzNDMxMTcwMiwtMTQ2NzMxMzE1NCwyNT
+ExNDc0NjIsLTkyMjg0NjMwNSwtMjAzOTcwNzUwOSwtMTg4NzY1
+MzA0LDE0NzUwODgxNTQsLTE3OTkxNDM4ODAsNDI0NTg2NzQsLT
+E1MDE5NjkwNCwtNzU2OTIyNTg2LC0yMTQ2MTc1NjE0LDExOTg2
+MzIyODcsLTEwMDU3NzYzNzYsLTIwMjAwNjQ1MzAsLTk5MDU4Mj
+YzMiw5MTM3OTU2MTQsLTEyMDQwNTIyMzQsLTMzMTQ4NDY2NCwt
+MTE4MjYxMTQ1MV19
 -->
