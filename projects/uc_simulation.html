@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Scrollama: Sticky Side Example</title>
+    <meta name="description" content="Scrollama: Sticky Side Example" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="../style.css" />
+    <style>
+      #scrolly {
+        position: relative;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        background-color: #f3f3f3;
+        padding: 1rem;
+      }
+
+      #scrolly > * {
+        -webkit-box-flex: 1;
+        -ms-flex: 1;
+        flex: 1;
+      }
+
+      article {
+        position: relative;
+        padding: 0 1rem;
+        max-width: 20rem;
+      }
+
+      figure {
+        position: -webkit-sticky;
+        position: sticky;
+        width: 100%;
+        margin: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        background-color: white;
+        z-index: 0;
+      }
+
+      figure p {
+        text-align: center;
+        padding: 1rem;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -moz-transform: translate(-50%, -50%);
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        font-size: 8rem;
+        font-weight: 900;
+        color: #fff;
+      }
+
+      .step {
+        margin: 0 auto 2rem auto;
+        color: #3b3b3b;
+      }
+
+      .step:last-child {
+        margin-bottom: 100px;
+      }
+
+      .step.is-active {
+        color: #3b3b3b;
+      }
+
+      .step p {
+        text-align: center;
+        padding: 1rem;
+        font-size: 14px;
+        text-align: left;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+
+      <section id="intro">
+        <h1 class="intro__hed">Why £20/week isn't just two extra hours work for Universal Credit claimants</h1>
+        <p class="intro__dek">
+          As of 6th October, the government is removing the extra £20/week that was added to Universal Credit payments during the pandemic. On 13th September, the Work and Pensions Secretary, Thérèse Coffey claimed on BBC Breakfast that this £20 could be made up by claimants through finding an extra two hours of work each week. But due to the way Universal Credit works, this claim is misleading and in many cases will not be true. Scroll down to find out why.
+        </p>
+      </section>
+
+      <section id="scrolly">
+        <article>
+          <div class="step" data-step="1" style = "padding-top: 100px;">
+            <p>We can imagine someone claiming Universal Credit who is trying to work extra hours to make up the lost £20, and plot how much they would earn against how many extra hours they worked, assuming they are working at the National Minimum Wage of £8.91/hour.</p>
+          </div>
+          <div class="step" data-step="2">
+            <p>We can first just look at the raw extra pay they would receive...</p>
+          </div>
+          <div class="step" data-step="3">
+            <p>...if we do this, we see that they would need to work 2.25 extra hours to get £20 raw extra pay. However, this doesn't take into account the Universal Credit taper - for each pound earned, a claimants benefit amount is reduced by 63p, unless they are eligible for a work allowance (we'll get to that in a moment)...</p>
+          </div>
+          <div class="step" data-step="4">
+            <p>...if we take into account the taper, it is actually 6.07 extra hours that they would need to work in order to make up the £20.</p>
+            <p>We also need to account for taxt - if the claimant earns more than £184/week (roughly 21 hours at the minimum wage) then they'll be subject to 12% National Insurance payments and if they earn more than £242/week (roughly 27 hours at the minimum wage) then they'll be subject to 20% income tax. This then needs to be applied before we take off 63% for the taper...</p>
+          </div>
+          <div class="step" data-step="5">
+            <p>...so if the claimant is subject to tax, we see that they actually need to work an extra 8.92 hours per week in order to get back the lost £20.</p>
+            <p>However, there is also the Work Allowance - this is an amount that some claimants can earn before the taper kicks in. To be eligible, you must be responsible for a child or have a long-term illness or diability that effects your ability to work. This allowance is £293 per month for someone who has a housing cost element as part of their payment, and £515 for those who don't...</p>
+          </div>
+          <div class="step" data-step="6">
+            <p>...so if we take an example where someone was previously not working and now started working (and who has the housing element cost element), we see that they would need to work 2.25 hours to earn the £20 they lost from the Universal Credit reduction. This is the closest we come to Thérèse Coffey's claim.</p>
+            <p>However, the claimant may well have already been working some hours, meaning that extra hours could take them over their work allowance limit...</p>
+          </div>
+          <div class="step" data-step="7">
+            <p>...someone who was already working 7 hours/week would quickly exceed the work allowance limit if they took on extra hours, which would result in the taper kicking in. In this case, we see that they would need to work 3.99 hours to make back the lost £20.</p>
+            <p>We don't have figures on what proportion of people eligible for the Work Allowance have already used it up, but the latest data on the Dpartment for Work and Pensions (DWP) <a href = https://stat-xplore.dwp.gov.uk/webapi/jsf/dataCatalogueExplorer.xhtml>Stat Xplore portal</a> indicate that 39.9% of people on Universal Credit are in employment, meaning that (if they are eligible for the Work Allowance) they will already have used at least some of it. Aditionally, <a href = "https://www.gov.uk/government/publications/universal-credit-full-service-claimant-survey">a DWP survey</a> of claimants that was conducted in 2017 and 2018 indicatd that, of those in employment, 79% were working over 10 hours/week in 2017 (with that figure rising to 88% when the sample was resurveyed in 2018).</p>
+          </div>
+        </article>
+
+        <figure id = "myfig">
+
+        </figure>
+      </section>
+
+      <section id="outro"></section>
+    </main>
+
+    <!-- <div class='debug'></div> -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script type = "module" src="../countUp.min.js"></script>
+    <script src="../stickyfill.min.js"></script>
+    <script src="../scrollama.min.js"></script>
+
+    <script type = "module">
+
+    import { CountUp } from "../countUp.min.js";
+
+    document.documentElement.scrollTop
+    document.querySelector('html').style.scrollBehavior = '';
+    history.scrollRestoration = "manual";
+    window.onbeforeunload = function () {
+      window.scrollTo(0,0);
+    };
+
+    d3.csv("data.csv", function(data){
+
+    // using d3 for convenience
+    var main = d3.select("main");
+    var scrolly = main.select("#scrolly");
+    var figure = scrolly.select("figure");
+    var article = scrolly.select("article");
+    var step = article.selectAll(".step");
+
+    var figheight = window.innerHeight / 1.5;
+    var figwidth = document.getElementById("myfig").getBoundingClientRect().width;
+
+    console.log(figwidth);
+
+    var mysvg = figure.append("svg")
+                      .attr("width", figwidth)
+                      .attr("height", figheight);
+
+    var plotwidth = figwidth - 150 - 200;
+    var plotheight = figheight - 100;
+
+
+    var plot = mysvg.append("g")
+                    .attr("transform", "translate(100, 50)");
+
+    var xscale = d3.scaleLinear()
+                    .domain([0,10])
+                    .range([0, plotwidth]);
+
+    var xaxis = plot.append("g")
+                    .attr("class", "xaxis")
+                    .attr("transform", "translate(0,-500)")
+                    .call(d3.axisBottom(xscale));
+
+
+    var yscale = d3.scaleLinear()
+                    .domain([0, 90])
+                    .range([plotheight, 0]);
+
+    var yaxis = plot.append("g")
+                    .attr("class", "yaxis")
+                    .attr("transform", "translate(-500,0)")
+                    .call(d3.axisLeft(yscale));
+
+    var xtitle = xaxis.append("text")
+                      .attr("transform", "translate(" + plotwidth/2 + ", 35)")
+                      .attr("text-anchor", "middle")
+                      .attr("fill", "#000")
+                      .style("font-size", "12px")
+                      .text("Extra hours worked");
+
+    var ytitle = yaxis.append("text")
+                      .attr("transform", "translate(-40," + plotheight/2 + ") rotate(270)")
+                      .attr("text-anchor", "middle")
+                      .attr("fill", "#000")
+                      .style("font-size", "12px")
+                      .text("Extra income earned");
+
+    var rep_line = plot.append("path")
+                .datum(data)
+                .attr("class", "data_line raw_extra_pay")
+                .attr("fill", "none")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 1.5)
+                .attr("d", d3.line()
+                  .x(function(d) { return xscale(d.extra_hours) })
+                  .y(function(d) { return yscale(d.raw_extra_pay) })
+                );
+
+    var taper_line = plot.append("path")
+                .datum(data)
+                .attr("class", "data_line extra_pay_with_taper")
+                .attr("fill", "none")
+                .attr("stroke", "lightseagreen")
+                .attr("stroke-width", 1.5)
+                .attr("d", d3.line()
+                  .x(function(d) { return xscale(d.extra_hours) })
+                  .y(function(d) { return yscale(d.extra_pay_with_taper) })
+                );
+
+    var tapertax_line = plot.append("path")
+                .datum(data)
+                .attr("class", "data_line extra_pay_with_taper_tax")
+                .attr("fill", "none")
+                .attr("stroke", "goldenrod")
+                .attr("stroke-width", 1.5)
+                .attr("d", d3.line()
+                  .x(function(d) { return xscale(d.extra_hours) })
+                  .y(function(d) { return yscale(d.extra_pay_with_taper_tax) })
+                );
+
+    var wa0_line = plot.append("path")
+                .datum(data)
+                .attr("class", "data_line extra_pay_with_taper_tax")
+                .attr("fill", "none")
+                .attr("stroke", "firebrick")
+                .attr("stroke-width", 1.5)
+                .attr("d", d3.line()
+                  .x(function(d) { return xscale(d.extra_hours) })
+                  .y(function(d) { return yscale(d.extra_pay_wa_baseline_0)})
+                );
+
+    var wa7_line = plot.append("path")
+                .datum(data)
+                .attr("class", "data_line extra_pay_with_taper_tax")
+                .attr("fill", "none")
+                .attr("stroke", "darkmagenta")
+                .attr("stroke-width", 1.5)
+                .attr("d", d3.line()
+                  .x(function(d) { return xscale(d.extra_hours) })
+                  .y(function(d) { return yscale(d.extra_pay_wa_baseline_7)})
+                );
+
+      var hline = plot.append("line")
+                      .attr("x1", xscale(0))
+                      .attr("x2", xscale(10))
+                      .attr("y1", yscale(20)+0.5)
+                      .attr("y2", yscale(20)+0.5)
+                      .attr("stroke", "black")
+                      .attr("stroke-width", 1)
+                      .style("stroke-dasharray", ("3, 3"));
+
+      var hours_label = plot.append("g")
+                            .attr("opacity", 0)
+
+      var vline = hours_label.append("line")
+                        .attr("x1", 0)
+                        .attr("x2", 0)
+                        .attr("y1", 0)
+                        .attr("y2", plotheight)
+                        .attr("stroke", "seagreen")
+                        .attr("stroke-width", 8);
+
+      var counter = hours_label.append("text")
+                    .attr("id", "counter")
+                    .attr("x", 10)
+                    .attr("y", 25)
+                    .attr("text-anchor", "left")
+                    .style("font-size", "14px")
+                    .text(0);
+
+      hours_label.append("text")
+                .attr("x", 10)
+                .attr("y", 40)
+                .attr("text-anchor", "left")
+                .style("font-size", "14px")
+                .text("extra hours")
+
+      var counter_options = {
+        decimalPlaces: 2,
+        duration: 2.1,
+      };
+      var mycounter = new CountUp("counter", 0, counter_options);
+      mycounter.start();
+
+      plot.selectAll(".data_line").attr("opacity", 0);
+      hline.attr("opacity", 0);
+
+      var rep_label = plot.append("text")
+                          .attr("class", "data_label")
+                          .attr("x", plotwidth + 25)
+                          .attr("y", yscale(d3.max(data, function(d){return +d.raw_extra_pay;})))
+                          .attr("fill", "#000")
+                          .attr("opacity", 0)
+                          .style("font-size", "14px")
+                          .text("Raw extra pay");
+
+      var taper_label = plot.append("text")
+                          .attr("class", "data_label")
+                          .attr("x", plotwidth + 25)
+                          .attr("y", yscale(d3.max(data, function(d){return +d.extra_pay_with_taper;})))
+                          .attr("fill", "#000")
+                          .attr("opacity", 0)
+                          .style("font-size", "14px")
+                          .text("Extra income with taper");
+
+      var tapertax_label = plot.append("text")
+                          .attr("class", "data_label")
+                          .attr("x", plotwidth + 25)
+                          .attr("y", yscale(d3.max(data, function(d){return +d.extra_pay_with_taper_tax;})))
+                          .attr("fill", "#000")
+                          .attr("opacity", 0)
+                          .style("font-size", "14px")
+                          .text("Extra income with taper and tax");
+
+      var wa0_label = plot.append("g")
+                          .attr("class", "data_label")
+                          .attr("transform", "translate(" + (plotwidth + 25) + ", " + yscale(d3.max(data, function(d){return +d.extra_pay_wa_baseline_0;})) + ")")
+                          .attr("opacity", 0);
+
+      wa0_label.append("text")
+                          .attr("x", 0)
+                          .attr("y", 0)
+                          .attr("fill", "#000")
+                          .style("font-size", "14px")
+                          .text("Extra income with Work Allowance");
+
+      wa0_label.append("text")
+                          .attr("x", 0)
+                          .attr("y", 20)
+                          .attr("fill", "#000")
+                          .style("font-size", "14px")
+                          .text("and previously not working");
+
+      var wa7_label = plot.append("g")
+                          .attr("class", "data_label")
+                          .attr("transform", "translate(" + (plotwidth + 25) + ", " + yscale(d3.max(data, function(d){return +d.extra_pay_wa_baseline_7;})) + ")")
+                          .attr("opacity", 0);
+
+      wa7_label.append("text")
+                          .attr("x", 0)
+                          .attr("y", 0)
+                          .attr("fill", "#000")
+                          .style("font-size", "14px")
+                          .text("Extra income with Work Allowance");
+
+      wa7_label.append("text")
+                          .attr("x", 0)
+                          .attr("y", 20)
+                          .attr("fill", "#000")
+                          .style("font-size", "14px")
+                          .text("and already working 7 hours");
+
+      function update(myindex){
+        if (myindex == -1){
+          d3.select(".xaxis").transition().duration(3000).attr("transform", "translate(0," + plotheight + ")");
+          d3.select(".yaxis").transition().duration(3000).attr("transform", "translate(0,0)");
+          hline.transition().duration(1000).attr("opacity",0);
+          hours_label.transition().duration(1000).attr("opacity", 0).attr("transform", "translate(0,0)");
+          rep_line.transition().duration(1000).attr("opacity", 0);
+          rep_label.transition().duration(1000).attr("opacity", 0);
+          mycounter.update(0);
+        };
+        if (myindex == 0){
+          plot.selectAll(".data_line, .data_label").transition().duration(1000).attr("opacity", 0);
+          hline.transition().duration(1000).attr("opacity",0);
+          hours_label.transition().duration(1000).attr("opacity", 0).attr("transform", "translate(0,0)");
+          rep_line.transition().duration(1000).attr("opacity", 1).attr("stroke", "steelblue");
+          rep_label.transition().duration(1000).attr("opacity", 1).attr("y", yscale(d3.max(data, function(d){return +d.raw_extra_pay;})));
+          mycounter.update(0);
+        };
+        if (myindex == 1){
+          plot.selectAll(".data_line, .data_label").transition().duration(1000).attr("opacity", 0);
+          hline.transition().duration(1000).attr("opacity",1);
+          rep_line.transition().duration(1000).attr("opacity", 1).attr("stroke", "steelblue");
+          hours_label.transition().duration(1500).attr("opacity", 1).attr("transform", "translate(" + (xscale(2.245) - 2) + ", 0)");
+          vline.transition().duration(1500).attr("opacity", 0.3);
+          rep_label.transition().duration(1000).attr("opacity", 1);
+          counter.transition().duration(1500).attr("opacity", 1);
+          mycounter.update(2.25);
+
+        };
+        if (myindex == 2){
+          plot.selectAll(".data_line, .data_label").transition().duration(1000).attr("opacity", 0);
+          rep_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          taper_line.transition().duration(1000).attr("opacity", 1).attr("stroke", "lightseagreen");
+          hours_label.transition().duration(1500).attr("opacity", 1).attr("transform", "translate(" + (xscale(6.067) - 2) + ", 0)");
+          rep_label.transition().duration(1000).attr("opacity", 0.2);
+          taper_label.transition().duration(1000).attr("opacity", 1).attr("y", yscale(d3.max(data, function(d){return +d.extra_pay_with_taper;})));
+          mycounter.update(6.07);
+        };
+        if (myindex == 3){
+          plot.selectAll(".data_line, .data_label").transition().duration(1000).attr("opacity", 0);
+          rep_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          taper_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          tapertax_line.transition().duration(1000).attr("opacity", 1).attr("stroke", "goldenrod");
+          hours_label.transition().duration(1500).attr("opacity", 1).attr("transform", "translate(" + (xscale(8.922) - 2) + ", 0)");
+          rep_label.transition().duration(1000).attr("opacity", 0.2);
+          taper_label.transition().duration(1000).attr("opacity", 0.2);
+          tapertax_label.transition().duration(1000).attr("opacity", 1).attr("y", yscale(d3.max(data, function(d){return +d.extra_pay_with_taper_tax;})));
+          mycounter.update(8.92);
+        };
+        if (myindex == 4){
+          plot.selectAll(".data_line, .data_label").transition().duration(1000).attr("opacity", 0);
+          rep_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          taper_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          tapertax_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          wa0_line.transition().duration(1000).attr("opacity", 1).attr("stroke", "firebrick");
+          hours_label.transition().duration(1500).attr("opacity", 1).attr("transform", "translate(" + (xscale(2.245) - 2) + ", 0)");
+          rep_label.transition().duration(1000).attr("opacity", 0.2);
+          taper_label.transition().duration(1000).attr("opacity", 0.2);
+          tapertax_label.transition().duration(1000).attr("opacity", 0.2);
+          wa0_label.transition().duration(1000).attr("opacity", 1).attr("transform", "translate(" + (plotwidth + 25) + ", " + yscale(d3.max(data, function(d){return +d.extra_pay_wa_baseline_0;})) + ")");
+          mycounter.update(2.25);
+        };
+        if (myindex == 5){
+          plot.selectAll(".data_line, .data_label").transition().duration(1000).attr("opacity", 0);
+          rep_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          taper_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          tapertax_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          wa0_line.transition().duration(1000).attr("opacity", 0.2).attr("stroke", "grey");
+          wa7_line.transition().duration(1000).attr("opacity", 1).attr("stroke", "darkmagenta");
+          hours_label.transition().duration(1500).attr("opacity", 1).attr("transform", "translate(" + (xscale(3.99) - 2) + ", 0)");
+          rep_label.transition().duration(1000).attr("opacity", 0.2);
+          taper_label.transition().duration(1000).attr("opacity", 0.2);
+          tapertax_label.transition().duration(1000).attr("opacity", 0.2);
+          wa0_label.transition().duration(1000).attr("opacity", 0.2)
+          wa7_label.transition().duration(1000).attr("opacity", 1).attr("transform", "translate(" + (plotwidth + 25) + ", " + (yscale(d3.max(data, function(d){return +d.extra_pay_wa_baseline_7;})) - 20) + ")");
+          mycounter.update(3.99);
+        };
+      }
+
+      // initialize the scrollama
+      var scroller = scrollama();
+
+      // generic window resize listener event
+      function handleResize() {
+        // 1. update height of step elements
+        var stepH = Math.floor(window.innerHeight * 0.75);
+        step.style("height", stepH + "px");
+
+        var figureHeight = window.innerHeight / 1.5;
+        var figureMarginTop = (window.innerHeight - figureHeight) / 2;
+
+        figure
+          .style("height", figureHeight + "px")
+          .style("top", figureMarginTop + "px");
+
+        // 3. tell scrollama to update new element dimensions
+        scroller.resize();
+      }
+
+      // scrollama event handlers
+      function handleStepEnter(response) {
+        console.log(response);
+        // response = { element, direction, index }
+
+        // add color to current step only
+        step.classed("is-active", function(d, i) {
+          return i === response.index;
+        });
+
+        // update graphic based on step
+        update(response.index - 1);
+
+      }
+
+      function setupStickyfill() {
+        d3.selectAll(".sticky").each(function() {
+          Stickyfill.add(this);
+        });
+      }
+
+      function init() {
+        setupStickyfill();
+
+        // 1. force a resize on load to ensure proper dimensions are sent to scrollama
+        handleResize();
+
+        // 2. setup the scroller passing options
+        // 		this will also initialize trigger observations
+        // 3. bind scrollama event handlers (this can be chained like below)
+        scroller
+          .setup({
+            step: "#scrolly article .step",
+            offset: 0.6,
+            debug: false,
+          })
+          .onStepEnter(handleStepEnter);
+
+        // setup resize event
+        window.addEventListener("resize", handleResize);
+      }
+
+      // kick things off
+      init();
+      });
+    </script>
+  </body>
+</html>
