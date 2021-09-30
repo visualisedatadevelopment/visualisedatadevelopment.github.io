@@ -43,7 +43,7 @@ layout: uc_simulation_page
       </section>
 
       <section id="outro"></section>
-    </main>
+    
 
     <!-- <div class='debug'></div> -->
     <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -66,7 +66,7 @@ layout: uc_simulation_page
     d3.csv("./data.csv", function(data){
 
     // using d3 for convenience
-    var scrolly = main.select("#scrolly");
+    var scrolly = d3.select("#scrolly");
     var figure = scrolly.select("figure");
     var article = scrolly.select("article");
     var step = article.selectAll(".step");
