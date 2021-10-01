@@ -80,11 +80,11 @@ layout: uc_simulation_page
                       .attr("width", figwidth)
                       .attr("height", figheight);
 
-    var plotwidth = figwidth - 100 - 200;
-    var plotheight = figheight - 100;
+    var plotwidth = figwidth * 0.45;
+    var plotheight = figheight * 0.75;
 
     console.log(plotwidth);
-    
+
     var plot = mysvg.append("g")
                     .attr("transform", "translate(80, 50)");
 
