@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Gender and Brexit Discourse on Twitter
-25th August 2020	   |    Laurence Rowley-Abel
+25th August 2020
 
 <br>
 <img src = "/assets/images/brexit_tweets_page_photo.png" style = "width: 100%; display: block; margin-left: auto; margin-right: auto;">
