@@ -132,7 +132,8 @@ img {
 
 .front_display_item_middle {
   transition: .5s ease;
-  opacity: 1;
+  background-color: #087f49a6;
+  backdrop-filter: blur(3px);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -142,13 +143,10 @@ img {
 }
 
 .front_display_item:hover .front_display_item_middle {
-  opacity: 1;
   width: 100%;
 }
 
 .view_text {
-  background-color: #087f49a6;
-  backdrop-filter: blur(3px);
   padding: 16px 32px;
   font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ffffff;
