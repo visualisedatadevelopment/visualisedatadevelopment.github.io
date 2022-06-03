@@ -1,0 +1,90 @@
+body {
+  background-color: #F0F0F0
+}
+
+body::-webkit-scrollbar { width: 0 !important }
+
+svg{
+  z-index: -1;
+}
+
+.xgrid {
+  stroke: white;
+  stroke-width: 2;
+}
+.ygrid {
+  stroke: white;
+  stroke-width: 2;
+}
+text{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 14px;
+  paint-order: stroke;
+  stroke: white;
+  stroke-width: 5px;
+}
+
+.xaxis path{
+  stroke: #868686;
+  stroke-width: 2px;
+}
+
+.xaxis line{
+  stroke: #868686;
+  stroke-width: 2px;
+}
+
+
+.yaxis path{
+  stroke: #868686;
+  stroke-width: 2px;
+}
+
+.yaxis line{
+  stroke: #868686;
+  stroke-width: 2px;
+}
+
+
+text.label {
+  font-size: 18px;
+  dominant-baseline: middle;
+}
+
+.bigdiv{
+  height: 10000px;
+  width: 30%;
+  float: left;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.bigsection{
+  height:10000px;
+}
+
+figure{
+  position: sticky;
+  top: 10px;
+  width: 60%;
+  float: left;
+}
+
+div.step{
+  height:auto;
+  padding-bottom: 100px;
+  opacity: 0.25;
+}
+
+.step.is-active{
+  opacity: 1;
+}
+
+.regline{
+  stroke: #B7708E;
+  stroke-width: 4px;
+}
+
+.arrow {
+  stroke: #868686;
+  stroke-width: 1.5px;
+}
