@@ -146,10 +146,11 @@ img {
 }
 
 .view_text {
-  background-color: #d3f2e4;
+  background-color: #087f49a6;
+  backdrop-filter: blur(3px);
   padding: 16px 32px;
   font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:#ffffff;
   font-weight:400;
 
 }
