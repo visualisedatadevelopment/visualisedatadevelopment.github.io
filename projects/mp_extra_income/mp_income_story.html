@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://unpkg.com/d3-arrow@0.0.25/dist/d3-arrow.min.js"></script>
+    <script src="https://rawgit.com/Kcnarf/d3-beeswarm/master/build/d3-beeswarm.js"></script>
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-path@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-shape@3"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="./stickyfill.min.js"></script>
+    <script src="./scrollama.min.js"></script>
+    <script type="text/javascript">
+      document.body.addEventListener("wheel", function(e){
+        e.preventDefault();
+        window.scrollTo(0, window.scrollY + e.deltaY/10);
+      }, {passive: false});
+    </script>
+
+
+
+    <section id = "scrolly" class = "bigsection">
+      <figure id = "myfig"></figure>
+      <article class = "bigdiv" id = "article">
+
+        <h1>MPs' Extra Income</h1>
+
+        <div class = "step" id = "s1" stepdata = "step1">
+
+          <p>Members of Parliament are required to declare income they receive from activities outside of their job as MPs in order to avoid conflicts of interest. Some register zero, while others earn hundreds of thousands of pounds in additional income over the course of a parliament. This post visualises those declarations for the 2017 - 2019 parliament, using <a style = 'z-index: 1000;' href = 'https://datalobo.com/mp-earnings/'>data</a> put together by the Data Lobo team.</p>
+          <p>Each circle represents an MP - hover over them to see who they are and how much they declared. MPs that declared more have bigger circles.</p>
+          <p>Scroll down to explore further...</p>
+        </div>
+        <div class = "step" stepdata = "step2">
+          <p>...the majority of MPs did not declare any extra income across the parliament. But 277 members - 43% of the total - did declare something...</p>
+        </div>
+        <div class = "step" stepdata = "step3">
+          <p>...if we break it down by party we can see that Conservative MPs are more likely than those in Labour to be earning an extra salary. 47% of Conservatives declared extra income, compared to 38% of Labour MPs and 39% of those from other parties...</p>
+        </div>
+        <div class = "step" stepdata = "step4">
+          <p>...of course, amongst those MPs who do have an additional salary, there is a lot variation in the size of their extra income. So let's look at these MPs in more detail...</p>
+        </div>
+        <div class = "step" stepdata = "step5">
+          <p>...we can see that the majority of MPs are bunched up at the lower end, declaring less than £40000 extra income. Boris Johnson, on the other hand, earned vastly more than anyone else, bringing in almost £800000 over the course of the parliament. This huge spread makes it hard to visualise on a normal scale, so let's plot the MPs' earnings on a log scale instead...</p>
+        </div>
+        <div class = "step" stepdata = "step6">
+          <p>...now the x-axis doesn't go up linearly, but instead increases ten fold with each marker. We can see how the average amount being earned varied across parties - of those who had extra income, the median Conservative MP declared £12633, while the median Labour MP declared £1345...</p>
+        </div>
+        <div class = "step" stepdata = "step7">
+          <p>...but other than party, what else was associated with higher extra earnings? One idea has been that MPs in safer seats are likely to spend more time focused on work outside their MP duties. While a slightly greater proportion of MPs in "safe" seats (ie: with at least a 10% majority in the 2017 General Election), did declare extra income compared to those in more marginal seats, the difference is not statistically significant. Similarly, this graph plots how much MPs earned against the size of their majority (only those who declared extra income are shown). While there is a slight positive correlation, again, it is not statistically significant...</p>
+        </div>
+        <div class = "step" stepdata = "step8">
+          <p>...however, if we just look at Conservative MPs, we see that there is a significant correlation between majority size and extra earnings - Conservative MPs with larger majorities tended to earn greater amounts in extra income. Labour MPs, on the other hand, don't show a significant correlation. Of course, we can't assume this correlation amongst Conservatives is causal - for example, it may be that MPs from wealthier areas earn more and those same areas show greater support for the Conservative Party...</p>
+        </div>
+        <div class = "step" stepdata = "step9">
+          <p>...finally, we have can look at the geographical spread of extra earnings using a cartogram. Here, the map of the UK has been distorted so that each constituency is the same size and coloured according to how much the MP earns, with higher values filled in darker. As we can see from the map and the below table, there is a fair amount of regional variation, with MPs representing London and the South East earning the most extra income, and those from the North East and Northern Ireland earning the least.</p>
+          <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
+          <thead>
+          <tr>
+          <th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: left;'>Region</th>
+          <th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: left;'>Mean extra income</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+          <td style='text-align: left;'>South East</td>
+          <td style='text-align: left;'>£26893</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>London</td>
+          <td style='text-align: left;'>£23536</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>West Midlands</td>
+          <td style='text-align: left;'>£18263</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>East</td>
+          <td style='text-align: left;'>£16310</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>South West</td>
+          <td style='text-align: left;'>£15834</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>East Midlands</td>
+          <td style='text-align: left;'>£11718</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>Yorkshire & The Humber</td>
+          <td style='text-align: left;'>£4395</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>Scotland</td>
+          <td style='text-align: left;'>£3891</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>North West</td>
+          <td style='text-align: left;'>£3683</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>Wales</td>
+          <td style='text-align: left;'>£2679</td>
+          </tr>
+          <tr>
+          <td style='text-align: left;'>Northern Ireland</td>
+          <td style='text-align: left;'>£2128</td>
+          </tr>
+          <tr>
+          <td style='border-bottom: 2px solid grey; text-align: left;'>North East</td>
+          <td style='border-bottom: 2px solid grey; text-align: left;'>£902</td>
+          </tr>
+          </tbody>
+          </table>
+
+        </div>
+      </article>
+    </section>
+
+    <script type = "text/javascript" src = "plot.js"></script>
+  </body>
+</html>
